@@ -1,0 +1,16 @@
+{
+    "data" : [
+        {
+            "resId" : "20210830114600",
+            "thumbPath" : "http://tianxianbob.com/Xingye710_Page/share_ios.jpeg",
+            "isPaoFu" : 1,
+            "type": 1
+        },
+        {
+            "resId" : "20210830114700",
+            "thumbPath" : "http://tianxianbob.com/Xingye710_Page/share_ios.jpeg",
+            "isPaoFu" : 0,
+            "type": 2
+        }
+    ]
+}
