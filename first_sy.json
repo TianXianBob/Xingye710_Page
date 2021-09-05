@@ -61,7 +61,7 @@
             "maxCount":100,
             "lineCount":1,
             "lineSpace":5,
-            "characterSpace":5,
+            "characterSpace":0,
             "underLineStyle" : 0,
             "canEdit" : 1,
             "shadow":{
