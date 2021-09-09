@@ -13,6 +13,7 @@
         "thumbPath":"www.bob.com/shuiyingdi/a.png",
         "canvas":{
             "width":150,
+            "cornerRadius":0,
             "height":150,
             "color":{
                 "red":255,
