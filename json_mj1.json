@@ -27,7 +27,13 @@
             "y":30,
             "width":70,
             "height":75,
-            "path":"http://tianxianbob.com/Xingye710_Page/sy_tuzhang_firstSY/img_mj1.png"
+            "path":"http://tianxianbob.com/Xingye710_Page/sy_tuzhang_firstSY/img_mj1.png",
+            "color":{
+                "red":0,
+                "green":0,
+                "blue":0,
+                "alpha":1
+            }
         }
         ],
         "textPieces":[
