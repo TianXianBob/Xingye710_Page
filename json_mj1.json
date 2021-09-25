@@ -51,6 +51,8 @@
             "minFontSize":1,
             "maxCount":5,
             "angle":0,
+            "offsetX":0,
+            "offsetY":0,
             "verticalFlip":0,
             "horizonFlip":0,
             "lineCount":1,
