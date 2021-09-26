@@ -46,7 +46,7 @@
             "text":"微商水印帝",
             "textAlign":0,
             "fontName":"PingFangSC-Medium",
-            "defaultFontSize":1,
+            "defaultFontSize":10,
             "maxFontSize":13,
             "minFontSize":1,
             "maxCount":5,
