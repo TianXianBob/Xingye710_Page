@@ -53,7 +53,7 @@
             "angle":90,
             "offsetX":10,
             "offsetY":10,
-            "verticalFlip":0,
+            "verticalFlip":1,
             "horizonFlip":0,
             "lineCount":1,
             "lineSpace":0,
