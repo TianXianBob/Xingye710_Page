@@ -38,15 +38,15 @@
         ],
         "textPieces":[
             {
-            "x":41,
+            "x":38,
             "y":109,
-            "width":88,
+            "width":95,
             "height":15,
             "type":1,
             "text":"微商水印帝",
             "textAlign":0,
             "fontName":"PingFangSC-Medium",
-            "defaultFontSize":12,
+            "defaultFontSize":1,
             "maxFontSize":13,
             "minFontSize":1,
             "maxCount":5,
