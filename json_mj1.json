@@ -50,7 +50,7 @@
             "maxFontSize":13,
             "minFontSize":1,
             "maxCount":5,
-            "angle":10,
+            "angle":90,
             "offsetX":10,
             "offsetY":10,
             "verticalFlip":0,
