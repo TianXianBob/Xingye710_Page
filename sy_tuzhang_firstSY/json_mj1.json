@@ -1,43 +1,60 @@
 {
-    "resId":"20210910232900",
-    "version":"1.0.0",
-    "type":1,
-    "name":"mj第一个水印",
-    "thumbPath":"www.bob.com/shuiyingdi/a.png",
-    "canvas":{
-        "width":160,
-        "height":160,
-        "cornerRadius" : 0,
-        "color":{
-            "red":255,
-            "green":255,
-            "blue":255,
-            "alpha":0
-        }
-    },
-    "imagePieces":[
-        {
+    "data":{
+        "resId":"20120902105000",
+        "version":"1.0.0",
+        "type":1,
+        "name":"我的第二个水印",
+        "themeColor":{
+            "red":169,
+            "green":169,
+            "blue":169,
+            "alpha":1
+        },
+        "thumbPath":"www.bob.com/shuiyingdi/a.png",
+        "canvas":{
+            "width":150,
+            "height":150,
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":0
+            }
+        },
+        "imagePieces":[
+            {
             "x":38,
             "y":30,
             "width":70,
             "height":75,
-            "path":"www.bob.com/myImage.png"
+            "path":"http://tianxianbob.com/Xingye710_Page/sy_tuzhang_firstSY/img_mj1.png",
+            "color":{
+                "red":0,
+                "green":0,
+                "blue":0,
+                "alpha":1
+            }
         }
-    ],
-    "textPieces":[
-        {
-            "x":41,
+        ],
+        "textPieces":[
+            {
+            "x":38,
             "y":109,
-            "width":88,
+            "width":95,
             "height":15,
             "type":1,
             "text":"微商水印帝",
             "textAlign":0,
             "fontName":"PingFangSC-Medium",
-            "defaultFontSize":13,
+            "defaultFontSize":10,
             "maxFontSize":13,
             "minFontSize":1,
             "maxCount":5,
+            "angle":90,
+            "offsetX":10,
+            "offsetY":10,
+            "verticalFlip":1,
+            "horizonFlip":0,
             "lineCount":1,
             "lineSpace":0,
             "characterSpace":6,
@@ -48,5 +65,6 @@
                 "alpha":1
             }
         }
-    ]
+        ]
+    }
 }
