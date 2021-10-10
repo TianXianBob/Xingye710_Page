@@ -51,56 +51,8 @@
             "verticalAlign":0,
             "text":"水印",
             "textAlign":0,
-            "fontName":"FZZJ-HLYHXSJW",
-            "defaultFontSize":30,
-            "maxCount":2,
-            "lineCount":1,
-            "lineSpace":0,
-            "characterSpace":0,
-            "shadow":{
-"shadowColor": {
-"red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-},
-                "opacity":0.2,
-                "shadowOffsetX":0,
-                "shadowOffsetY":3,
-                "shadowRadius":1
-            },
-            "border":{
-                "borderWidth":0,
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-                }
-            },
-            "color":{
-                "red":255,
-                "green":255,
-                "blue":255,
-                "alpha":1
-            }
-        },
-{
-            "x":64,
-            "y":10,
-            "width":73,
-            "height":112,
-            "type":2,
-            "verticalFlip":0,
-            "horizonFlip":0,
-            "angle":0,
-            "offsetX":0,
-            "offsetY":0,
-            "verticalAlign":0,
-            "text":"水印",
-            "textAlign":0,
-            "fontName":"FZZJ-HLYHXSJW",
-            "defaultFontSize":60,
+            "fontName":"电影海报字体",
+            "defaultFontSize":55,
             "maxCount":2,
             "lineCount":1,
             "lineSpace":0,
