@@ -18,10 +18,10 @@
     },
     "imagePieces":[
         {
-            "x":8.5,
-            "y":0.5,
-            "width":220.5,
-            "height":220.5,
+            "x":5,
+            "y":6,
+            "width":138,
+            "height":138,
             "verticalFlip":0,
             "horizonFlip":0,
             "offsetX":0,
@@ -38,10 +38,10 @@
     ],
     "textPieces":[
         {
-            "x":102,
-            "y":16.5,
-            "width":116.5,
-            "height":180,
+            "x":64,
+            "y":10,
+            "width":73,
+            "height":112,
             "type":2,
             "verticalFlip":0,
             "horizonFlip":0,
@@ -52,7 +52,7 @@
             "text":"水印",
             "textAlign":0,
             "fontName":"FZZJ-HLYHXSJW",
-            "defaultFontSize":96,
+            "defaultFontSize":60,
             "maxCount":2,
             "lineCount":1,
             "lineSpace":0,
