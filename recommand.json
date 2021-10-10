@@ -5,7 +5,7 @@
             "folderName" : "sy_shijian_firstSY",
             "resId" : "20210830114600",
             "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shijian_firstSY/thumb_sec.png",
-            "isPaoFu" : 1,
+            "isPaoFu" : 0,
             "type": 1
         },
         {
@@ -15,6 +15,14 @@
             "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_tuzhang_firstSY/thumb_mj1.png",
             "isPaoFu" : 0,
             "type": 2
+        },
+{
+            "jsonName" : "json_sec.json",
+            "folderName" : "sy_xingzhuang_01",
+            "resId" : "20211010184000",
+            "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_01/thumb_mj1.png",
+            "isPaoFu" : 0,
+            "type": 5
         }
     ]
 }
