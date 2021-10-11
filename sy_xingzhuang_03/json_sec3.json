@@ -166,7 +166,7 @@
                 "shadowRadius":1
             },
             "border":{
-                "borderWidth":0,
+                "borderWidth":1,
                 "color":{
                     "red":255,
                     "green":255,
