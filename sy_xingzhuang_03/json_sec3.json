@@ -104,9 +104,9 @@
             }
         },
 {
-            "x":48,
+            "x":37,
             "y":94,
-            "width":61,
+            "width":80,
             "height":13,
             "type":1,
             "verticalFlip":0,
@@ -116,7 +116,7 @@
             "offsetY":0,
             "verticalAlign":1,
             "text":"工作室",
-            "textAlign":0,
+            "textAlign":1,
             "fontName":"电影海报字体",
             "defaultFontSize":12,
             "maxCount":4,
