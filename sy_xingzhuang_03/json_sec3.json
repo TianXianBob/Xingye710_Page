@@ -56,9 +56,9 @@
     ],
     "textPieces":[
         {
-            "x":35,
+            "x":30,
             "y":40,
-            "width":82,
+            "width":89,
             "height":40,
             "type":1,
             "verticalFlip":0,
@@ -104,9 +104,9 @@
             }
         },
 {
-            "x":31,
+            "x":30,
             "y":94,
-            "width":80,
+            "width":89,
             "height":13,
             "type":1,
             "verticalFlip":0,
