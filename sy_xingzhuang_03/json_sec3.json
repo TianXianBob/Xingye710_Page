@@ -104,7 +104,7 @@
             "maxCount":4,
             "lineCount":1,
             "lineSpace":0,
-            "characterSpace":0,
+            "characterSpace":8,
             "shadow":{
 "shadowColor": {
 "red":255,
