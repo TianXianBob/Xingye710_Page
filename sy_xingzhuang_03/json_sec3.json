@@ -148,7 +148,7 @@
             "text":"VX:XXXX",
             "textAlign":1,
             "fontName":"方正美黑简体",
-            "defaultFontSize":12,
+            "defaultFontSize":10,
             "maxCount":100,
             "lineCount":1,
             "lineSpace":0,
