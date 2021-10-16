@@ -6,8 +6,8 @@
     "name":"mj第三个水印",
     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_03/thumb_mj3.png",
     "canvas":{
-        "width":150,
-        "height":150,
+        "width":240,
+        "height":240,
         "cornerRadius":0,
         "color":{
             "red":255,
@@ -18,10 +18,10 @@
     },
     "imagePieces":[
         {
-            "x":30,
-            "y":30,
-            "width":89,
-            "height":89,
+            "x":48,
+            "y":48,
+            "width":142.4,
+            "height":142.4,
             "verticalFlip":0,
             "horizonFlip":0,
             "offsetX":0,
@@ -34,14 +34,32 @@
                 "blue":255,
                 "alpha":1
             }
+        },
+   {
+            "x":64,
+            "y":126.5,
+            "width":111.5,
+            "height":20.5,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "offsetX":0,
+            "offsetY":0,
+            "angle":0,
+            "path":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_03/img_sec2.png",
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":1
+            }
         }
     ],
     "textPieces":[
         {
-            "x":31,
-            "y":40,
-            "width":86,
-            "height":40,
+            "x":99.5,
+            "y":60,
+            "width":120,
+            "height":66.5,
             "type":1,
             "verticalFlip":0,
             "horizonFlip":0,
@@ -51,8 +69,8 @@
             "verticalAlign":1,
             "text":"水印",
             "textAlign":1,
-            "fontName":"方正粗活意简体",
-            "defaultFontSize":36,
+            "fontName":"方正美黑简体",
+            "defaultFontSize":88.5,
             "maxCount":2,
             "lineCount":1,
             "lineSpace":0,
@@ -86,10 +104,10 @@
             }
         },
 {
-            "x":31,
-            "y":94,
-            "width":86,
-            "height":13,
+            "x":60,
+            "y":150,
+            "width":120,
+            "height":26,
             "type":1,
             "verticalFlip":0,
             "horizonFlip":0,
@@ -100,7 +118,7 @@
             "text":"工作室",
             "textAlign":1,
             "fontName":"电影海报字体",
-            "defaultFontSize":12,
+            "defaultFontSize":17.5,
             "maxCount":4,
             "lineCount":1,
             "lineSpace":0,
@@ -134,10 +152,10 @@
             }
         },
 {
-            "x":40,
-            "y":79,
-            "width":69,
-            "height":13,
+            "x":64,
+            "y":126.5,
+            "width":111.5,
+            "height":20.5,
             "type":1,
             "verticalFlip":0,
             "horizonFlip":0,
@@ -145,14 +163,14 @@
             "offsetX":0,
             "offsetY":0,
             "verticalAlign":1,
-            "text":"VX:XXXX",
+            "text":"VX:XXXXX",
             "textAlign":1,
             "fontName":"方正美黑简体",
-            "defaultFontSize":10,
-            "maxCount":100,
+            "defaultFontSize":15,
+            "maxCount":20,
             "lineCount":1,
             "lineSpace":0,
-            "characterSpace":0,
+            "characterSpace":8,
             "shadow":{
 "shadowColor": {
 "red":255,
@@ -171,16 +189,10 @@
                     "red":255,
                     "green":255,
                     "blue":255,
-                    "alpha":1
+                    "alpha":0
                 }
             },
             "color":{
-                "red":0,
-                "green":0,
-                "blue":0,
-                "alpha":1
-            },
-            "bgColor":{
                 "red":255,
                 "green":255,
                 "blue":255,
