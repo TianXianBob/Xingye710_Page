@@ -2,7 +2,7 @@
 "data" : {
     "resId":"20211012171400",
     "version":"1.0.0",
-    "isFullScreen":1,
+    "isFullScreen":0,
     "fullScreenCount":3,
     "type":2,
     "name":"mj第五个水印",
