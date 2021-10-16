@@ -245,10 +245,10 @@
             "textAlign":1,
             "fontName":"站酷小薇LOGO体",
             "defaultFontSize":5,
-            "maxCount":20,
+            "maxCount":30,
             "lineCount":1,
             "lineSpace":0,
-            "characterSpace":0,
+            "characterSpace":3,
             "shadow":{
 "shadowColor": {
 "red":255,
