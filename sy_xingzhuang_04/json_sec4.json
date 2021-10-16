@@ -51,7 +51,7 @@
             "verticalAlign":1,
             "text":"盗",
             "textAlign":1,
-            "fontName":"电影海报字体",
+            "fontName":"站酷小薇LOGO体",
             "defaultFontSize":50,
             "maxCount":1,
             "lineCount":1,
@@ -84,7 +84,200 @@
                 "blue":255,
                 "alpha":1
             }
+        },
+{
+            "x":85,
+            "y":17,
+            "width":50,
+            "height":48,
+            "type":1,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "angle":0,
+            "offsetX":0,
+            "offsetY":0,
+            "verticalAlign":1,
+            "text":"图",
+            "textAlign":1,
+            "fontName":"站酷小薇LOGO体",
+            "defaultFontSize":50,
+            "maxCount":1,
+            "lineCount":1,
+            "lineSpace":0,
+            "characterSpace":0,
+            "shadow":{
+"shadowColor": {
+"red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+},
+                "opacity":0.2,
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
+            },
+            "border":{
+                "borderWidth":0,
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+                }
+            },
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":1
+            }
+        },
+{
+            "x":18,
+            "y":90,
+            "width":50,
+            "height":48,
+            "type":1,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "angle":0,
+            "offsetX":0,
+            "offsetY":0,
+            "verticalAlign":1,
+            "text":"必",
+            "textAlign":1,
+            "fontName":"站酷小薇LOGO体",
+            "defaultFontSize":50,
+            "maxCount":1,
+            "lineCount":1,
+            "lineSpace":0,
+            "characterSpace":0,
+            "shadow":{
+"shadowColor": {
+"red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+},
+                "opacity":0.2,
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
+            },
+            "border":{
+                "borderWidth":0,
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+                }
+            },
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":1
+            }
+        },
+{
+            "x":85,
+            "y":90,
+            "width":50,
+            "height":48,
+            "type":1,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "angle":0,
+            "offsetX":0,
+            "offsetY":0,
+            "verticalAlign":1,
+            "text":"究",
+            "textAlign":1,
+            "fontName":"站酷小薇LOGO体",
+            "defaultFontSize":50,
+            "maxCount":1,
+            "lineCount":1,
+            "lineSpace":0,
+            "characterSpace":0,
+            "shadow":{
+"shadowColor": {
+"red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+},
+                "opacity":0.2,
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
+            },
+            "border":{
+                "borderWidth":0,
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+                }
+            },
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":1
+            }
+        },
+{
+            "x":18,
+            "y":70,
+            "width":112,
+            "height":9,
+            "type":1,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "angle":0,
+            "offsetX":0,
+            "offsetY":0,
+            "verticalAlign":1,
+            "text":"水印工作室VX：XXXXXX",
+            "textAlign":1,
+            "fontName":"站酷小薇LOGO体",
+            "defaultFontSize":5,
+            "maxCount":20,
+            "lineCount":1,
+            "lineSpace":0,
+            "characterSpace":0,
+            "shadow":{
+"shadowColor": {
+"red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+},
+                "opacity":0.2,
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
+            },
+            "border":{
+                "borderWidth":0,
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+                }
+            },
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":1
+            }
         }
+
 
     ]
 }
