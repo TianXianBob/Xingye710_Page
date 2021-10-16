@@ -6,8 +6,8 @@
     "name":"mj第四个水印",
     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_04/thumb_mj4.png",
     "canvas":{
-        "width":150,
-        "height":150,
+        "width":240,
+        "height":240,
         "cornerRadius":0,
         "color":{
             "red":255,
