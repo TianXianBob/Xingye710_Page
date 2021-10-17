@@ -71,6 +71,14 @@
             "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_quanping_02/thumb_mj1.png",
             "isPaoFu" : 0,
             "type": 2
+        },
+{
+            "jsonName" : "json_sec8.json",
+            "folderName" : "sy_keai_01",
+            "resId" : "20211012171400",
+            "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_keai_01/thumb_mj1.png",
+            "isPaoFu" : 0,
+            "type": 2
         }
     ]
 }
