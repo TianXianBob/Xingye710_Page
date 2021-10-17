@@ -52,7 +52,7 @@
             "text":"水",
             "textAlign":1,
             "fontName":"站酷小薇LOGO体",
-            "defaultFontSize":80,
+            "defaultFontSize":93,
             "maxCount":1,
             "lineCount":1,
             "lineSpace":0,
@@ -65,16 +65,16 @@
                     "alpha":0.3
 },
                 "opacity":0.2,
-                "shadowOffsetX":5,
-                "shadowOffsetY":5,
-                "shadowRadius":7
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
             },
             "border":{
                 "borderWidth":2,
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 }
             },
@@ -97,7 +97,7 @@
             "offsetX":0,
             "offsetY":0,
             "verticalAlign":1,
-            "text":"水",
+            "text":"印",
             "textAlign":1,
             "fontName":"站酷小薇LOGO体",
             "defaultFontSize":80,
@@ -113,16 +113,16 @@
                     "alpha":0.3
 },
                 "opacity":0.2,
-                "shadowOffsetX":5,
-                "shadowOffsetY":5,
-                "shadowRadius":7
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
             },
             "border":{
                 "borderWidth":2,
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 }
             },
