@@ -59,7 +59,7 @@
                         "alpha":0.3
                     },
                     "opacity":0.2,
-                    "shadowOffsetX":0,
+                    "shadowOffsetX":2,
                     "shadowOffsetY":3,
                     "shadowRadius":10
                 },
@@ -107,7 +107,7 @@
                         "alpha":0.3
                     },
                     "opacity":0.2,
-                    "shadowOffsetX":0,
+                    "shadowOffsetX":2,
                     "shadowOffsetY":3,
                     "shadowRadius":10
                 },
