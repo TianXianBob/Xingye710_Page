@@ -217,9 +217,9 @@
                     }
                 },
                 "color":{
-                     "red":244,
-                    "green":100,
-                    "blue":42,
+                     "red":255,
+                    "green":214,
+                    "blue":0,
                     "alpha":1
                 }
             }
