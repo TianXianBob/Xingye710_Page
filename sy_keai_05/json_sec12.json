@@ -10,10 +10,10 @@
             "height":240,
             "cornerRadius":0,
             "color":{
-                "red":213,
-                "green":0,
-                "blue":0,
-                "alpha":0.4
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":0
             }
         },
         "imagePieces":[

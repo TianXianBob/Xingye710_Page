@@ -45,7 +45,7 @@
                 "verticalAlign":1,
                 "text":"水",
                 "textAlign":1,
-                "fontName":"站酷小薇LOGO体",
+                "fontName":"华康方圆体",
                 "defaultFontSize":93,
                 "maxCount":1,
                 "lineCount":1,
@@ -61,7 +61,7 @@
                     "opacity":0.2,
                     "shadowOffsetX":2,
                     "shadowOffsetY":3,
-                    "shadowRadius":10
+                    "shadowRadius":0
                 },
                 "border":{
                     "borderWidth":2,
@@ -93,7 +93,7 @@
                 "verticalAlign":1,
                 "text":"印",
                 "textAlign":1,
-                "fontName":"站酷小薇LOGO体",
+                "fontName":"华康方圆体",
                 "defaultFontSize":80,
                 "maxCount":1,
                 "lineCount":1,
@@ -109,7 +109,7 @@
                     "opacity":0.2,
                     "shadowOffsetX":2,
                     "shadowOffsetY":3,
-                    "shadowRadius":10
+                    "shadowRadius":0
                 },
                 "border":{
                     "borderWidth":2,
