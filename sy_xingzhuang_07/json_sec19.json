@@ -20,7 +20,7 @@
         {
             "x":0,
             "y":3.5,
-            "width":420,
+            "width":240,
             "height":232.5,
             "verticalFlip":0,
             "horizonFlip":0,
@@ -38,7 +38,7 @@
     ],
     "textPieces":[
         {
-            "x":100.5,
+            "x":96.5,
             "y":94.5,
             "width":40,
             "height":40,
