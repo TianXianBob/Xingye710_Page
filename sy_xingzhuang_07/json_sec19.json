@@ -38,7 +38,7 @@
     ],
     "textPieces":[
         {
-            "x":96.5,
+            "x":100.5,
             "y":94.5,
             "width":40,
             "height":40,
@@ -87,7 +87,7 @@
         },
 {
             "x":42.5,
-             "y":123.5,
+             "y":135.5,
             "width":154.5,
             "height":29,
             "type":1,
@@ -137,7 +137,7 @@
              "x":42.5,
              "y":166,
             "width":154.5,
-            "height":29,
+            "height":14,
             "type":1,
             "verticalFlip":0,
             "horizonFlip":0,
@@ -148,7 +148,7 @@
             "text":"syds stuio VX:XXXXXX",
             "textAlign":1,
             "fontName":"站酷小薇LOGO体",
-            "defaultFontSize":11,
+            "defaultFontSize":9,
             "maxCount":20,
             "lineCount":1,
             "lineSpace":0,
