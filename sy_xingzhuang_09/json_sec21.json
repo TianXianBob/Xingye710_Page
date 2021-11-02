@@ -148,7 +148,7 @@
             "text":"水印工作室",
             "textAlign":1,
             "fontName":"站酷小薇LOGO体",
-            "defaultFontSize":36,
+            "defaultFontSize":28,
             "maxCount":20,
             "lineCount":1,
             "lineSpace":0,
@@ -175,9 +175,9 @@
                 }
             },
             "color":{
-                "red":0,
-                "green":0,
-                "blue":0,
+                "red":255,
+                "green":255,
+                "blue":255,
                 "alpha":1
             }
         },
@@ -223,9 +223,9 @@
                 }
             },
             "color":{
-                "red":0,
-                "green":0,
-                "blue":0,
+                "red":255,
+                "green":255,
+                "blue":255,
                 "alpha":1
             }
         }
