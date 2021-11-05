@@ -18,9 +18,27 @@
     },
     "imagePieces":[
         {
+            "x":177.5,
+            "y":94.5,
+            "width":29,
+            "height":42.5,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "offsetX":0,
+            "offsetY":0,
+            "angle":0,
+            "path":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_21/img_sec2.png",
+            "color":{
+                "red":230,
+                "green":0,
+                "blue":18,
+                "alpha":1
+            }
+        },
+        {
             "x":57.5,
             "y":0,
-            "width":149,
+            "width":124.5,
             "height":240,
             "verticalFlip":0,
             "horizonFlip":0,
