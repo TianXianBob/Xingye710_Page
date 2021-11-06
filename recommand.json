@@ -319,6 +319,14 @@
             "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_25/thumb_mj1.png",
             "isPaoFu" : 0,
             "type": 2
+        },
+{
+            "jsonName" : "json_sec39.json",
+            "folderName" : "sy_xingzhuang_26",
+            "resId" : "20211012171400",
+            "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_26/thumb_mj1.png",
+            "isPaoFu" : 0,
+            "type": 2
         }
     ]
 }
