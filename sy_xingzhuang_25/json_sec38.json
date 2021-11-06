@@ -39,7 +39,7 @@
     "textPieces":[
         {
             "x":22.5,
-            "y":108,
+            "y":114,
             "width":195.5,
             "height":22,
             "type":1,
@@ -56,7 +56,7 @@
             "maxCount":20,
             "lineCount":1,
             "lineSpace":0,
-            "characterSpace":10,
+            "characterSpace":0,
             "shadow":{
 "shadowColor": {
 "red":255,
