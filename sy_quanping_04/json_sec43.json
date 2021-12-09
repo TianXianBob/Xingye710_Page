@@ -1,0 +1,124 @@
+{
+"data" : {
+    "resId":"20211209145500",
+    "version":"1.0.0",
+    "type":2,
+    "name":"mj第四十三个水印",
+    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_quanping_04/thumb_mj1.png",
+    "canvas":{
+        "width":240,
+        "height":240,
+        "cornerRadius":0,
+        "color":{
+            "red":255,
+            "green":255,
+            "blue":255,
+            "alpha":0
+        }
+    },
+    "imagePieces":[
+        
+    ],
+    "textPieces":[
+    
+ {
+            "x":83.5,
+            "y":105.5,
+            "width":72.5,
+            "height":12.5,
+            "type":1,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "angle":0,
+            "offsetX":0,
+            "offsetY":0,
+            "verticalAlign":1,
+            "text":"微商水印大师",
+            "textAlign":1,
+            "fontName":"夏日风格字体",
+            "defaultFontSize":12,
+            "maxCount":20,
+            "lineCount":1,
+            "lineSpace":0,
+            "characterSpace":0,
+            "shadow":{
+"shadowColor": {
+"red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+},
+                "opacity":0.2,
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
+            },
+            "border":{
+                "borderWidth":0,
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+                }
+            },
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":1
+            }
+        },
+{
+            "x":83.5,
+            "y":121,
+            "width":72.5,
+            "height":11,
+            "type":1,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "angle":0,
+            "offsetX":0,
+            "offsetY":0,
+            "verticalAlign":1,
+            "text":"VX：XXXXXXXXX",
+            "textAlign":1,
+            "fontName":"夏日风格字体",
+            "defaultFontSize":10,
+            "maxCount":20,
+            "lineCount":1,
+            "lineSpace":0,
+            "characterSpace":0,
+            "shadow":{
+"shadowColor": {
+"red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+},
+                "opacity":0.2,
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
+            },
+            "border":{
+                "borderWidth":0,
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+                }
+            },
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":1
+            }
+        }
+
+    ]
+
+}
+}
