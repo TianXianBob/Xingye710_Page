@@ -141,6 +141,42 @@
                     "imageUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/leishe/leishe7.jpg"
                 }
             ]
-        }
+        },
+        {
+                    "title":"石膏",
+                    "tupian":[
+                        {
+                            "bendiName":"",
+                            "thumbUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao1_thumb.png",
+                            "imageUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao1.png"
+                        },
+                        {
+                            "bendiName":"",
+                            "thumbUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao2_thumb.png",
+                            "imageUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao2.png"
+                        },
+                        {
+                            "bendiName":"",
+                            "thumbUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao3_thumb.png",
+                            "imageUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao3.png"
+                        },
+                        {
+                            "bendiName":"",
+                            "thumbUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao4_thumb.png",
+                            "imageUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao4.png"
+                        },
+                        {
+                            "bendiName":"",
+                            "thumbUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao5_thumb.png",
+                            "imageUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao5.jpg"
+                        },
+                        {
+                            "bendiName":"",
+                            "thumbUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao6_thumb.png",
+                            "imageUrl":"http://tianxianbob.com/Xingye710_Page/bgImage/shigao/shigao6.png"
+                        }
+                        
+                    ]
+                }
     ]
 }
