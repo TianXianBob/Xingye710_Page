@@ -169,9 +169,9 @@
                     }
                 },
                 "color":{
-                    "red":220,
-                    "green":149,
-                    "blue":164,
+                    "red":221,
+                        "green":180,
+                        "blue":164,
                     "alpha":1
                 }
             },
