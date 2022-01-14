@@ -1,12 +1,12 @@
 {
 "data" : {
-    "resId":"20220114143900",
+    "resId":"20220114160700",
     "version":"1.0.0",
     "isFullScreen":1,
     "fullScreenCount":3,
     "type":2,
-    "name":"mj第五十二个水印",
-    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_quanping_12/thumb_mj1.png",
+    "name":"mj第五十四个水印",
+    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_quanping_14/thumb_mj1.png",
     "canvas":{
         "width":240,
         "height":240,
@@ -20,16 +20,16 @@
     },
     "imagePieces":[
         {
-            "x":8.5,
-            "y":5.5,
-            "width":224.5,
-            "height":210,
+            "x":0,
+            "y":0,
+            "width":240,
+            "height":240,
             "verticalFlip":0,
             "horizonFlip":0,
             "offsetX":0,
             "offsetY":0,
             "angle":0,
-            "path":"http://tianxianbob.com/Xingye710_Page/sy_quanping_12/img_sec1.png",
+            "path":"http://tianxianbob.com/Xingye710_Page/sy_quanping_14/img_sec1.png",
             "color":{
                 "red":255,
                 "green":255,
@@ -41,7 +41,7 @@
     "textPieces":[
         {
             "x":59.5,
-            "y":116,
+            "y":100,
             "width":121,
             "height":19,
             "type":1,
@@ -89,7 +89,7 @@
         },
  {
             "x":59.5,
-            "y":135.5,
+            "y":120.5,
            "width":121,
             "height":19,
             "type":1,
