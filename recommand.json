@@ -464,5 +464,13 @@
             "isPaoFu" : 0,
             "type": 2
         },
+{
+            "jsonName" : "json_sec57.json",
+            "folderName" : "sy_quanping_17",
+            "resId" : "20211012171400",
+            "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_quanping_17/thumb_mj1.png",
+            "isPaoFu" : 0,
+            "type": 2
+        },
     ]
 }
