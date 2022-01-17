@@ -20,8 +20,8 @@
             {
                 "x":0,
                 "y":59.5,
-                "width":123.5,
-                "height":137,
+                "width":240,
+                "height":123.5,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "offsetX":0,
@@ -121,9 +121,9 @@
                     }
                 },
                 "color":{
-                    "red":149,
-                    "green":110,
-                    "blue":106,
+                    "red":141,
+                    "green":187,
+                    "blue":186,
                     "alpha":1
                 }
             },
