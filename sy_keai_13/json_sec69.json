@@ -64,7 +64,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -112,7 +112,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -160,7 +160,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -208,7 +208,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -256,7 +256,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
