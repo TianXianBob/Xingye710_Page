@@ -64,7 +64,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -112,7 +112,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -160,7 +160,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -190,7 +190,7 @@
                 "text":"奶",
                 "textAlign":1,
                 "fontName":"锐字温帅小可爱简",
-                "defaultFontSize":49,
+                "defaultFontSize":47,
                 "maxCount":1,
                 "lineCount":1,
                 "lineSpace":0,
@@ -208,7 +208,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -238,7 +238,7 @@
                 "text":"冰",
                 "textAlign":1,
                 "fontName":"锐字温帅小可爱简",
-                "defaultFontSize":55,
+                "defaultFontSize":53,
                 "maxCount":1,
                 "lineCount":1,
                 "lineSpace":0,
@@ -256,7 +256,7 @@
                     "shadowRadius":0
                 },
                 "border":{
-                    "borderWidth":1,
+                    "borderWidth":3,
                     "borderColor":{
                         "red":255,
                         "green":255,
