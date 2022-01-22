@@ -1,10 +1,10 @@
 {
     "data" : {
-        "resId":"20220117145500",
+        "resId":"20211026202100",
         "version":"1.0.0",
         "type":1,
-        "name":"mj第六十六个水印",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_keai_12/thumb_mj1.png",
+        "name":"mj第六十九个水印",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_keai_13/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -19,23 +19,23 @@
         "imagePieces":[
             {
                 "x":0,
-                "y":62.5,
+                "y":28.5,
                 "width":240,
-                "height":123.5,
+                "height":175,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "offsetX":0,
                 "offsetY":0,
                 "angle":0,
-                "path":"http://tianxianbob.com/Xingye710_Page/sy_keai_12/img_sec1.png"
+                "path":"http://tianxianbob.com/Xingye710_Page/sy_keai_13/img_sec1.png"
             }
         ],
         "textPieces":[
             {
-                "x":36,
-                "y":96.5,
-                "width":58,
-                "height":58,
+                "x":62.5,
+                "y":57.5,
+                "width":50,
+                "height":50,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -43,10 +43,10 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"甜",
+                "text":"水",
                 "textAlign":1,
                 "fontName":"锐字温帅小可爱简",
-                "defaultFontSize":57,
+                "defaultFontSize":43,
                 "maxCount":1,
                 "lineCount":1,
                 "lineSpace":0,
@@ -73,17 +73,17 @@
                     }
                 },
                 "color":{
-                    "red":141,
-                    "green":187,
-                    "blue":186,
+                    "red":250,
+                    "green":241,
+                    "blue":117,
                     "alpha":1
                 }
             },
             {
-                "x":95,
-                "y":96.5,
-                "width":58,
-                "height":58,
+                "x":120.5,
+                "y":57.5,
+                "width":50,
+                "height":50,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -91,10 +91,10 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"草",
+                "text":"印",
                 "textAlign":1,
                 "fontName":"锐字温帅小可爱简",
-                "defaultFontSize":57,
+                "defaultFontSize":43,
                 "maxCount":1,
                 "lineCount":1,
                 "lineSpace":0,
@@ -121,17 +121,17 @@
                     }
                 },
                 "color":{
-                    "red":141,
-                    "green":187,
-                    "blue":186,
+                    "red":248,
+                    "green":117,
+                    "blue":17,
                     "alpha":1
                 }
             },
  {
-     "x":154,
-     "y":96.5,
-     "width":58,
-     "height":58,
+               "x":32,
+                "y":113,
+                "width":50,
+                "height":50,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -139,10 +139,10 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"莓",
+                "text":"工",
                 "textAlign":1,
                 "fontName":"锐字温帅小可爱简",
-                "defaultFontSize":57,
+                "defaultFontSize":43,
                 "maxCount":1,
                 "lineCount":1,
                 "lineSpace":0,
@@ -169,13 +169,109 @@
                     }
                 },
                 "color":{
-                    "red":141,
-                    "green":187,
-                    "blue":186,
+                    "red":248,
+                    "green":117,
+                    "blue":17,
+                    "alpha":1
+                }
+            },
+{
+                 "x":90.5,
+                "y":113,
+                "width":50,
+                "height":50,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"作",
+                "textAlign":1,
+                "fontName":"锐字温帅小可爱简",
+                "defaultFontSize":43,
+                "maxCount":1,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor": {
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":1
+                    }
+                },
+                "color":{
+                    "red":250,
+                    "green":241,
+                    "blue":117,
+                    "alpha":1
+                }
+            },
+{
+                 "x":148,
+                "y":113,
+                "width":50,
+                "height":50,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"室",
+                "textAlign":1,
+                "fontName":"锐字温帅小可爱简",
+                "defaultFontSize":43,
+                "maxCount":1,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor": {
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":1
+                    }
+                },
+                "color":{
+                    "red":249,
+                        "green":240,
+                        "blue":117,
                     "alpha":1
                 }
             }
-
+            
         ]
     }
 }
