@@ -41,7 +41,7 @@
     "textPieces":[
         {
             "x":15.5,
-            "y":35,
+            "y":38,
             "width":176.5,
             "height":11.5,
             "type":1,
@@ -55,7 +55,7 @@
             "textAlign":1,
             "fontName":"DroidSansChinese",
             "defaultFontSize":9,
-            "maxCount":30,
+            "maxCount":50,
             "lineCount":1,
             "lineSpace":0,
             "characterSpace":0,
