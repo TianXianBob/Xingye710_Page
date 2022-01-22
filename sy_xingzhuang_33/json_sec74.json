@@ -3,8 +3,8 @@
     "resId":"20211103161000",
     "version":"1.0.0",
     "type":1,
-    "name":"mj第七十三个形状水印",
-    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_32/thumb_mj1.png",
+    "name":"mj第七十四个形状水印",
+    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_33/thumb_mj1.png",
     "canvas":{
         "width":240,
         "height":240,
@@ -27,7 +27,7 @@
             "offsetX":0,
             "offsetY":0,
             "angle":0,
-            "path":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_32/img_sec1.png",
+            "path":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_33/img_sec1.png",
             "color":{
                 "red":255,
                 "green":255,
@@ -38,57 +38,9 @@
     ],
     "textPieces":[
         {
-            "x":18,
-            "y":108.5,
-            "width":147.5,
-            "height":11,
-            "type":1,
-            "verticalFlip":0,
-            "horizonFlip":0,
-            "angle":0,
-            "offsetX":0,
-            "offsetY":0,
-            "verticalAlign":1,
-            "text":"SYDS STUIDO DTBJ",
-            "textAlign":1,
-            "fontName":"站酷小薇LOGO体",
-            "defaultFontSize":10,
-            "maxCount":30,
-            "lineCount":1,
-            "lineSpace":0,
-            "characterSpace":0,
-            "shadow":{
-"shadowColor": {
-"red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-},
-                "opacity":0.2,
-                "shadowOffsetX":0,
-                "shadowOffsetY":3,
-                "shadowRadius":1
-            },
-            "border":{
-                "borderWidth":0,
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-                }
-            },
-            "color":{
-                "red":255,
-                "green":255,
-                "blue":255,
-                "alpha":1
-            }
-        },
-        {
-            "x":84,
+            "x":56,
             "y":122,
-            "width":147.5,
+            "width":76,
             "height":11,
             "type":1,
             "verticalFlip":0,
@@ -100,7 +52,7 @@
             "text":"SYDS STUIDO DTBJ",
             "textAlign":1,
             "fontName":"站酷小薇LOGO体",
-            "defaultFontSize":10,
+            "defaultFontSize":9,
             "maxCount":30,
             "lineCount":1,
             "lineSpace":0,
