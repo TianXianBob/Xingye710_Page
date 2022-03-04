@@ -1,0 +1,126 @@
+{
+"data" : {
+    "resId":"20220304201800",
+    "version":"1.0.0",
+    "type":2,
+    "name":"mj第六个水印",
+    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_02/thumb_mj1.png",
+    "canvas":{
+        "width":240,
+        "height":240,
+        "cornerRadius":0,
+        "color":{
+            "red":255,
+            "green":255,
+            "blue":255,
+            "alpha":0
+        }
+    },
+    "imagePieces":[
+        
+    ],
+    "textPieces":[
+    
+
+ {
+     "x":20,
+     "y":81.5,
+     "width":195.5,
+     "height":49,
+     "type":1,
+     "verticalFlip":0,
+     "horizonFlip":0,
+     "angle":0,
+     "offsetX":0,
+     "offsetY":0,
+     "verticalAlign":1,
+     "text":"SHUIYING",
+     "textAlign":1,
+     "fontName":"BodoniBT-Book",
+     "defaultFontSize":60,
+     "maxCount":20,
+     "lineCount":1,
+     "lineSpace":0,
+     "characterSpace":0,
+     "shadow":{
+"shadowColor": {
+"red":255,
+             "green":255,
+             "blue":255,
+             "alpha":0
+},
+         "opacity":0.2,
+         "shadowOffsetX":0,
+         "shadowOffsetY":3,
+         "shadowRadius":1
+     },
+     "border":{
+         "borderWidth":0,
+         "color":{
+             "red":255,
+             "green":255,
+             "blue":255,
+             "alpha":0
+         }
+     },
+     "color":{
+         "red":255,
+         "green":255,
+         "blue":255,
+         "alpha":0.5
+     }
+ },
+ {
+            "x":24.5,
+            "y":92,
+            "width":195.5,
+            "height":49,
+            "type":1,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "angle":0,
+            "offsetX":0,
+            "offsetY":0,
+            "verticalAlign":1,
+            "text":"SHUIYING",
+            "textAlign":1,
+            "fontName":"BodoniBT-Book",
+            "defaultFontSize":9,
+            "maxCount":20,
+            "lineCount":1,
+            "lineSpace":0,
+            "characterSpace":0,
+            "shadow":{
+"shadowColor": {
+"red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+},
+                "opacity":0.2,
+                "shadowOffsetX":0,
+                "shadowOffsetY":3,
+                "shadowRadius":1
+            },
+            "border":{
+                "borderWidth":0,
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":0
+                }
+            },
+            "color":{
+                "red":255,
+                "green":255,
+                "blue":255,
+                "alpha":1
+            }
+        }
+
+
+    ]
+
+}
+}
