@@ -39,13 +39,13 @@
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":30,
+                "angle":15,
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"ShuiYing",
                 "textAlign":1,
-                "fontName":"Flash Back - Demo",
+                "fontName":"FlashBack",
                 "defaultFontSize":30,
                 "maxCount":1,
                 "lineCount":1,
@@ -73,9 +73,9 @@
                     }
                 },
                 "color":{
-                    "red":104,
-                        "green":0,
-                        "blue":0,
+                    "red":255,
+                        "green":255,
+                        "blue":255,
                     "alpha":1
                 }
             },
@@ -87,7 +87,7 @@
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":15,
+                "angle":12.5,
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
@@ -121,9 +121,9 @@
                     }
                 },
                 "color":{
-                    "red":104,
-                        "green":0,
-                        "blue":0,
+                    "red":255,
+                        "green":255,
+                        "blue":255,
                     "alpha":1
                 }
             }
