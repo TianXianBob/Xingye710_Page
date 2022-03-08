@@ -32,7 +32,7 @@
         ],
         "textPieces":[
             {
-                "x":74,
+                "x":41,
                 "y":92.5,
                 "width":160,
                 "height":62.5,
@@ -46,7 +46,7 @@
                 "text":"ShuiYing",
                 "textAlign":1,
                 "fontName":"FlashBack",
-                "defaultFontSize":40,
+                "defaultFontSize":35,
                 "maxCount":1,
                 "lineCount":1,
                 "lineSpace":0,
