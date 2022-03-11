@@ -1,0 +1,88 @@
+{
+"data" : {
+    "resId":"20220311201800",
+    "version":"1.0.0",
+    "type":2,
+    "name":"mj第八十八个水印",
+    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_09/thumb_mj1.png",
+    "canvas":{
+        "width":240,
+        "height":240,
+        "cornerRadius":0,
+        "color":{
+            "red":255,
+            "green":255,
+            "blue":255,
+            "alpha":0
+        }
+    },
+    "imagePieces":[
+        {
+            "x":35,
+            "y":125,
+            "width":177,
+            "height":10,
+            "verticalFlip":0,
+            "horizonFlip":0,
+            "offsetX":0,
+            "offsetY":0,
+            "angle":0,
+            "path":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_09/img_sec1.png"
+        }
+        
+    ],
+    "textPieces":[
+    
+
+ {
+     "x":12,
+     "y":90,
+     "width":218,
+     "height":30,
+     "type":1,
+     "verticalFlip":0,
+     "horizonFlip":0,
+     "angle":0,
+     "offsetX":0,
+     "offsetY":0,
+     "verticalAlign":1,
+     "text":"World Trade Center",
+     "textAlign":1,
+     "fontName":"Italianno-Regular",
+     "defaultFontSize":25,
+     "maxCount":50,
+     "lineCount":1,
+     "lineSpace":0,
+     "characterSpace":0,
+     "shadow":{
+"shadowColor": {
+"red":255,
+             "green":255,
+             "blue":255,
+             "alpha":0
+},
+         "opacity":0.2,
+         "shadowOffsetX":0,
+         "shadowOffsetY":3,
+         "shadowRadius":1
+     },
+     "border":{
+         "borderWidth":0,
+         "color":{
+             "red":255,
+             "green":255,
+             "blue":255,
+             "alpha":0
+         }
+     },
+     "color":{
+         "red":255,
+         "green":255,
+         "blue":255,
+         "alpha":1
+     }
+ }
+    ]
+
+}
+}
