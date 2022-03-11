@@ -37,7 +37,7 @@
  {
      "x":14,
      "y":92,
-     "width":210,
+     "width":230,
      "height":30,
      "type":1,
      "verticalFlip":0,
@@ -46,7 +46,7 @@
      "offsetX":0,
      "offsetY":0,
      "verticalAlign":1,
-     "text":"World Trade Center",
+     "text":"WorldTradeCenter",
      "textAlign":1,
      "fontName":"Dhanikans Signature Italic",
      "defaultFontSize":25,
