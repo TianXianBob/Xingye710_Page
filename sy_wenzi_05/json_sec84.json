@@ -35,10 +35,10 @@
     
 
  {
-     "x":5.5,
-     "y":92,
-     "width":229,
-     "height":10.5,
+     "x":8,
+     "y":140,
+     "width":220,
+     "height":59,
      "type":1,
      "verticalFlip":0,
      "horizonFlip":0,
@@ -48,8 +48,8 @@
      "verticalAlign":1,
      "text":"World Trade Center",
      "textAlign":1,
-     "fontName":"Flash Back - Demo",
-     "defaultFontSize":9,
+     "fontName":"FlashBack",
+     "defaultFontSize":50,
      "maxCount":50,
      "lineCount":1,
      "lineSpace":0,
