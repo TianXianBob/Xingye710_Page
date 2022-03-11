@@ -36,7 +36,7 @@
 
  {
      "x":7,
-     "y":90,
+     "y":72,
      "width":226,
      "height":83,
      "type":1,
@@ -46,7 +46,7 @@
      "offsetX":0,
      "offsetY":0,
      "verticalAlign":1,
-     "text":"World Trade Center",
+     "text":"WorldTradeCen",
      "textAlign":1,
      "fontName":"Aerotis",
      "defaultFontSize":25,
