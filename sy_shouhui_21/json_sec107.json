@@ -34,7 +34,7 @@
             {
                 "x":16.5,
                 "y":78.5,
-                "width":206.5,
+                "width":236.5,
                 "height":56,
                 "type":1,
                 "verticalFlip":0,
@@ -46,7 +46,7 @@
                 "text":"Shui Ying",
                 "textAlign":1,
                 "fontName":"BAUHS93",
-                "defaultFontSize":54,
+                "defaultFontSize":45,
                 "maxCount":20,
                 "lineCount":1,
                 "lineSpace":0,
