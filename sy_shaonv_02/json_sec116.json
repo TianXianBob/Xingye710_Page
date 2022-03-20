@@ -73,9 +73,9 @@
                     }
                 },
                 "color":{
-                    "red":122,
-                        "green":123,
-                        "blue":123,
+                    "red":250,
+                        "green":189,
+                        "blue":118,
                     "alpha":1
                 }
             },
@@ -121,9 +121,9 @@
                     }
                 },
                 "color":{
-                    "red":122,
-                        "green":123,
-                        "blue":123,
+                    "red":139,
+                        "green":177,
+                        "blue":200,
                     "alpha":1
                 }
             },
@@ -169,9 +169,9 @@
                     }
                 },
                 "color":{
-                    "red":122,
-                        "green":123,
-                        "blue":123,
+                    "red":152,
+                        "green":168,
+                        "blue":223,
                     "alpha":1
                 }
             },
@@ -217,9 +217,9 @@
                     }
                 },
                 "color":{
-                    "red":122,
-                        "green":123,
-                        "blue":123,
+                    "red":152,
+                        "green":168,
+                        "blue":223,
                     "alpha":1
                 }
             },
@@ -265,9 +265,9 @@
                     }
                 },
                 "color":{
-                    "red":122,
-                        "green":123,
-                        "blue":123,
+                    "red":215,
+                        "green":115,
+                        "blue":122,
                     "alpha":1
                 }
             }
