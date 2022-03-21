@@ -3,8 +3,8 @@
     "resId":"20220311201800",
     "version":"1.0.0",
     "type":2,
-    "name":"mj第九十个水印",
-    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_11/thumb_mj1.png",
+    "name":"mj第一百四十一个水印",
+    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_18/thumb_mj1.png",
     "canvas":{
         "width":240,
         "height":240,
@@ -16,29 +16,15 @@
             "alpha":0
         }
     },
-    "imagePieces":[
-        {
-            "x":12,
-            "y":118,
-            "width":214,
-            "height":22,
-            "verticalFlip":0,
-            "horizonFlip":0,
-            "offsetX":0,
-            "offsetY":0,
-            "angle":0,
-            "path":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_11/img_sec1.png"
-        }
-        
-    ],
+    
     "textPieces":[
     
 
  {
-     "x":4,
-     "y":90,
+     "x":5,
+     "y":86,
      "width":230,
-     "height":30,
+     "height":39,
      "type":1,
      "verticalFlip":0,
      "horizonFlip":0,
@@ -48,8 +34,8 @@
      "verticalAlign":1,
      "text":"World Trade Center",
      "textAlign":1,
-     "fontName":"HatchingLoveDemoRegular",
-     "defaultFontSize":15,
+     "fontName":"modernline",
+     "defaultFontSize":20,
      "maxCount":50,
      "lineCount":1,
      "lineSpace":0,

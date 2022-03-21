@@ -1,0 +1,73 @@
+{
+"data" : {
+    "resId":"20220321201800",
+    "version":"1.0.0",
+    "type":2,
+    "name":"mj第一百三十七个水印",
+    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_13/thumb_mj1.png",
+    "canvas":{
+        "width":240,
+        "height":240,
+        "cornerRadius":0,
+        "color":{
+            "red":255,
+            "green":255,
+            "blue":255,
+            "alpha":0
+        }
+    },
+    "textPieces":[
+    
+
+ {
+     "x":7,
+     "y":72,
+     "width":226,
+     "height":83,
+     "type":1,
+     "verticalFlip":0,
+     "horizonFlip":0,
+     "angle":0,
+     "offsetX":0,
+     "offsetY":0,
+     "verticalAlign":1,
+     "text":"WorldTradeCen",
+     "textAlign":1,
+     "fontName":"Aerotis",
+     "defaultFontSize":25,
+     "maxCount":50,
+     "lineCount":1,
+     "lineSpace":0,
+     "characterSpace":0,
+     "shadow":{
+"shadowColor": {
+"red":255,
+             "green":255,
+             "blue":255,
+             "alpha":0
+},
+         "opacity":0.2,
+         "shadowOffsetX":0,
+         "shadowOffsetY":3,
+         "shadowRadius":1
+     },
+     "border":{
+         "borderWidth":0,
+         "color":{
+             "red":255,
+             "green":255,
+             "blue":255,
+             "alpha":0
+         }
+     },
+     "color":{
+         "red":255,
+         "green":255,
+         "blue":255,
+         "alpha":1
+     }
+ }
+    ]
+
+}
+}
