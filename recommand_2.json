@@ -9,7 +9,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_12/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 },
                 {
                     "jsonName":"json_sec71.json",
@@ -17,7 +16,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_keai_15/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 },
                 {
                     "jsonName":"json_sec56.json",
@@ -25,7 +23,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_quanping_16/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 },
                 {
                     "jsonName":"json_sec76.json",
@@ -33,7 +30,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_02/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 },
                 {
                     "jsonName":"json_sec92.json",
@@ -41,7 +37,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shouhui_06/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 }
             ]
         },
@@ -54,7 +49,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_12/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 }
             ]
         },
@@ -67,7 +61,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_quanping_16/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 }
             ]
         },
@@ -80,7 +73,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_keai_15/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 }
             ]
         },
@@ -93,7 +85,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_wenzi_02/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 }
             ]
         },
@@ -106,7 +97,6 @@
                     "resId":"20211012171400",
                     "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shouhui_06/thumb_mj1.png",
                     "isPaoFu":0,
-                    "type":2
                 }
             ]
         }
