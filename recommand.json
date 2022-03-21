@@ -971,6 +971,22 @@
             "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shaonv_09/thumb_mj1.png",
             "isPaoFu" : 0,
             "type": 2
+        },
+        {
+            "jsonName" : "json_sec124.json",
+            "folderName" : "sy_shaonv_10",
+            "resId" : "20211012171400",
+            "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shaonv_10/thumb_mj1.png",
+            "isPaoFu" : 0,
+            "type": 2
+        },
+        {
+            "jsonName" : "json_sec125.json",
+            "folderName" : "sy_shaonv_11",
+            "resId" : "20211012171400",
+            "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shaonv_11/thumb_mj1.png",
+            "isPaoFu" : 0,
+            "type": 2
         }
     ]
 }
