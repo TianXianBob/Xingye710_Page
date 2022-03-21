@@ -59,8 +59,8 @@
                         "alpha":1
                     },
                     "opacity":1,
-                    "shadowOffsetX":4,
-                    "shadowOffsetY":3,
+                    "shadowOffsetX":3,
+                    "shadowOffsetY":2,
                     "shadowRadius":0
                 },
                 "border":{
@@ -107,8 +107,8 @@
                         "alpha":1
                     },
                     "opacity":1,
-                    "shadowOffsetX":4,
-                    "shadowOffsetY":3,
+                    "shadowOffsetX":3,
+                    "shadowOffsetY":2,
                     "shadowRadius":0
                 },
                 "border":{
@@ -155,8 +155,8 @@
                         "alpha":1
                     },
                     "opacity":1,
-                    "shadowOffsetX":4,
-                    "shadowOffsetY":3,
+                    "shadowOffsetX":3,
+                    "shadowOffsetY":2,
                     "shadowRadius":0
                 },
                 "border":{
@@ -203,8 +203,8 @@
                         "alpha":1
                     },
                     "opacity":1,
-                    "shadowOffsetX":4,
-                    "shadowOffsetY":3,
+                    "shadowOffsetX":3,
+                    "shadowOffsetY":2,
                     "shadowRadius":0
                 },
                 "border":{
@@ -251,8 +251,8 @@
                         "alpha":1
                     },
                     "opacity":1,
-                    "shadowOffsetX":4,
-                    "shadowOffsetY":3,
+                    "shadowOffsetX":3,
+                    "shadowOffsetY":2,
                     "shadowRadius":0
                 },
                 "border":{
@@ -299,8 +299,8 @@
                         "alpha":1
                     },
                     "opacity":1,
-                    "shadowOffsetX":4,
-                    "shadowOffsetY":3,
+                    "shadowOffsetX":3,
+                    "shadowOffsetY":2,
                     "shadowRadius":0
                 },
                 "border":{
