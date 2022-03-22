@@ -92,11 +92,11 @@
             "type":5,
             "shuiYing":[
                 {
-                    "jsonName":"json_sec92.json",
-                    "folderName":"sy_shouhui_06",
-                    "resId":"20211012171400",
-                    "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shouhui_06/thumb_mj1.png",
-                    "isPaoFu":0,
+                    "jsonName" : "json_sec114.json",
+                    "folderName" : "sy_shaonv_01",
+                    "resId" : "20211012171400",
+                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shaonv_01/thumb_mj1.png",
+                    "isPaoFu" : 0,
                 }
             ]
         }
