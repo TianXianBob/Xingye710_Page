@@ -46,6 +46,13 @@
                     "isPaoFu" : 0,
                 },
                 {
+                    "jsonName" : "json_sec121.json",
+                    "folderName" : "sy_shaonv_07",
+                    "resId" : "20211012171400",
+                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shaonv_07/thumb_mj1.png",
+                    "isPaoFu" : 0,
+                }
+                {
                     "jsonName" : "json_sec3.json",
                     "folderName" : "sy_xingzhuang_03",
                     "resId" : "20211011140100",
@@ -85,6 +92,20 @@
                     "folderName" : "sy_xingzhuang_08",
                     "resId" : "20211012171400",
                     "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_08/thumb_mj1.png",
+                    "isPaoFu" : 0,
+                },
+                {
+                    "jsonName" : "json_sec21.json",
+                    "folderName" : "sy_xingzhuang_09",
+                    "resId" : "20211012171400",
+                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_09/thumb_mj1.png",
+                    "isPaoFu" : 0,
+                },
+                {
+                    "jsonName" : "json_sec22.json",
+                    "folderName" : "sy_xingzhuang_10",
+                    "resId" : "20211012171400",
+                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_xingzhuang_10/thumb_mj1.png",
                     "isPaoFu" : 0,
                 },
                 {
