@@ -145,14 +145,14 @@
             "offsetX":0,
             "offsetY":0,
             "verticalAlign":1,
-            "text":"syds stuio VX:XXXXXX",
+            "text":"VX：XXXXXXXXXXX",
             "textAlign":1,
             "fontName":"站酷小薇LOGO体",
             "defaultFontSize":9,
             "maxCount":20,
             "lineCount":1,
             "lineSpace":0,
-            "characterSpace":0,
+            "characterSpace":3,
             "shadow":{
 "shadowColor": {
 "red":255,
