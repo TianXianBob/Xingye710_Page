@@ -46,7 +46,7 @@
                 "text":"FORBIDDEN TO TOUCH",
                 "textAlign":1,
                 "fontName":"futura-heavyoblique",
-                "defaultFontSize":29,
+                "defaultFontSize":18,
                 "maxCount":30,
                 "lineCount":1,
                 "lineSpace":0,
@@ -81,7 +81,7 @@
             },
             {
                 "x":101,
-                "y":143,
+                "y":145,
                 "width":38,
                 "height":10,
                 "type":1,
