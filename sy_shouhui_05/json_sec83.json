@@ -32,10 +32,10 @@
         ],
         "textPieces":[
             {
-                "x":15.5,
-                "y":61.5,
-                "width":68,
-                "height":89,
+                "x":34.5,
+                "y":83,
+                "width":47,
+                "height":61,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -46,7 +46,7 @@
                 "text":"S",
                 "textAlign":1,
                 "fontName":"Italianno-Regular",
-                "defaultFontSize":128,
+                "defaultFontSize":88,
                 "maxCount":20,
                 "lineCount":1,
                 "lineSpace":0,
