@@ -32,7 +32,7 @@
         ],
         "textPieces":[
             {
-                "x":33,
+                "x":24,
                 "y":84,
                 "width":157,
                 "height":40,
@@ -43,7 +43,7 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"S",
+                "text":"Sui Yin Da Shi",
                 "textAlign":1,
                 "fontName":"FlashBack",
                 "defaultFontSize":35,
@@ -91,14 +91,14 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"VX：XXXXXXXXXX",
+                "text":"VX：XXXXXXXXXXX",
                 "textAlign":1,
                 "fontName":"华康方圆体",
                 "defaultFontSize":10,
                 "maxCount":20,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":2,
                 "shadow":{
                     "shadowColor": {
                         "red":0,

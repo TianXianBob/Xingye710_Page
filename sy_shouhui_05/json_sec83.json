@@ -32,10 +32,10 @@
         ],
         "textPieces":[
             {
-                "x":17.5,
-                "y":66,
-                "width":118,
-                "height":169,
+                "x":15.5,
+                "y":61.5,
+                "width":68,
+                "height":89,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -80,7 +80,7 @@
                 }
             },
             {
-                "x":117,
+                "x":111,
                 "y":151,
                 "width":98.5,
                 "height":22,
