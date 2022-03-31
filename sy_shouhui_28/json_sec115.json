@@ -51,15 +51,7 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":0,
-                "border":{
-                    "borderWidth":0,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":1
-                    }
-                },
+               
                 "color":{
                     "red":255,
                     "green":255,
@@ -87,15 +79,7 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":0,
-                "border":{
-                    "borderWidth":0,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":1
-                    }
-                },
+                
                 "color":{
                     "red":255,
                     "green":255,
@@ -123,15 +107,7 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":0,
-                "border":{
-                    "borderWidth":0,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":1
-                    }
-                },
+                
                 "color":{
                     "red":255,
                     "green":255,
@@ -159,15 +135,7 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":0,
-                "border":{
-                    "borderWidth":0,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":1
-                    }
-                },
+                
                 "color":{
                     "red":255,
                     "green":255,
@@ -195,15 +163,7 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":0,
-                "border":{
-                    "borderWidth":0,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":1
-                    }
-                },
+                
                 "color":{
                     "red":255,
                     "green":255,

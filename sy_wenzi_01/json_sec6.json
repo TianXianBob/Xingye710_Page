@@ -41,27 +41,7 @@
             "lineCount":1,
             "lineSpace":0,
             "characterSpace":0,
-            "shadow":{
-"shadowColor": {
-"red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-},
-                "opacity":0.2,
-                "shadowOffsetX":0,
-                "shadowOffsetY":3,
-                "shadowRadius":1
-            },
-            "border":{
-                "borderWidth":0,
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-                }
-            },
+           
             "color":{
                 "red":255,
                 "green":255,
@@ -89,15 +69,7 @@
      "lineCount":1,
      "lineSpace":0,
      "characterSpace":0,
-     "border":{
-         "borderWidth":0,
-         "color":{
-             "red":255,
-             "green":255,
-             "blue":255,
-             "alpha":0
-         }
-     },
+     
      "color":{
          "red":255,
          "green":255,
@@ -125,27 +97,7 @@
             "lineCount":1,
             "lineSpace":0,
             "characterSpace":0,
-            "shadow":{
-"shadowColor": {
-"red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-},
-                "opacity":0.2,
-                "shadowOffsetX":0,
-                "shadowOffsetY":3,
-                "shadowRadius":1
-            },
-            "border":{
-                "borderWidth":0,
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-                }
-            },
+            
             "color":{
                 "red":255,
                 "green":255,

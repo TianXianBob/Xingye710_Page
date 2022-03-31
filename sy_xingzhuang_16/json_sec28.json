@@ -84,7 +84,7 @@
             "maxCount":15,
             "lineCount":1,
             "lineSpace":0,
-            "characterSpace":0,
+            "characterSpace":3,
             
             "color":{
                 "red":255,
