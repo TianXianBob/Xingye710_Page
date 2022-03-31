@@ -866,17 +866,17 @@
                     "isPaoFu" : 0,
                 },
                 {
-                    "jsonName" : "json_sec90.json",
-                    "folderName" : "sy_wenzi_11",
-                    "resId" : "20211012171400",
-                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_wenzi_11/thumb_mj1.png",
-                    "isPaoFu" : 0,
-                },
-                {
                     "jsonName" : "json_sec91.json",
                     "folderName" : "sy_wenzi_12",
                     "resId" : "20211012171400",
                     "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_wenzi_12/thumb_mj1.png",
+                    "isPaoFu" : 0,
+                },
+                {
+                    "jsonName" : "json_sec90.json",
+                    "folderName" : "sy_wenzi_11",
+                    "resId" : "20211012171400",
+                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_wenzi_11/thumb_mj1.png",
                     "isPaoFu" : 0,
                 },
                 {
@@ -1209,13 +1209,7 @@
                     "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_10/thumb_mj1.png",
                     "isPaoFu" : 0,
                 },
-                {
-                    "jsonName" : "json_sec97.json",
-                    "folderName" : "sy_shouhui_11",
-                    "resId" : "20211012171400",
-                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_11/thumb_mj1.png",
-                    "isPaoFu" : 0,
-                },
+                
                 {
                     "jsonName" : "json_sec98.json",
                     "folderName" : "sy_shouhui_12",
@@ -1223,13 +1217,7 @@
                     "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_12/thumb_mj1.png",
                     "isPaoFu" : 0,
                 },
-                {
-                    "jsonName" : "json_sec99.json",
-                    "folderName" : "sy_shouhui_13",
-                    "resId" : "20211012171400",
-                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_13/thumb_mj1.png",
-                    "isPaoFu" : 0,
-                },
+                
                 {
                     "jsonName" : "json_sec100.json",
                     "folderName" : "sy_shouhui_14",
@@ -1293,13 +1281,7 @@
                     "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_22/thumb_mj1.png",
                     "isPaoFu" : 0,
                 },
-                {
-                    "jsonName" : "json_sec109.json",
-                    "folderName" : "sy_shouhui_23",
-                    "resId" : "20211012171400",
-                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_23/thumb_mj1.png",
-                    "isPaoFu" : 0,
-                },
+                
                 {
                     "jsonName" : "json_sec110.json",
                     "folderName" : "sy_shouhui_24",
@@ -1422,6 +1404,27 @@
                     "folderName" : "sy_shouhui_28",
                     "resId" : "20211012171400",
                     "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_28/thumb_mj1.png",
+                    "isPaoFu" : 0,
+                },
+                {
+                    "jsonName" : "json_sec97.json",
+                    "folderName" : "sy_shouhui_11",
+                    "resId" : "20211012171400",
+                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_11/thumb_mj1.png",
+                    "isPaoFu" : 0,
+                },
+                {
+                    "jsonName" : "json_sec99.json",
+                    "folderName" : "sy_shouhui_13",
+                    "resId" : "20211012171400",
+                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_13/thumb_mj1.png",
+                    "isPaoFu" : 0,
+                },
+                {
+                    "jsonName" : "json_sec109.json",
+                    "folderName" : "sy_shouhui_23",
+                    "resId" : "20211012171400",
+                    "thumbPath" : "http://tianxianbob.com/Xingye710_Page/sy_shouhui_23/thumb_mj1.png",
                     "isPaoFu" : 0,
                 }
             ]
