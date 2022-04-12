@@ -215,7 +215,7 @@
         "tags":  [ "Dhanikans Signature Italic"],
         "thumb": "Dhanikans Signature Italic.png",
         "localID":  "D03",
-        "wenJian":  "Dhanikans Signature Italic.ttf",
+        "wenJian":  "DhanikansSignatureItalic.ttf",
         "chanPinId":  "com.bob.Dhanikans",
         "s3":  "benDi",
         "zhiFu":  "mianFei",
@@ -227,7 +227,7 @@
     {
         "name":  "FlashBack",
         "tags":  [ "Flash Back"],
-        "thumb": "Flash Back - Demo.png",
+        "thumb": "FlashBackDemo.png",
         "localID":  "F03",
         "wenJian":  "Flash Back - Demo.ttf",
         "chanPinId":  "com.bob.FlashBlack",
