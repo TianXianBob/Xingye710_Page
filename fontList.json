@@ -101,7 +101,7 @@
     {
         "name":  "BodoniBT-Book",
         "tags":  [ "BodoniBT-Book"],
-        "thumb": "dianyinghaibao.png",
+        "thumb": "BodoniBT-Book.png",
         "localID":  "B01",
         "wenJian":  "BodoniBT-Book.otf",
         "chanPinId":  "com.bob.BodoniBT-Book",
@@ -115,7 +115,7 @@
     {
         "name":  "DroidSansChinese",
         "tags":  [ "DroidSansChinese"],
-        "thumb": "dianyinghaibao.png",
+        "thumb": "DroidSansChinese.png",
         "localID":  "D02",
         "wenJian":  "DroidSansChinese.ttf",
         "chanPinId":  "com.bob.DroidSansChinese",
@@ -297,7 +297,7 @@
     {
         "name":  "COTILLIO",
         "tags":  [ "COTILLIO"],
-        "thumb": "Zapfino.png",
+        "thumb": "COTILLIO.png",
         "localID":  "C03",
         "wenJian":  "COTILLIO.ttf",
         "chanPinId":  "com.bob.COTILLIO",
