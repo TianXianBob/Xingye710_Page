@@ -1,69 +1,70 @@
 {
     "data":[
         {
-            "name":"锐字温帅小可爱简",
+            "name":"华康方圆体",
             "tags":[
-                "锐字温帅小可爱简"
+                "华康方圆体"
             ],
-            "thumb":"ruiziwenshuaixiaokeaijian.png",
-            "localID":"R01",
-            "wenJian":"ruizi_wenshuai_xiaokeai.ttc",
-            "chanPinId":"com.bob.ruizi_wenshuai_xiaokeai",
+            "localID":"F08",
+            "thumb":"huakangfangyuan.png",
+            "wenJian":"huakangfangyauntigb.ttc",
+            "chanPinId":"com.bob.huakangfangyauntigb",
             "s3":"benDi",
             "zhiFu":"mianFei",
             "multiple":0.7,
             "xPadding":0,
             "yPadding":0,
-            "showText":"锐字温帅小可爱简"
+            "showText":"华康方圆体"
         },
         {
-            "name":"baotuxiaobaiti",
-            "tags":[
-                "baotuxiaobaiti"
-            ],
-            "localID":"X03",
-            "thumb":"baotuxiaobaiti.png",
-            "wenJian":"baotuxiaobaiti.ttc",
-            "chanPinId":"com.bob.baotuxiaobaiti",
-            "s3":"benDi",
-            "zhiFu":"mianFei",
-            "multiple":0.7,
-            "xPadding":0,
-            "yPadding":0,
-            "showText":"包图小白体"
-        },
-        {
-            "name":"电影海报字体",
-            "tags":[
-                "电影海报字体"
-            ],
-            "thumb":"dianyinghaibao.png",
-            "localID":"D01",
-            "wenJian":"dianying_haibao.ttc",
-            "chanPinId":"com.bob.dianying_haibao",
-            "s3":"benDi",
-            "zhiFu":"mianFei",
-            "multiple":0.7,
-            "xPadding":0,
-            "yPadding":0,
-            "showText":"电影海报字体"
-        },
-        {
-            "name":"DroidSansChinese",
-            "tags":[
-                "DroidSansChinese"
-            ],
-            "thumb":"DroidSansChinese.png",
-            "localID":"D02",
-            "wenJian":"DroidSansChinese.ttc",
-            "chanPinId":"com.bob.DroidSansChinese",
-            "s3":"benDi",
-            "zhiFu":"mianFei",
-            "multiple":0.7,
-            "xPadding":0,
-            "yPadding":0,
-            "showText":"DroidSansChinese"
-        },
+                    "name":"锐字温帅小可爱简",
+                    "tags":[
+                        "锐字温帅小可爱简"
+                    ],
+                    "thumb":"ruiziwenshuaixiaokeaijian.png",
+                    "localID":"R01",
+                    "wenJian":"ruizi_wenshuai_xiaokeai.ttc",
+                    "chanPinId":"com.bob.ruizi_wenshuai_xiaokeai",
+                    "s3":"benDi",
+                    "zhiFu":"mianFei",
+                    "multiple":0.7,
+                    "xPadding":0,
+                    "yPadding":0,
+                    "showText":"锐字温帅小可爱简"
+                },
+                {
+                    "name":"baotuxiaobaiti",
+                    "tags":[
+                        "baotuxiaobaiti"
+                    ],
+                    "localID":"X03",
+                    "thumb":"baotuxiaobaiti.png",
+                    "wenJian":"baotuxiaobaiti.ttc",
+                    "chanPinId":"com.bob.baotuxiaobaiti",
+                    "s3":"benDi",
+                    "zhiFu":"mianFei",
+                    "multiple":0.7,
+                    "xPadding":0,
+                    "yPadding":0,
+                    "showText":"包图小白体"
+                },
+                {
+                    "name":"电影海报字体",
+                    "tags":[
+                        "电影海报字体"
+                    ],
+                    "thumb":"dianyinghaibao.png",
+                    "localID":"D01",
+                    "wenJian":"dianying_haibao.ttc",
+                    "chanPinId":"com.bob.dianying_haibao",
+                    "s3":"benDi",
+                    "zhiFu":"mianFei",
+                    "multiple":0.7,
+                    "xPadding":0,
+                    "yPadding":0,
+                    "showText":"电影海报字体"
+                },
+                
         {
             "name":"优设标题黑Regular",
             "tags":[
@@ -80,22 +81,7 @@
             "yPadding":0,
             "showText":"优设标题黑Regular"
         },
-        {
-            "name":"华康方圆体",
-            "tags":[
-                "华康方圆体"
-            ],
-            "localID":"F08",
-            "thumb":"huakangfangyuan.png",
-            "wenJian":"huakangfangyauntigb.ttc",
-            "chanPinId":"com.bob.huakangfangyauntigb",
-            "s3":"yuanChen",
-            "zhiFu":"mianFei",
-            "multiple":0.7,
-            "xPadding":0,
-            "yPadding":0,
-            "showText":"华康方圆体"
-        },
+        
         {
             "name":"站酷小薇LOGO体",
             "tags":[
@@ -159,6 +145,22 @@
             "xPadding":0,
             "yPadding":0,
             "showText":"BodoniBT-Book"
+        },
+        {
+            "name":"DroidSansChinese",
+            "tags":[
+                "DroidSansChinese"
+            ],
+            "thumb":"DroidSansChinese.png",
+            "localID":"D02",
+            "wenJian":"DroidSansChinese.ttc",
+            "chanPinId":"com.bob.DroidSansChinese",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"DroidSansChinese"
         },
         {
             "name":"Lovelo-LineLight",
