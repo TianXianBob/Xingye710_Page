@@ -1,6 +1,22 @@
 {
     "data":[
         {
+            "name":"系统默认字体",
+            "tags":[
+                "系统默认字体"
+            ],
+            "localID":"F08",
+            "thumb":"",
+            "wenJian":"",
+            "chanPinId":"",
+            "s3":"benDi",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"系统默认字体"
+        },
+        {
             "name":"华康方圆体",
             "tags":[
                 "华康方圆体"
@@ -41,7 +57,7 @@
             "localID":"X03",
             "wenJian":"xinyenianti.ttc",
             "chanPinId":"com.bob.xinyenianti",
-            "s3":"yuanChen",
+            "s3":"benDi",
             "zhiFu":"mianFei",
             "multiple":0.7,
             "xPadding":0,
