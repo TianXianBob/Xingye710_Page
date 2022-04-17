@@ -6,9 +6,9 @@
                 "系统默认字体"
             ],
             "localID":"F08",
-            "thumb":"",
-            "wenJian":"",
-            "chanPinId":"",
+            "thumb":"pingfang.png",
+            "wenJian":"PingFang.ttc",
+            "chanPinId":"com.bob.huakangfangyauntigb",
             "s3":"benDi",
             "zhiFu":"mianFei",
             "multiple":0.7,
