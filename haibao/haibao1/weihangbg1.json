@@ -4,7 +4,7 @@
     "type": 1,
     "name": "微商朋友圈背景可爱风1",
     "canvas": {
-      "path": "/weixinbeijing/haibao1/haibao_1_sucai.png",
+      "path": "haibao_1_sucai.png",
       "width": 375,
       "height": 375,
       "color": {
@@ -38,7 +38,7 @@
             "verticalFlip": 0,
             "horizonFlip": 0,
             "angle": 0,
-            "path": "/weixinbeijing/haibao1/haibao_1_touxiang.png"
+            "path": "haibao_1_touxiang.png"
           }
         ],
         "textPieces": []
