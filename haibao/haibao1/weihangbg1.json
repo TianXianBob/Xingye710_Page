@@ -15,6 +15,17 @@
         },
         "imagePieces":[
             {
+                "x":0,
+                "y":60,
+                "width":375,
+                "height":248,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_sucai.png"
+            },
+            {
                 "x":151,
                 "y":71,
                 "width":76,
@@ -25,17 +36,7 @@
                 "bgRadius":38,
                 "path":"haibao_1_touxiang.png"
             },
-            {
-                "x":0,
-                "y":60,
-                "width":375,
-                "height":24,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "bgRadius":0,
-                "path":"haibao_1_sucai.png"
-            },
+            
             {
                 "x":149,
                 "y":69,
