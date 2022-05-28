@@ -4,26 +4,114 @@
         "type":1,
         "name":"微商朋友圈背景可爱风1",
         "canvas":{
-            "path":"haibao_1_sucai.png",
             "width":375,
             "height":375,
             "color":{
                 "red":255,
                 "green":255,
                 "blue":255,
-                "alpha":0
+                "alpha":1
             }
         },
         "imagePieces":[
             {
-                "x":0,
-                "y":0,
-                "width":60,
-                "height":60,
+                "x":151,
+                "y":71,
+                "width":76,
+                "height":76,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
+                "bgRadius":38,
                 "path":"haibao_1_touxiang.png"
+            },
+            {
+                "x":0,
+                "y":60,
+                "width":375,
+                "height":24,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_sucai.png"
+            },
+            {
+                "x":149,
+                "y":69,
+                "width":80,
+                "height":80,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_yuanquan.png"
+            },
+            {
+                "x":74,
+                "y":176,
+                "width":232,
+                "height":18,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_wenzi1.png"
+            },
+            {
+                "x":74,
+                "y":199,
+                "width":232,
+                "height":18,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_wenzi1.png"
+            },
+            {
+                "x":74,
+                "y":222,
+                "width":232,
+                "height":18,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_wenzi1.png"
+            },
+            {
+                "x":101,
+                "y":248,
+                "width":175,
+                "height":18,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_wenzi2.png"
+            },
+            {
+                "x":101,
+                "y":273,
+                "width":175,
+                "height":18,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_wenzi2.png"
+            },
+            {
+                "x":97,
+                "y":296,
+                "width":183,
+                "height":18,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_1_wenzi3.png"
             }
         ],
         "textPieces":[
