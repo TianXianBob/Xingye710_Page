@@ -33,7 +33,7 @@
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":38,
+                "bgRadius":53,
                 "path":"haibao_2_touxiang.png"
             },
             
@@ -71,7 +71,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":1,
-                "text":"微商水印大师 专业高效的微商图片制作工具",
+                "text":"。",
                 "textAlign":1,
                 "fontName":"华康方圆体",
                 "defaultFontSize":9,
