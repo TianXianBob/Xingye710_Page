@@ -23,7 +23,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
-                "path":"haibao_1_sucai.png"
+                "path":"haibao_2_sucai.png"
             },
             {
                 "x":20,
@@ -34,7 +34,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":38,
-                "path":"haibao_1_touxiang.png"
+                "path":"haibao_2_touxiang.png"
             },
             
             {
