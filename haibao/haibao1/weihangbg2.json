@@ -121,7 +121,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":10,
                 "lineCount":2,
-                "lineSpace":0,
+                "lineSpace":5,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -164,7 +164,7 @@
                 "text":"三年老店 品质保证 信誉和客户永远第一\n要求高品质只做精品\n 交一个朋友比什么都重要\n诚招代理 一件代发",
                 "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":10,
+                "defaultFontSize":5,
                 "lineCount":4,
                 "lineSpace":0,
                 "characterSpace":0,
@@ -209,7 +209,7 @@
                 "text":"HELLO，下单翻烂朋友圈",
                 "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":16,
+                "defaultFontSize":15,
                 "lineCount":4,
                 "lineSpace":0,
                 "characterSpace":0,
