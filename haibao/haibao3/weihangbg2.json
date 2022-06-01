@@ -77,7 +77,7 @@
                 "defaultFontSize":26,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -108,7 +108,7 @@
             },
             {
                 "x":126,
-                "y":146,
+                "y":171,
                 "width":190,
                 "height":23,
                 "type":1,
@@ -212,7 +212,7 @@
                 "defaultFontSize":15,
                 "lineCount":4,
                 "lineSpace":0,
-                "characterSpace":5,
+                "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
