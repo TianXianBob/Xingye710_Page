@@ -107,8 +107,8 @@
                 }
             },
             {
-                "x":126,
-                "y":171,
+                "x":153,
+                "y":144,
                 "width":190,
                 "height":23,
                 "type":1,
@@ -121,7 +121,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":10,
                 "lineCount":2,
-                "lineSpace":10,
+                "lineSpace":5,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -166,7 +166,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":10,
                 "lineCount":4,
-                "lineSpace":10,
+                "lineSpace":5,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -212,7 +212,7 @@
                 "defaultFontSize":15,
                 "lineCount":4,
                 "lineSpace":0,
-                "characterSpace":2,
+                "characterSpace":1,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -256,7 +256,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":11,
                 "lineCount":2,
-                "lineSpace":0,
+                "lineSpace":2,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -301,7 +301,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":11,
                 "lineCount":2,
-                "lineSpace":0,
+                "lineSpace":3,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
