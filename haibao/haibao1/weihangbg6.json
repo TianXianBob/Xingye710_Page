@@ -28,12 +28,12 @@
             {
                 "x":208,
                 "y":68,
-                "width":113,
-                "height":113,
+                "width":110,
+                "height":110,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":56.5,
+                "bgRadius":55,
                 "path":"haibao_6_touxiang.png"
             }
         ],
@@ -139,11 +139,11 @@
                     "angle":0,
                     "verticalAlign":0,
                     "text":"1-3天发货\n带图片和码数询价\n只赚代发费用",
-                    "textAlign":1,
+                    "textAlign":0,
                     "fontName":"华康方圆体",
                     "defaultFontSize":9,
                     "lineCount":3,
-                    "lineSpace":4,
+                    "lineSpace":6,
                     "characterSpace":0,
                     "shadow":{
                         "shadowColor":{
@@ -229,11 +229,11 @@
                         "angle":0,
                         "verticalAlign":0,
                         "text":"六年老店\n全天24小时高效率回复\n一手价格承接全网在售\n人性化终端承接实力代理代发业务",
-                        "textAlign":1,
+                        "textAlign":0,
                         "fontName":"华康方圆体",
                         "defaultFontSize":9,
                         "lineCount":3,
-                        "lineSpace":6,
+                        "lineSpace":9,
                         "characterSpace":0,
                         "shadow":{
                             "shadowColor":{
@@ -271,7 +271,7 @@
                         "type":1,
                         "verticalFlip":0,
                         "horizonFlip":0,
-                        "angle":-15,
+                        "angle":-30,
                         "verticalAlign":1,
                         "text":"“卖自己喜欢的东西",
                         "textAlign":1,
