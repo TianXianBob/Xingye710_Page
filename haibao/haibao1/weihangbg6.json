@@ -141,9 +141,9 @@
                     "text":"1-3天发货\n带图片和码数询价\n只赚代发费用",
                     "textAlign":0,
                     "fontName":"华康方圆体",
-                    "defaultFontSize":7,
+                    "defaultFontSize":8,
                     "lineCount":3,
-                    "lineSpace":6,
+                    "lineSpace":8,
                     "characterSpace":0,
                     "shadow":{
                         "shadowColor":{
@@ -233,7 +233,7 @@
                         "fontName":"华康方圆体",
                         "defaultFontSize":11,
                         "lineCount":3,
-                        "lineSpace":9,
+                        "lineSpace":7.5,
                         "characterSpace":0,
                         "shadow":{
                             "shadowColor":{
