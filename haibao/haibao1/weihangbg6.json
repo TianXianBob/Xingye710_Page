@@ -53,7 +53,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":10,
                 "lineCount":3,
-                "lineSpace":0,
+                "lineSpace":3,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -137,13 +137,13 @@
                     "verticalFlip":0,
                     "horizonFlip":0,
                     "angle":0,
-                    "verticalAlign":1,
+                    "verticalAlign":0,
                     "text":"1-3天发货\n带图片和码数询价\n只赚代发费用",
                     "textAlign":1,
                     "fontName":"华康方圆体",
-                    "defaultFontSize":10,
+                    "defaultFontSize":9,
                     "lineCount":3,
-                    "lineSpace":3,
+                    "lineSpace":4,
                     "characterSpace":0,
                     "shadow":{
                         "shadowColor":{
@@ -227,13 +227,13 @@
                         "verticalFlip":0,
                         "horizonFlip":0,
                         "angle":0,
-                        "verticalAlign":1,
+                        "verticalAlign":0,
                         "text":"六年老店\n全天24小时高效率回复\n一手价格承接全网在售\n人性化终端承接实力代理代发业务",
                         "textAlign":1,
                         "fontName":"华康方圆体",
                         "defaultFontSize":9,
                         "lineCount":3,
-                        "lineSpace":3,
+                        "lineSpace":6,
                         "characterSpace":0,
                         "shadow":{
                             "shadowColor":{
@@ -271,7 +271,7 @@
                         "type":1,
                         "verticalFlip":0,
                         "horizonFlip":0,
-                        "angle":270,
+                        "angle":-15,
                         "verticalAlign":1,
                         "text":"“卖自己喜欢的东西",
                         "textAlign":1,
