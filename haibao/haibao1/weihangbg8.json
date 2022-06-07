@@ -1,6 +1,6 @@
 {
     "data":{
-        "resId":"haibao_7",
+        "resId":"haibao_8",
         "type":1,
         "name":"微商朋友圈背景可爱风1",
         "canvas":{
@@ -28,8 +28,8 @@
         ],
         "textPieces":[
             {
-                "x":92,
-                "y":153,
+                "x":96,
+                "y":159,
                 "width":237,
                 "height":122,
                 "type":1,
@@ -88,7 +88,7 @@
                     "defaultFontSize":18,
                     "lineCount":3,
                     "lineSpace":0,
-                    "characterSpace":0,
+                    "characterSpace":3,
                     "shadow":{
                         "shadowColor":{
                             "red":0,
