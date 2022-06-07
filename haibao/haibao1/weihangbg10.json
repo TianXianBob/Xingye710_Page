@@ -52,10 +52,10 @@
                 "text":"主营：美妆、衣服、包包、鞋子\n用心做微商5年老店，你想要的我都有\n全网最低价格，不接急单，不卖玻璃心\n有百家生展现纯实物纯分享\n全国招代理支持一件代发\n关于售后：非质量问题不退换",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":9.8,
+                "defaultFontSize":10.8,
                 "lineCount":6,
-                "lineSpace":10,
-                "characterSpace":0,
+                "lineSpace":15,
+                "characterSpace":2.5,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -164,7 +164,7 @@
                             "red":0,
                             "green":0,
                             "blue":0,
-                            "alpha":1
+                            "alpha":0
                         }
                     },
                     "color":{
@@ -187,7 +187,7 @@
                         "text":"一店：XXXXXXXXX",
                         "textAlign":0,
                         "fontName":"华康方圆体",
-                        "defaultFontSize":13,
+                        "defaultFontSize":14,
                         "lineCount":4,
                         "lineSpace":6,
                         "characterSpace":0,
@@ -233,7 +233,7 @@
                         "text":"二店：XXXXXXXXX",
                         "textAlign":1,
                         "fontName":"华康方圆体",
-                        "defaultFontSize":12,
+                        "defaultFontSize":14,
                         "lineCount":4,
                         "lineSpace":5,
                         "characterSpace":0,
