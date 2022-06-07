@@ -43,7 +43,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":10.8,
                 "lineCount":6,
-                "lineSpace":12.5,
+                "lineSpace":10.5,
                 "characterSpace":2.5,
                 "shadow":{
                     "shadowColor":{
@@ -166,7 +166,7 @@
                     {
                         "x":158,
                         "y":251,
-                        "width":179,
+                        "width":209,
                         "height":15,
                         "type":1,
                         "verticalFlip":0,
