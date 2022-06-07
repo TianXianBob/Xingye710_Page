@@ -129,7 +129,7 @@
                     }
             },
             {
-                    "x":30,
+                    "x":45,
                     "y":193,
                     "width":96,
                     "height":55,
@@ -219,8 +219,8 @@
                         }
                 },
                 {
-                        "x":22,
-                        "y":109,
+                        "x":43,
+                        "y":108,
                         "width":180,
                         "height":74,
                         "type":1,
@@ -271,7 +271,7 @@
                         "type":1,
                         "verticalFlip":0,
                         "horizonFlip":0,
-                        "angle":-30,
+                        "angle":-50,
                         "verticalAlign":1,
                         "text":"“卖自己喜欢的东西",
                         "textAlign":1,
