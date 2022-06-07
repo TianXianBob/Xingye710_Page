@@ -28,8 +28,8 @@
         ],
         "textPieces":[
             {
-                "x":72,
-                "y":154,
+                "x":92,
+                "y":138,
                 "width":237,
                 "height":122,
                 "type":1,
@@ -40,9 +40,9 @@
                 "text":"用心做微商5年老店，你想要的我都有\n全网最低价格，不接急单，不卖玻璃心\n有百家生产线纯实拍纯分享\n全国招代理支持一件代发\n关于售后：无质量问题不退换",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":10,
+                "defaultFontSize":14,
                 "lineCount":5,
-                "lineSpace":14,
+                "lineSpace":24,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -178,7 +178,7 @@
                         "defaultFontSize":10,
                         "lineCount":3,
                         "lineSpace":0,
-                        "characterSpace":4,
+                        "characterSpace":6,
                         "shadow":{
                             "shadowColor":{
                                 "red":0,
