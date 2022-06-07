@@ -8,53 +8,39 @@
             "thumbHeight":"400"
         },
         {
-            "haiBaoJsonName":"haibao1",
-            "thumbPath":"haibao_1_xiaoguotu.jpg",
-            "type":"1",
-            "thumbWidth":"500",
-            "thumbHeight":"800"
-        },
-        {
-            "haiBaoJsonName":"haibao1",
-            "thumbPath":"haibao_1_xiaoguotu.jpg",
-            "type":"1",
-            "thumbWidth":"600",
-            "thumbHeight":"1200"
-        },
-        {
-            "haiBaoJsonName":"haibao1",
-            "thumbPath":"haibao_1_xiaoguotu.jpg",
-            "type":"1",
-            "thumbWidth":"1200",
-            "thumbHeight":"600"
-        },
-        {
-            "haiBaoJsonName":"haibao1",
-            "thumbPath":"haibao_1_xiaoguotu.jpg",
+            "haiBaoJsonName":"haibao2",
+            "thumbPath":"haibao_2_xiaoguotu.jpg",
             "type":"1",
             "thumbWidth":"400",
             "thumbHeight":"400"
         },
         {
-            "haiBaoJsonName":"haibao1",
-            "thumbPath":"haibao_1_xiaoguotu.jpg",
+            "haiBaoJsonName":"haibao3",
+            "thumbPath":"haibao_3_xiaoguotu.jpg",
             "type":"1",
-            "thumbWidth":"500",
-            "thumbHeight":"800"
+            "thumbWidth":"400",
+            "thumbHeight":"400"
         },
         {
-            "haiBaoJsonName":"haibao1",
-            "thumbPath":"haibao_1_xiaoguotu.jpg",
+            "haiBaoJsonName":"haibao4",
+            "thumbPath":"haibao_4_xiaoguotu.jpg",
             "type":"1",
-            "thumbWidth":"600",
-            "thumbHeight":"1200"
+            "thumbWidth":"400",
+            "thumbHeight":"400"
         },
         {
-            "haiBaoJsonName":"haibao1",
-            "thumbPath":"haibao_1_xiaoguotu.jpg",
+            "haiBaoJsonName":"haibao5",
+            "thumbPath":"haibao_5_xiaoguotu.jpg",
             "type":"1",
-            "thumbWidth":"1200",
-            "thumbHeight":"600"
+            "thumbWidth":"400",
+            "thumbHeight":"400"
+        },
+        {
+            "haiBaoJsonName":"haibao6",
+            "thumbPath":"haibao_6_xiaoguotu.jpg",
+            "type":"1",
+            "thumbWidth":"400",
+            "thumbHeight":"400"
         }
     ]
 }
