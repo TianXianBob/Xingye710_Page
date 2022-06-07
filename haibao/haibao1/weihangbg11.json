@@ -43,7 +43,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":10.8,
                 "lineCount":6,
-                "lineSpace":16.5,
+                "lineSpace":12.5,
                 "characterSpace":2.5,
                 "shadow":{
                     "shadowColor":{
@@ -176,10 +176,10 @@
                         "text":"以妈妈之名，做宝宝之物",
                         "textAlign":1,
                         "fontName":"华康方圆体",
-                        "defaultFontSize":14,
+                        "defaultFontSize":16,
                         "lineCount":4,
                         "lineSpace":6,
-                        "characterSpace":0,
+                        "characterSpace":2,
                         "shadow":{
                             "shadowColor":{
                                 "red":0,
