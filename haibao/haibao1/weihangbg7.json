@@ -42,7 +42,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":10,
                 "lineCount":5,
-                "lineSpace":9,
+                "lineSpace":14,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -178,7 +178,7 @@
                         "defaultFontSize":10,
                         "lineCount":3,
                         "lineSpace":0,
-                        "characterSpace":0,
+                        "characterSpace":4,
                         "shadow":{
                             "shadowColor":{
                                 "red":0,
