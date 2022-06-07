@@ -52,9 +52,9 @@
                 "text":"关于我们的，\n你可以招加盟赚钱，\n你可以招代理让他给你卖货赚钱，\n你可以卖衣服赚钱，\n你可以卖货源赚钱！",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":10,
+                "defaultFontSize":12,
                 "lineCount":5,
-                "lineSpace":10,
+                "lineSpace":6,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -95,11 +95,11 @@
                     "angle":0,
                     "verticalAlign":1,
                     "text":"主营：童装、玩具、\n女装、鞋子、饰品、\n零售、诚信经营、\n欢迎咨询～～",
-                    "textAlign":1,
+                    "textAlign":0,
                     "fontName":"华康方圆体",
                     "defaultFontSize":11,
                     "lineCount":4,
-                    "lineSpace":5,
+                    "lineSpace":4,
                     "characterSpace":0,
                     "shadow":{
                         "shadowColor":{
@@ -123,9 +123,9 @@
                         }
                     },
                     "color":{
-                        "red":238,
-                        "green":196,
-                        "blue":21,
+                        "red":0,
+                        "green":0,
+                        "blue":0,
                         "alpha":1
                     }
             },
@@ -187,9 +187,9 @@
                         "text":"卖喜欢的东西\n遇眼光相似的人\n永远追求爱与美的实物\n希望我能温暖你",
                         "textAlign":0,
                         "fontName":"华康方圆体",
-                        "defaultFontSize":10,
+                        "defaultFontSize":12,
                         "lineCount":4,
-                        "lineSpace":5,
+                        "lineSpace":6,
                         "characterSpace":0,
                         "shadow":{
                             "shadowColor":{
@@ -232,7 +232,7 @@
                         "text":"招加盟一对一培训，手把手教精准引流",
                         "textAlign":1,
                         "fontName":"华康方圆体",
-                        "defaultFontSize":10,
+                        "defaultFontSize":12,
                         "lineCount":4,
                         "lineSpace":5,
                         "characterSpace":0,
