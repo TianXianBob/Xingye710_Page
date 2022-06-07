@@ -129,10 +129,10 @@
                     }
             },
             {
-                    "x":45,
-                    "y":202,
-                    "width":74,
-                    "height":37,
+                    "x":30,
+                    "y":193,
+                    "width":96,
+                    "height":55,
                     "type":1,
                     "verticalFlip":0,
                     "horizonFlip":0,
@@ -141,9 +141,9 @@
                     "text":"1-3天发货\n带图片和码数询价\n只赚代发费用",
                     "textAlign":0,
                     "fontName":"华康方圆体",
-                    "defaultFontSize":8,
+                    "defaultFontSize":9,
                     "lineCount":3,
-                    "lineSpace":8,
+                    "lineSpace":7,
                     "characterSpace":0,
                     "shadow":{
                         "shadowColor":{
@@ -219,10 +219,10 @@
                         }
                 },
                 {
-                        "x":40,
-                        "y":112,
-                        "width":155,
-                        "height":63,
+                        "x":22,
+                        "y":109,
+                        "width":180,
+                        "height":74,
                         "type":1,
                         "verticalFlip":0,
                         "horizonFlip":0,
