@@ -1,6 +1,6 @@
 {
     "data":{
-        "resId":"haibao_6",
+        "resId":"haibao_9",
         "type":1,
         "name":"微商朋友圈背景可爱风1",
         "canvas":{
@@ -15,45 +15,46 @@
         },
         "imagePieces":[
             {
-                "x":1.5,
-                "y":67,
-                "width":358,
-                "height":249,
+                "x":0,
+                "y":0,
+                "width":375,
+                "height":375,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
-                "path":"haibao_6_sucai.png"
+                "path":"haibao_9_sucai.png"
             },
             {
-                "x":208,
-                "y":68,
-                "width":110,
-                "height":110,
+                "x":270,
+                "y":122,
+                "width":86,
+                "height":86,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":55,
-                "path":"haibao_6_touxiang.png"
+                "bgRadius":43,
+                "path":"haibao_9_touxiang.png"
             }
+            
         ],
         "textPieces":[
             {
-                "x":203,
-                "y":193,
-                "width":144,
-                "height":43,
+                "x":34,
+                "y":209,
+                "width":190,
+                "height":88,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "verticalAlign":1,
-                "text":"主营：\n美妆、护肤品、奢侈品\n养生品、洗护品、健康瘦身品",
-                "textAlign":1,
+                "verticalAlign":0,
+                "text":"关于我们的，\n你可以招加盟赚钱，\n你可以招代理让他给你卖货赚钱，\n你可以卖衣服赚钱，\n你可以卖货源赚钱！",
+                "textAlign":0,
                 "fontName":"华康方圆体",
                 "defaultFontSize":12,
-                "lineCount":3,
-                "lineSpace":3,
+                "lineCount":5,
+                "lineSpace":4.5,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -84,21 +85,21 @@
                     }
                 },
                 {
-                    "x":38,
-                    "y":264,
-                    "width":299,
-                    "height":9,
+                    "x":35,
+                    "y":149,
+                    "width":151,
+                    "height":57,
                     "type":1,
                     "verticalFlip":0,
                     "horizonFlip":0,
                     "angle":0,
                     "verticalAlign":1,
-                    "text":"～欢迎实力代理洽谈合作事宜，欢迎志同道合的你加入我的团队～",
-                    "textAlign":1,
+                    "text":"主营：童装、玩具、\n女装、鞋子、饰品、\n零售、诚信经营、\n欢迎咨询～～",
+                    "textAlign":0,
                     "fontName":"华康方圆体",
-                    "defaultFontSize":10,
-                    "lineCount":3,
-                    "lineSpace":0,
+                    "defaultFontSize":12,
+                    "lineCount":4,
+                    "lineSpace":4,
                     "characterSpace":0,
                     "shadow":{
                         "shadowColor":{
@@ -115,9 +116,9 @@
                     "border":{
                         "borderWidth":1,
                         "borderColor":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
+                            "red":0,
+                            "green":0,
+                            "blue":0,
                             "alpha":0
                         }
                     },
@@ -129,21 +130,21 @@
                     }
             },
             {
-                    "x":45,
-                    "y":202,
-                    "width":74,
-                    "height":37,
+                    "x":189,
+                    "y":149,
+                    "width":90,
+                    "height":49,
                     "type":1,
                     "verticalFlip":0,
                     "horizonFlip":0,
                     "angle":0,
                     "verticalAlign":0,
-                    "text":"1-3天发货\n带图片和码数询价\n只赚代发费用",
+                    "text":"营业时间：\n早：9:00-23:00\n良心做人 诚信做事",
                     "textAlign":0,
                     "fontName":"华康方圆体",
-                    "defaultFontSize":8,
+                    "defaultFontSize":9,
                     "lineCount":3,
-                    "lineSpace":8,
+                    "lineSpace":5,
                     "characterSpace":0,
                     "shadow":{
                         "shadowColor":{
@@ -160,80 +161,35 @@
                     "border":{
                         "borderWidth":1,
                         "borderColor":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
-                            "alpha":0
+                            "red":0,
+                            "green":0,
+                            "blue":0,
+                            "alpha":1
                         }
                     },
                     "color":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
+                        "red":255,
+                        "green":255,
+                        "blue":255,
                         "alpha":1
                         }
                     },
                     {
-                        "x":38,
-                        "y":264,
-                        "width":299,
-                        "height":9,
+                        "x":215,
+                        "y":219,
+                        "width":136,
+                        "height":74,
                         "type":1,
                         "verticalFlip":0,
                         "horizonFlip":0,
                         "angle":0,
                         "verticalAlign":1,
-                        "text":"～欢迎实力代理洽谈合作事宜，欢迎志同道合的你加入我的团队～",
-                        "textAlign":1,
-                        "fontName":"华康方圆体",
-                        "defaultFontSize":10,
-                        "lineCount":3,
-                        "lineSpace":0,
-                        "characterSpace":0,
-                        "shadow":{
-                            "shadowColor":{
-                                "red":0,
-                                "green":0,
-                                "blue":0,
-                                "alpha":0
-                            },
-                            "opacity":0.2,
-                            "shadowOffsetX":2,
-                            "shadowOffsetY":3,
-                            "shadowRadius":0
-                        },
-                        "border":{
-                            "borderWidth":1,
-                            "borderColor":{
-                                "red":255,
-                                "green":255,
-                                "blue":255,
-                                "alpha":0
-                            }
-                        },
-                        "color":{
-                            "red":0,
-                            "green":0,
-                            "blue":0,
-                            "alpha":1
-                        }
-                },
-                {
-                        "x":40,
-                        "y":112,
-                        "width":155,
-                        "height":63,
-                        "type":1,
-                        "verticalFlip":0,
-                        "horizonFlip":0,
-                        "angle":0,
-                        "verticalAlign":0,
-                        "text":"六年老店\n全天24小时高效率回复\n一手价格承接全网在售\n人性化终端承接实力代理代发业务",
+                        "text":"卖喜欢的东西\n遇眼光相似的人\n永远追求爱与美的实物\n希望我能温暖你",
                         "textAlign":0,
                         "fontName":"华康方圆体",
-                        "defaultFontSize":11,
-                        "lineCount":3,
-                        "lineSpace":7.5,
+                        "defaultFontSize":12,
+                        "lineCount":4,
+                        "lineSpace":6,
                         "characterSpace":0,
                         "shadow":{
                             "shadowColor":{
@@ -263,22 +219,22 @@
                             "alpha":1
                         }
                 },
-                {
-                        "x":54,
-                        "y":281,
-                        "width":135,
-                        "height":22,
+                    {
+                        "x":117,
+                        "y":309,
+                        "width":199,
+                        "height":10,
                         "type":1,
                         "verticalFlip":0,
                         "horizonFlip":0,
-                        "angle":-30,
+                        "angle":0,
                         "verticalAlign":1,
-                        "text":"“卖自己喜欢的东西",
+                        "text":"招加盟一对一培训，手把手教精准引流",
                         "textAlign":1,
                         "fontName":"华康方圆体",
-                        "defaultFontSize":14,
-                        "lineCount":3,
-                        "lineSpace":0,
+                        "defaultFontSize":12,
+                        "lineCount":4,
+                        "lineSpace":5,
                         "characterSpace":0,
                         "shadow":{
                             "shadowColor":{
@@ -295,34 +251,34 @@
                         "border":{
                             "borderWidth":1,
                             "borderColor":{
-                                "red":0,
-                                "green":0,
-                                "blue":0,
-                                "alpha":1
+                                "red":255,
+                                "green":255,
+                                "blue":255,
+                                "alpha":0
                             }
                         },
                         "color":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
+                            "red":0,
+                            "green":0,
+                            "blue":0,
                             "alpha":1
                         }
                 },
-                {
-                        "x":186,
-                        "y":300,
-                        "width":119,
+                    {
+                        "x":38,
+                        "y":119,
+                        "width":96,
                         "height":14,
                         "type":1,
                         "verticalFlip":0,
                         "horizonFlip":0,
                         "angle":0,
                         "verticalAlign":1,
-                        "text":"遇眼光相似的人”",
+                        "text":"小豆班童装店",
                         "textAlign":1,
                         "fontName":"华康方圆体",
                         "defaultFontSize":14,
-                        "lineCount":3,
+                        "lineCount":0,
                         "lineSpace":0,
                         "characterSpace":0,
                         "shadow":{
@@ -340,10 +296,10 @@
                         "border":{
                             "borderWidth":1,
                             "borderColor":{
-                                "red":0,
-                                "green":0,
-                                "blue":0,
-                                "alpha":1
+                                "red":255,
+                                "green":255,
+                                "blue":255,
+                                "alpha":0
                             }
                         },
                         "color":{
