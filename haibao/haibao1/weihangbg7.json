@@ -40,10 +40,10 @@
                 "text":"用心做微商5年老店，你想要的我都有\n全网最低价格，不接急单，不卖玻璃心\n有百家生产线纯实拍纯分享\n全国招代理支持一件代发\n关于售后：无质量问题不退换",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":17,
+                "defaultFontSize":10,
                 "lineCount":5,
-                "lineSpace":14,
-                "characterSpace":5,
+                "lineSpace":7,
+                "characterSpace":3,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
