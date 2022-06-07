@@ -40,10 +40,10 @@
         ],
         "textPieces":[
             {
-                "x":23,
-                "y":149,
-                "width":151,
-                "height":57,
+                "x":31,
+                "y":213,
+                "width":170,
+                "height":88,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -97,7 +97,7 @@
                     "text":"主营：童装、玩具、\n女装、鞋子、饰品、\n零售、诚信经营、\n欢迎咨询～～",
                     "textAlign":0,
                     "fontName":"华康方圆体",
-                    "defaultFontSize":11,
+                    "defaultFontSize":12,
                     "lineCount":4,
                     "lineSpace":4,
                     "characterSpace":0,
