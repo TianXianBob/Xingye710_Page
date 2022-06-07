@@ -28,20 +28,20 @@
             {
                 "x":273,
                 "y":200,
-                "width":100,
+                "width":98,
                 "height":98,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":43,
+                "bgRadius":49,
                 "path":"haibao_10_touxiang.png"
             }
             
         ],
         "textPieces":[
             {
-                "x":34,
-                "y":209,
+                "x":57,
+                "y":111,
                 "width":290,
                 "height":188,
                 "type":1,
