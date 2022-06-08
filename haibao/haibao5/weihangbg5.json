@@ -205,7 +205,7 @@
                 "angle":0,
                 "verticalAlign":1,
                 "text":"主营产品：",
-                "textAlign":1,
+                "textAlign":0,
                 "fontName":"华康方圆体",
                 "defaultFontSize":12,
                 "lineCount":0,
