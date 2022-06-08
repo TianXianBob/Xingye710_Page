@@ -70,8 +70,8 @@
                 "path":"haibao_10_hengtiao3.png"
             },
             {
-                "x":17,
-                "y":200,
+                "x":20,
+                "y":210,
                 "width":210,
                 "height":20,
                 "verticalFlip":0,
@@ -81,7 +81,7 @@
                 "path":"haibao_10_hengtiao4.png"
             },
             {
-                "x":17,
+                "x":20,
                 "y":236,
                 "width":197,
                 "height":20.8,
@@ -152,7 +152,7 @@
                 },
                 {
                     "x":55,
-                    "y":155,
+                    "y":160,
                     "width":242,
                     "height":17,
                     "type":1,
