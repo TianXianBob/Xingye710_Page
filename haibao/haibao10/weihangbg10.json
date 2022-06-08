@@ -35,22 +35,88 @@
                 "angle":0,
                 "bgRadius":49,
                 "path":"haibao_10_touxiang.png"
+            },
+            {
+                "x":17,
+                "y":132,
+                "width":266,
+                "height":18,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_10_hengtiao1.png"
+            },
+            {
+                "x":17,
+                "y":158,
+                "width":266,
+                "height":18,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_10_hengtiao2.png"
+            },
+            {
+                "x":12.8,
+                "y":185,
+                "width":270,
+                "height":21,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_10_hengtiao3.png"
+            },
+            {
+                "x":17,
+                "y":200,
+                "width":210,
+                "height":20,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_10_hengtiao4.png"
+            },
+            {
+                "x":16,
+                "y":236,
+                "width":197,
+                "height":20.8,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_10_hengtiao5.png"
+            },
+            {
+                "x":1.3,
+                "y":266,
+                "width":224,
+                "height":17,5,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_10_hengtiao6.png"
             }
             
         ],
         "textPieces":[
             {
-                "x":57,
-                "y":114,
-                "width":290,
-                "height":188,
+                "x":45,
+                "y":132,
+                "width":242,
+                "height":17,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"主营：美妆、衣服、包包、鞋子\n用心做微商5年老店，你想要的我都有\n全网最低价格，不接急单，不卖玻璃心\n有百家生展现纯实物纯分享\n全国招代理支持一件代发\n关于售后：非质量问题不退换",
-                "textAlign":0,
+                "text":"主营：美妆、衣服、包包、鞋子",
+                "textAlign":1,
                 "fontName":"华康方圆体",
                 "defaultFontSize":10.8,
                 "lineCount":6,
@@ -85,22 +151,22 @@
                     }
                 },
                 {
-                    "x":187,
-                    "y":85,
-                    "width":178,
-                    "height":26,
+                    "x":45,
+                    "y":155,
+                    "width":242,
+                    "height":17,
                     "type":1,
                     "verticalFlip":0,
                     "horizonFlip":0,
                     "angle":0,
-                    "verticalAlign":1,
-                    "text":"少女心杂货铺",
-                    "textAlign":0,
+                    "verticalAlign":0,
+                    "text":"用心做微商5年老店，你想要的我都有",
+                    "textAlign":1,
                     "fontName":"华康方圆体",
-                    "defaultFontSize":26,
-                    "lineCount":4,
-                    "lineSpace":4,
-                    "characterSpace":2,
+                    "defaultFontSize":10.8,
+                    "lineCount":6,
+                    "lineSpace":16.5,
+                    "characterSpace":2.5,
                     "shadow":{
                         "shadowColor":{
                             "red":0,
@@ -116,19 +182,244 @@
                     "border":{
                         "borderWidth":1,
                         "borderColor":{
-                            "red":0,
-                            "green":0,
-                            "blue":0,
-                            "alpha":1
+                            "red":255,
+                            "green":255,
+                            "blue":255,
+                            "alpha":0
                         }
                     },
                     "color":{
-                        "red":254,
-                        "green":241,
+                        "red":0,
+                        "green":0,
                         "blue":0,
                         "alpha":1
-                    }
-            },
+                        }
+                    },
+                {
+                    "x":45,
+                    "y":187.5,
+                    "width":242,
+                    "height":17,
+                    "type":1,
+                    "verticalFlip":0,
+                    "horizonFlip":0,
+                    "angle":0,
+                    "verticalAlign":0,
+                    "text":"全网最低价格，不接急单，不卖玻璃心",
+                    "textAlign":1,
+                    "fontName":"华康方圆体",
+                    "defaultFontSize":10.8,
+                    "lineCount":6,
+                    "lineSpace":16.5,
+                    "characterSpace":2.5,
+                    "shadow":{
+                        "shadowColor":{
+                            "red":0,
+                            "green":0,
+                            "blue":0,
+                            "alpha":0
+                        },
+                        "opacity":0.2,
+                        "shadowOffsetX":2,
+                        "shadowOffsetY":3,
+                        "shadowRadius":0
+                    },
+                    "border":{
+                        "borderWidth":1,
+                        "borderColor":{
+                            "red":255,
+                            "green":255,
+                            "blue":255,
+                            "alpha":0
+                        }
+                    },
+                    "color":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
+                        }
+                    },
+                {
+                    "x":45,
+                    "y":213,
+                    "width":182,
+                    "height":17,
+                    "type":1,
+                    "verticalFlip":0,
+                    "horizonFlip":0,
+                    "angle":0,
+                    "verticalAlign":0,
+                    "text":"有百家生展现纯实物纯分享",
+                    "textAlign":1,
+                    "fontName":"华康方圆体",
+                    "defaultFontSize":10.8,
+                    "lineCount":6,
+                    "lineSpace":16.5,
+                    "characterSpace":2.5,
+                    "shadow":{
+                        "shadowColor":{
+                            "red":0,
+                            "green":0,
+                            "blue":0,
+                            "alpha":0
+                        },
+                        "opacity":0.2,
+                        "shadowOffsetX":2,
+                        "shadowOffsetY":3,
+                        "shadowRadius":0
+                    },
+                    "border":{
+                        "borderWidth":1,
+                        "borderColor":{
+                            "red":255,
+                            "green":255,
+                            "blue":255,
+                            "alpha":0
+                        }
+                    },
+                    "color":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
+                        }
+                    },
+                {
+                    "x":45,
+                    "y":239,
+                    "width":182,
+                    "height":17,
+                    "type":1,
+                    "verticalFlip":0,
+                    "horizonFlip":0,
+                    "angle":0,
+                    "verticalAlign":0,
+                    "text":"全国招代理支持一件代发",
+                    "textAlign":1,
+                    "fontName":"华康方圆体",
+                    "defaultFontSize":10.8,
+                    "lineCount":6,
+                    "lineSpace":16.5,
+                    "characterSpace":2.5,
+                    "shadow":{
+                        "shadowColor":{
+                            "red":0,
+                            "green":0,
+                            "blue":0,
+                            "alpha":0
+                        },
+                        "opacity":0.2,
+                        "shadowOffsetX":2,
+                        "shadowOffsetY":3,
+                        "shadowRadius":0
+                    },
+                    "border":{
+                        "borderWidth":1,
+                        "borderColor":{
+                            "red":255,
+                            "green":255,
+                            "blue":255,
+                            "alpha":0
+                        }
+                    },
+                    "color":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
+                        }
+                    },
+                {
+                    "x":45,
+                    "y":266,
+                    "width":190,
+                    "height":17,
+                    "type":1,
+                    "verticalFlip":0,
+                    "horizonFlip":0,
+                    "angle":0,
+                    "verticalAlign":0,
+                    "text":"关于售后：非质量问题不退换",
+                    "textAlign":1,
+                    "fontName":"华康方圆体",
+                    "defaultFontSize":10.8,
+                    "lineCount":6,
+                    "lineSpace":16.5,
+                    "characterSpace":2.5,
+                    "shadow":{
+                        "shadowColor":{
+                            "red":0,
+                            "green":0,
+                            "blue":0,
+                            "alpha":0
+                        },
+                        "opacity":0.2,
+                        "shadowOffsetX":2,
+                        "shadowOffsetY":3,
+                        "shadowRadius":0
+                    },
+                    "border":{
+                        "borderWidth":1,
+                        "borderColor":{
+                            "red":255,
+                            "green":255,
+                            "blue":255,
+                            "alpha":0
+                        }
+                    },
+                    "color":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
+                        }
+                    },
+                    {
+                        "x":187,
+                        "y":85,
+                        "width":178,
+                        "height":26,
+                        "type":1,
+                        "verticalFlip":0,
+                        "horizonFlip":0,
+                        "angle":0,
+                        "verticalAlign":1,
+                        "text":"少女心杂货铺",
+                        "textAlign":0,
+                        "fontName":"华康方圆体",
+                        "defaultFontSize":26,
+                        "lineCount":4,
+                        "lineSpace":4,
+                        "characterSpace":2,
+                        "shadow":{
+                            "shadowColor":{
+                                "red":0,
+                                "green":0,
+                                "blue":0,
+                                "alpha":0
+                            },
+                            "opacity":0.2,
+                            "shadowOffsetX":2,
+                            "shadowOffsetY":3,
+                            "shadowRadius":0
+                        },
+                        "border":{
+                            "borderWidth":1,
+                            "borderColor":{
+                                "red":0,
+                                "green":0,
+                                "blue":0,
+                                "alpha":1
+                            }
+                        },
+                        "color":{
+                            "red":254,
+                            "green":241,
+                            "blue":0,
+                            "alpha":1
+                        }
+                },
             {
                     "x":81,
                     "y":94,
