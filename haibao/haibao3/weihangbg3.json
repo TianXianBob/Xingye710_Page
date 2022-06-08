@@ -27,7 +27,7 @@
             },
             {
                 "x":51,
-                "y":109,
+                "y":108,
                 "width":88,
                 "height":88,
                 "verticalFlip":0,
@@ -38,70 +38,59 @@
             },
             
             {
-                "x":233,
-                "y":0,
-                "width":136,
-                "height":38,
+                "x":234,
+                "y":120,
+                "width":84,
+                "height":15,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
-                "path":"haibao_3_youjiao.png"
+                "path":"haibao_3_hengtiao1.png"
             },
             {
-                "x":1.8,
-                "y":335,
-                "width":124,
-                "height":41,
+                "x":224,
+                "y":141,
+                "width":94,
+                "height":15,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
-                "path":"haibao_3_zuojiao.png"
+                "path":"haibao_3_hengtiao2.png"
             },
             {
-                "x":270,
-                "y":290,
-                "width":62,
-                "height":35,
+                "x":186,
+                "y":161,
+                "width":132,
+                "height":15,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
-                "path":"haibao_3_mao.png"
+                "path":"haibao_3_hengtiao3.png"
             },
             {
-                "x":89,
-                "y":205,
+                "x":224,
+                "y":179,
+                "width":94,
+                "height":15,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_3_hengtiao2.png"
+            },
+            {
+                "x":82,
+                "y":204,
                 "width":209,
-                "height":1.8,
+                "height":2,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
                 "path":"haibao_3_xuxian.png"
-            },
-            {
-                "x":145,
-                "y":104,
-                "width":71,
-                "height":43,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "bgRadius":0,
-                "path":"haibao_3_huanying.png"
-            },
-            {
-                "x":186,
-                "y":99,
-                "width":132,
-                "height":95,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "bgRadius":0,
-                "path":"haibao_3_xingxing.png"
             }
         ],
         "textPieces":[
@@ -115,11 +104,191 @@
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":1,
-                "text":"。",
+                "text":"护肤/彩妆/母婴/零食/饰品/美瞳\n签收请拍摄快递面单，检查是否错发、漏发、破损\n自物流显示签收七天内售后\n下单后不退不换，请不要以不喜欢，不好看等理由退款",
+                "textAlign":1,
+                "fontName":"华康方圆体",
+                "defaultFontSize":10,
+                "lineCount":4,
+                "lineSpace":10,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":0,
+                    "green":0,
+                    "blue":0,
+                    "alpha":1
+                }
+            },
+            {
+                "x":240,
+                "y":124,
+                "width":73,
+                "height":9.8,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "verticalAlign":1,
+                "text":"一店：XXXXXXXXXX",
                 "textAlign":1,
                 "fontName":"华康方圆体",
                 "defaultFontSize":9,
-                "lineCount":1,
+                "lineCount":0,
+                "lineSpace":0,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":0,
+                    "green":0,
+                    "blue":0,
+                    "alpha":1
+                }
+            },
+            {
+                "x":234,
+                "y":143,
+                "width":78,
+                "height":9.8,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "verticalAlign":1,
+                "text":"二店：XXXXXXXXXXX",
+                "textAlign":1,
+                "fontName":"华康方圆体",
+                "defaultFontSize":9,
+                "lineCount":0,
+                "lineSpace":0,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":0,
+                    "green":0,
+                    "blue":0,
+                    "alpha":1
+                }
+            },
+            {
+                "x":201,
+                "y":163,
+                "width":104,
+                "height":9.8,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "verticalAlign":1,
+                "text":"微博：XXXXXXXXXXXXXXXXX",
+                "textAlign":1,
+                "fontName":"华康方圆体",
+                "defaultFontSize":9,
+                "lineCount":0,
+                "lineSpace":0,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":0,
+                    "green":0,
+                    "blue":0,
+                    "alpha":1
+                }
+            },
+            {
+                "x":230,
+                "y":182,
+                "width":79,
+                "height":9.8,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "verticalAlign":1,
+                "text":"微博：XXXXXXXXXXXXXXXXX",
+                "textAlign":1,
+                "fontName":"华康方圆体",
+                "defaultFontSize":9,
+                "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":0,
                 "shadow":{
