@@ -91,6 +91,17 @@
                 "angle":0,
                 "bgRadius":0,
                 "path":"haibao_3_xuxian.png"
+            },
+            {
+                "x":146,
+                "y":104,
+                "width":71,
+                "height":44,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_3_maomao.png"
             }
         ],
         "textPieces":[
