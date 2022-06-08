@@ -132,7 +132,7 @@
                 "defaultFontSize":9,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":3,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -177,7 +177,7 @@
                 "defaultFontSize":9,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":3,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -222,7 +222,7 @@
                 "defaultFontSize":9,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":3,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -267,7 +267,7 @@
                 "defaultFontSize":9,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":3,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -312,7 +312,7 @@
                 "defaultFontSize":9,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":3,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -357,7 +357,7 @@
                 "defaultFontSize":9,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":3,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
