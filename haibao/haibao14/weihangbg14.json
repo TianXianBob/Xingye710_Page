@@ -28,12 +28,12 @@
             {
                 "x":147,
                 "y":77,
-                "width":86,
-                "height":86,
+                "width":84,
+                "height":84,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":43,
+                "bgRadius":42,
                 "path":"haibao_14_touxiang.png"
             }
         ],
