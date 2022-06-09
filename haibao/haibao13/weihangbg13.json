@@ -28,7 +28,7 @@
         ],
         "textPieces":[
             {
-                "x":112,
+                "x":132,
                 "y":77,
                 "width":163,
                 "height":38,
@@ -83,11 +83,11 @@
                 "angle":0,
                 "verticalAlign":0,
                 "text":"本店不议价\n商品无质量问题不退不换\n全网最低价格，不接急单，不卖玻璃心\n本店支持 微信 支付宝 花呗 信用卡付款",
-                "textAlign":0,
+                "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":11,
+                "defaultFontSize":13,
                 "lineCount":4,
-                "lineSpace":10,
+                "lineSpace":12,
                 "characterSpace":1,
                 "shadow":{
                     "shadowColor":{
@@ -118,7 +118,7 @@
                     }
                 },
             {
-                "x":131,
+                "x":148,
                 "y":241,
                 "width":122,
                 "height":16,
