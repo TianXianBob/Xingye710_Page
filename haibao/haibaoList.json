@@ -76,6 +76,13 @@
             "type":"1",
             "thumbWidth":"1",
             "thumbHeight":"1"
+        },
+        {
+            "haiBaoJsonName":"haibao12",
+            "thumbPath":"haibao_12_xiaoguotu.jpg",
+            "type":"1",
+            "thumbWidth":"1",
+            "thumbHeight":"1"
         }
     ]
 }
