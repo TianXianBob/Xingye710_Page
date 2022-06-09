@@ -7,9 +7,9 @@
             "width":375,
             "height":375,
             "color":{
-                "red":248,
-                "green":224,
-                "blue":217,
+                "red":255,
+                "green":255,
+                "blue":255,
                 "alpha":1
             }
         },
