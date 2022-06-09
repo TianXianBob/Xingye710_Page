@@ -28,12 +28,12 @@
             {
                 "x":37,
                 "y":71,
-                "width":82,
-                "height":82,
+                "width":80,
+                "height":80,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":41,
+                "bgRadius":40,
                 "path":"haibao_12_touxiang.png"
             }
         ],
@@ -96,10 +96,10 @@
                 "text":"我一直在等你",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":10,
+                "defaultFontSize":12,
                 "lineCount":0,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":1,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -141,10 +141,10 @@
                 "text":"主营：丰胸/美白/减肥/瘦身/基底护肤",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":10,
+                "defaultFontSize":12,
                 "lineCount":0,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":1,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -167,9 +167,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                     }
                 },
@@ -186,9 +186,9 @@
                 "text":"00年小白起步月入六位数\n所有代理一对一亲自指导\n打造新手小白 最强逆袭",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":9.5,
+                "defaultFontSize":12,
                 "lineCount":3,
-                "lineSpace":10,
+                "lineSpace":12,
                 "characterSpace":0,
                 "shadow":{
                     "shadowColor":{
@@ -276,10 +276,10 @@
                     "text":"单丝不成线 独木不成林",
                     "textAlign":1,
                     "fontName":"华康方圆体",
-                    "defaultFontSize":13,
+                    "defaultFontSize":15,
                     "lineCount":1,
                     "lineSpace":0,
-                    "characterSpace":0,
+                    "characterSpace":1,
                     "shadow":{
                         "shadowColor":{
                             "red":0,
