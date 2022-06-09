@@ -26,14 +26,14 @@
                 "path":"haibao_5_sucai.png"
             },
             {
-                "x":28,
+                "x":30,
                 "y":114,
-                "width":87,
-                "height":87,
+                "width":84,
+                "height":84,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":43.5,
+                "bgRadius":42,
                 "path":"haibao_5_touxiang.png"
             },
             {
