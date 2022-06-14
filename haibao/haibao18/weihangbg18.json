@@ -41,13 +41,13 @@
         "textPieces":[
             {
                 "x":105,
-                "y":63,
+                "y":58,
                 "width":157,
                 "height":29,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":15,
+                "angle":10,
                 "verticalAlign":0,
                 "text":"COCO爱物小店",
                 "textAlign":1,
@@ -144,7 +144,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":12,
                 "lineCount":3,
-                "lineSpace":20,
+                "lineSpace":15,
                 "characterSpace":1,
                 "shadow":{
                     "shadowColor":{
