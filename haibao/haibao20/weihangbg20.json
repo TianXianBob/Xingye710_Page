@@ -16,8 +16,8 @@
         },
         "imagePieces":[
             {
-                "x":32,
-                "y":98,
+                "x":34,
+                "y":99,
                 "width":108,
                 "height":108,
                 "verticalFlip":0,
@@ -209,7 +209,7 @@
                     }
                 },
             {
-                "x":40,
+                "x":62,
                 "y":235,
                 "width":94,
                 "height":47,
@@ -223,7 +223,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":8.7,
                 "lineCount":3,
-                "lineSpace":10,
+                "lineSpace":7,
                 "characterSpace":1,
                 "shadow":{
                     "shadowColor":{
@@ -292,9 +292,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255
+                    "blue":255,
                     "alpha":1
                     }
                 }
