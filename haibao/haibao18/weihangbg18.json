@@ -47,7 +47,7 @@
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":25,
+                "angle":15,
                 "verticalAlign":0,
                 "text":"COCO爱物小店",
                 "textAlign":1,
@@ -78,9 +78,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":58,
+                    "green":63,
+                    "blue":157,
                     "alpha":1
                     }
                 },
@@ -123,9 +123,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":58,
+                    "green":63,
+                    "blue":157,
                     "alpha":1
                     }
                 },
@@ -168,9 +168,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":58,
+                    "green":63,
+                    "blue":157,
                     "alpha":1
                     }
                 },
@@ -213,9 +213,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":58,
+                    "green":63,
+                    "blue":157,
                     "alpha":1
                     }
                 },
@@ -258,9 +258,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":58,
+                    "green":63,
+                    "blue":157,
                     "alpha":1
                     }
                 },
@@ -303,9 +303,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":58,
+                    "green":63,
+                    "blue":157,
                     "alpha":1
                     }
                 }
