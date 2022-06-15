@@ -46,7 +46,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
-                "path":"haibao_22_2.png"
+                "path":"haibao_23_2.png"
             },
             {
                 "x":154,
@@ -57,7 +57,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
-                "path":"haibao_22_3.png"
+                "path":"haibao_23_3.png"
             },
             {
                 "x":173,
@@ -114,7 +114,7 @@
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":15,
+                "angle":7,
                 "verticalAlign":0,
                 "text":"自用省钱分享赚钱",
                 "textAlign":1,
@@ -159,7 +159,7 @@
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":15,
+                "angle":7,
                 "verticalAlign":0,
                 "text":"Coco母婴店",
                 "textAlign":1,
@@ -204,7 +204,7 @@
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":15,
+                "angle":7,
                 "verticalAlign":0,
                 "text":"营业时间：8:00-23:00",
                 "textAlign":1,
@@ -378,7 +378,7 @@
                 },
             {
                 "x":181,
-                "y":212,
+                "y":214,
                 "width":187,
                 "height":13,
                 "type":1,
@@ -415,15 +415,15 @@
                     }
                 },
                 "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
+                    "red":0,
+                    "green":0,
+                    "blue":0,
                     "alpha":1
                     }
                 },
             {
                 "x":181,
-                "y":232,
+                "y":231,
                 "width":187,
                 "height":13,
                 "type":1,
@@ -468,7 +468,7 @@
                 },
             {
                 "x":181,
-                "y":252,
+                "y":250,
                 "width":187,
                 "height":13,
                 "type":1,
@@ -513,7 +513,7 @@
                 },
             {
                 "x":181,
-                "y":272,
+                "y":268,
                 "width":187,
                 "height":13,
                 "type":1,
