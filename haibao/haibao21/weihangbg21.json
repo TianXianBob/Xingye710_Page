@@ -119,7 +119,7 @@
                     }
                 },
             {
-                "x":45,
+                "x":66,
                 "y":210,
                 "width":133,
                 "height":56,
@@ -164,7 +164,7 @@
                     }
                 },
             {
-                "x":185,
+                "x":193,
                 "y":210,
                 "width":133,
                 "height":56,
@@ -221,7 +221,7 @@
                 "text":"单丝不成线，独木不成林",
                 "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":12,
+                "defaultFontSize":14,
                 "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":1,
