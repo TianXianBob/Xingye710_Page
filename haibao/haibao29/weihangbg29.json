@@ -39,7 +39,7 @@
             },
             {
                 "x":184,
-                "y":158,
+                "y":161,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -50,7 +50,7 @@
             },
             {
                 "x":184,
-                "y":177,
+                "y":181,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -61,7 +61,7 @@
             },
             {
                 "x":184,
-                "y":195,
+                "y":199,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -72,7 +72,7 @@
             },
             {
                 "x":184,
-                "y":215,
+                "y":219,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -83,7 +83,7 @@
             },
             {
                 "x":184,
-                "y":234,
+                "y":238,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -94,7 +94,7 @@
             },
             {
                 "x":184,
-                "y":253,
+                "y":257,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -242,7 +242,7 @@
                 },
             {
                 "x":70,
-                "y":243,
+                "y":248,
                 "width":149,
                 "height":19,
                 "type":1,
@@ -467,7 +467,7 @@
                 },
             {
                 "x":187,
-                "y":197,
+                "y":193,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -512,7 +512,7 @@
                 },
             {
                 "x":187,
-                "y":217,
+                "y":213,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -557,7 +557,7 @@
                 },
             {
                 "x":187,
-                "y":237,
+                "y":233,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -602,7 +602,7 @@
                 },
             {
                 "x":187,
-                "y":258,
+                "y":253,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -656,12 +656,12 @@
                 "angle":0,
                 "verticalAlign":0,
                 "text":"在线时间：8:00-23:00",
-                "textAlign":0,
+                "textAlign":1,
                 "fontName":"华康方圆体",
                 "defaultFontSize":13,
                 "lineCount":0,
                 "lineSpace":0,
-                "characterSpace":1,
+                "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
