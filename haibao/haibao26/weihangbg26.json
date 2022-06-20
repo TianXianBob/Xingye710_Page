@@ -44,7 +44,7 @@
                 "defaultFontSize":18,
                 "lineCount":0,
                 "lineSpace":0,
-                "characterSpace":1,
+                "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -129,7 +129,7 @@
                 "angle":0,
                 "verticalAlign":0,
                 "text":"90后老板一枚\n欢迎光临，欢迎来撩",
-                "textAlign":1,
+                "textAlign":0,
                 "fontName":"华康方圆体",
                 "defaultFontSize":10,
                 "lineCount":2,
@@ -219,7 +219,7 @@
                 "angle":0,
                 "verticalAlign":0,
                 "text":"一直被人模仿\n请认准葵葵",
-                "textAlign":0,
+                "textAlign":1,
                 "fontName":"华康方圆体",
                 "defaultFontSize":10,
                 "lineCount":2,
