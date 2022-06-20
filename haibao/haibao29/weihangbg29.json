@@ -121,7 +121,7 @@
                 "defaultFontSize":16,
                 "lineCount":0,
                 "lineSpace":0,
-                "characterSpace":1,
+                "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -144,9 +144,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":187,
+                    "green":121,
+                    "blue":136,
                     "alpha":1
                     }
                 },
@@ -241,7 +241,7 @@
                     }
                 },
             {
-                "x":6,
+                "x":70,
                 "y":243,
                 "width":149,
                 "height":19,
@@ -253,7 +253,7 @@
                 "text":"店1:XXXXXXXXXX\n店2:XXXXXXXXXX",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":9,
+                "defaultFontSize":7,
                 "lineCount":2,
                 "lineSpace":5,
                 "characterSpace":1,
@@ -422,7 +422,7 @@
                 },
             {
                 "x":187,
-                "y":173,
+                "y":174,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -467,7 +467,7 @@
                 },
             {
                 "x":187,
-                "y":193,
+                "y":197,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -512,7 +512,7 @@
                 },
             {
                 "x":187,
-                "y":213,
+                "y":217,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -557,7 +557,7 @@
                 },
             {
                 "x":187,
-                "y":233,
+                "y":237,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -602,7 +602,7 @@
                 },
             {
                 "x":187,
-                "y":253,
+                "y":258,
                 "width":186,
                 "height":13,
                 "type":1,
@@ -642,6 +642,51 @@
                     "red":0,
                     "green":0,
                     "blue":0,
+                    "alpha":1
+                    }
+                },
+            {
+                "x":14,
+                "y":286,
+                "width":187,
+                "height":21,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "verticalAlign":0,
+                "text":"在线时间：8:00-23:00",
+                "textAlign":0,
+                "fontName":"华康方圆体",
+                "defaultFontSize":13,
+                "lineCount":0,
+                "lineSpace":0,
+                "characterSpace":1,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":187,
+                    "green":121,
+                    "blue":136,
                     "alpha":1
                     }
                 }
