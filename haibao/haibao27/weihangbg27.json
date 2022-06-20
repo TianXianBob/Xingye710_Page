@@ -771,7 +771,7 @@
                 "fontName":"华康方圆体",
                 "defaultFontSize":14,
                 "lineCount":2,
-                "lineSpace":10,
+                "lineSpace":6,
                 "characterSpace":1,
                 "shadow":{
                     "shadowColor":{
@@ -798,6 +798,51 @@
                     "red":120,
                     "green":125,
                     "blue":190,
+                    "alpha":1
+                    }
+                },
+            {
+                "x":302,
+                "y":99,
+                "width":40,
+                "height":11,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":345,
+                "verticalAlign":0,
+                "text":"欢迎光临",
+                "textAlign":1,
+                "fontName":"华康方圆体",
+                "defaultFontSize":12,
+                "lineCount":0,
+                "lineSpace":0,
+                "characterSpace":1,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":0,
+                    "green":0,
+                    "blue":0,
                     "alpha":1
                     }
                 }
