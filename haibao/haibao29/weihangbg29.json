@@ -301,7 +301,7 @@
                 "defaultFontSize":11,
                 "lineCount":0,
                 "lineSpace":0,
-                "characterSpace":1,
+                "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
