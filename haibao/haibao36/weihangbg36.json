@@ -71,8 +71,8 @@
                     "path":"haibao_36_1.png"
                 },
                 {
-                    "x":233,
-                    "y":265,
+                    "x":243,
+                    "y":270,
                     "width":23,
                     "height":16,
                     "verticalFlip":0,
@@ -347,9 +347,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                     }
                 }

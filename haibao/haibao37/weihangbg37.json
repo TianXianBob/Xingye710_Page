@@ -1,6 +1,6 @@
 {
     "data":{
-        "resId":"haibao_36",
+        "resId":"haibao_37",
         "type":1,
         "name":"微商朋友圈背景可爱风1",
         "canvas":{
@@ -12,7 +12,7 @@
                 "blue":255,
                 "alpha":1
             },
-            "path":"haibao_36_sucai.png"
+            "path":"haibao_37_sucai.png"
         },
         "imagePieces":[
                 {
@@ -24,7 +24,7 @@
                     "horizonFlip":0,
                     "angle":0,
                     "bgRadius":0,
-                    "path":"haibao_36_1.png"
+                    "path":"haibao_37_1.png"
                 },
                 {
                     "x":94,
@@ -35,7 +35,7 @@
                     "horizonFlip":0,
                     "angle":0,
                     "bgRadius":0,
-                    "path":"haibao_36_1.png"
+                    "path":"haibao_37_1.png"
                 },
                 {
                     "x":94,
@@ -46,7 +46,7 @@
                     "horizonFlip":0,
                     "angle":0,
                     "bgRadius":0,
-                    "path":"haibao_36_1.png"
+                    "path":"haibao_37_1.png"
                 },
                 {
                     "x":94,
@@ -57,7 +57,7 @@
                     "horizonFlip":0,
                     "angle":0,
                     "bgRadius":0,
-                    "path":"haibao_36_1.png"
+                    "path":"haibao_37_1.png"
                 },
                 {
                     "x":94,
@@ -68,18 +68,18 @@
                     "horizonFlip":0,
                     "angle":0,
                     "bgRadius":0,
-                    "path":"haibao_36_1.png"
+                    "path":"haibao_37_1.png"
                 },
                 {
-                    "x":233,
-                    "y":265,
+                    "x":243,
+                    "y":270,
                     "width":23,
                     "height":16,
                     "verticalFlip":0,
                     "horizonFlip":0,
                     "angle":0,
                     "bgRadius":0,
-                    "path":"haibao_36_2.png"
+                    "path":"haibao_37_2.png"
                 }
         ],
         "textPieces":[
@@ -347,9 +347,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                     }
                 }
