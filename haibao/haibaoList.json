@@ -244,6 +244,20 @@
             "type":"1",
             "thumbWidth":"375",
             "thumbHeight":"375"
+        },
+        {
+            "haiBaoJsonName":"haibao36",
+            "thumbPath":"haibao_36_xiaoguotu.jpg",
+            "type":"1",
+            "thumbWidth":"375",
+            "thumbHeight":"375"
+        },
+        {
+            "haiBaoJsonName":"haibao37",
+            "thumbPath":"haibao_37_xiaoguotu.jpg",
+            "type":"1",
+            "thumbWidth":"375",
+            "thumbHeight":"375"
         }
     
     ]
