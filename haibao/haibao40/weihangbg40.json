@@ -1,6 +1,6 @@
 {
     "data":{
-        "resId":"haibao_38",
+        "resId":"haibao_40",
         "type":1,
         "name":"微商朋友圈背景可爱风1",
         "canvas":{
@@ -12,36 +12,58 @@
                 "blue":255,
                 "alpha":1
             },
-            "path":"haibao_38_sucai.png"
+            "path":"haibao_40_sucai.png"
         },
         "imagePieces":[
             {
-                "x":15,
-                "y":40,
-                "width":134,
+                "x":222,
+                "y":141,
+                "width":14,
                 "height":134,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":67,
-                "path":"haibao_38_touxiang.png"
+                "path":"haibao_40_touxiang.png"
+            },
+            {
+                "x":43,
+                "y":313,
+                "width":118,
+                "height":13,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_40_1.png"
+            },
+            {
+                "x":188,
+                "y":130,
+                "width":68,
+                "height":6.5,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_40_1.png"
             }
         ],
         "textPieces":[
             {
-                "x":56,
-                "y":187,
-                "width":265,
-                "height":26,
+                "x":37,
+                "y":114,
+                "width":146,
+                "height":22,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"柚子酱",
-                "textAlign":0,
+                "text":"HI 你又来看我啦",
+                "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":22,
+                "defaultFontSize":16,
                 "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":2,
@@ -74,19 +96,19 @@
                     }
                 },
             {
-                "x":56,
-                "y":217,
-                "width":265,
-                "height":17,
+                "x":186,
+                "y":116,
+                "width":74,
+                "height":16.8,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"我是一个小小小美工，有点倔强，很暧昧，超级喜欢分享!",
-                "textAlign":0,
+                "text":"我本人更可爱",
+                "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":9,
+                "defaultFontSize":11,
                 "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":2,
@@ -119,109 +141,64 @@
                     }
                 },
             {
-                "x":73,
-                "y":239,
-                "width":265,
+                "x":37,
+                "y":143,
+                "width":182,
+                "height":162,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "verticalAlign":0,
+                "text":"我叫敏敏\n96年妹纸\n我的朋友圈\n有我每一天创业历程\n你能看到我的用心踏实努力\n越努力越幸运\n茫茫人海有幸在此与你相遇\n诚邀你跟我一起赚钱一起变美\nDVZ#朵色总代理\nOK国际联合创始人",
+                "textAlign":0,
+                "fontName":"华康方圆体",
+                "defaultFontSize":11,
+                "lineCount":10,
+                "lineSpace":7,
+                "characterSpace":2,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":0,
+                    "green":0,
+                    "blue":0,
+                    "alpha":1
+                    }
+                },
+            {
+                "x":44,
+                "y":314,
+                "width":116,
                 "height":12,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"天秤座",
+                "text":"微信：XXXXXXXXXXX",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":7.6,
-                "lineCount":0,
-                "lineSpace":0,
-                "characterSpace":2,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":1,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
-                    "alpha":1
-                    }
-                },
-            {
-                "x":73,
-                "y":255,
-                "width":265,
-                "height":12,
-                "type":1,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "verticalAlign":0,
-                "text":"来自 重庆",
-                "textAlign":0,
-                "fontName":"华康方圆体",
-                "defaultFontSize":7.6,
-                "lineCount":0,
-                "lineSpace":0,
-                "characterSpace":2,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":1,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
-                    "alpha":1
-                    }
-                },
-            {
-                "x":73,
-                "y":271,
-                "width":265,
-                "height":47,
-                "type":1,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "verticalAlign":0,
-                "text":"我一直都是个普通人，长的很普通，拍照技术很普通，生活，社交都很普通但是我爱好我现在每天的生活和身边的朋友，家人，既然有小伙伴看我的笔记，我会努力每天抽空更新，还有亲们有什么对搭配的问题也可留言或者私我~",
-                "textAlign":0,
-                "fontName":"华康方圆体",
-                "defaultFontSize":7.6,
+                "defaultFontSize":11,
                 "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":2,

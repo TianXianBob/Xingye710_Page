@@ -28,7 +28,7 @@
             },
             {
                 "x":114,
-                "y":157,
+                "y":154,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -39,7 +39,7 @@
             },
             {
                 "x":114,
-                "y":175,
+                "y":172,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -50,7 +50,7 @@
             },
             {
                 "x":114,
-                "y":193,
+                "y":190,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -61,7 +61,7 @@
             },
             {
                 "x":114,
-                "y":211,
+                "y":208,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -72,7 +72,7 @@
             },
             {
                 "x":114,
-                "y":229,
+                "y":226,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -83,7 +83,7 @@
             },
             {
                 "x":114,
-                "y":247,
+                "y":244,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -94,7 +94,18 @@
             },
             {
                 "x":114,
-                "y":265,
+                "y":261,
+                "width":2,
+                "height":2,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":67,
+                "path":"haibao_39_dian.png"
+            },
+            {
+                "x":114,
+                "y":279,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
