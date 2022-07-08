@@ -15,7 +15,17 @@
             "path":"haibao_38_sucai.png"
         },
         "imagePieces":[
-                
+            {
+                "x":15,
+                "y":40,
+                "width":134,
+                "height":134,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":67,
+                "path":"haibao_38_touxiang.png"
+            }
         ],
         "textPieces":[
             {
@@ -208,7 +218,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"我一直都是个普通人，长的很普通，拍照技术很普通，生活，社交都很普通但是我爱好我现在每天的生活和身边的朋友，家人，既然有小伙伴看我的笔记，我会努力每天抽空更新，还有亲们有什么对搭配的问题也可留言或者私我~",
+                "text":"我一直都是个普通人，长的很普通，拍照技术很普通，生活，社交都很普通\n但是我爱好我现在每天的生活和身边的朋友，家人，既然有小伙伴\n看我的笔记，我会努力每天抽空更新，还有亲们有什么对搭配的\n问题也可留言或者私我~",
                 "textAlign":0,
                 "fontName":"华康方圆体",
                 "defaultFontSize":7.6,
