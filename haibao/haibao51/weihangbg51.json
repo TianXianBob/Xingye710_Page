@@ -1,6 +1,6 @@
 {
     "data":{
-        "resId":"haibao_47",
+        "resId":"haibao_51",
         "type":1,
         "name":"微商朋友圈背景可爱风1",
         "canvas":{
@@ -12,36 +12,36 @@
                 "blue":255,
                 "alpha":1
             },
-            "path":"haibao_47_sucai.png"
+            "path":"haibao_51_sucai.png"
         },
         "imagePieces":[
             {
-                "x":138,
-                "y":75,
-                "width":98,
-                "height":98,
+                "x":139,
+                "y":68,
+                "width":102,
+                "height":102,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":49,
-                "path":"haibao_47_touxiang.png"
+                "bgRadius":51,
+                "path":"haibao_51_touxiang.png"
             }
         ],
         "textPieces":[
             {
-                "x":108,
-                "y":182,
-                "width":150,
+                "x":126,
+                "y":183,
+                "width":128,
                 "height":18,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"两年口碑老店",
+                "text":"zhai studio",
                 "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":14,
+                "defaultFontSize":17,
                 "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":2,
@@ -74,22 +74,22 @@
                     }
                 },
             {
-                "x":99,
+                "x":125,
                 "y":202,
-                "width":167,
+                "width":128,
                 "height":18,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"主营：医美 美白 瘦身 美瞳 杂货",
+                "text":"宅家小铺",
                 "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":10,
+                "defaultFontSize":11,
                 "lineCount":0,
                 "lineSpace":0,
-                "characterSpace":1,
+                "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -119,21 +119,21 @@
                     }
                 },
             {
-                "x":15,
-                "y":222,
-                "width":167,
-                "height":53,
+                "x":41,
+                "y":228,
+                "width":153,
+                "height":57,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"官网直发正品美瞳药监局可查\n医美全系保真假一赔十\n拒绝鱼龙混杂",
+                "text":"长期招代理\n同步韩国东大门\n对接团队 网红一对一培训",
                 "textAlign":2,
                 "fontName":"华康方圆体",
-                "defaultFontSize":10,
+                "defaultFontSize":11,
                 "lineCount":3,
-                "lineSpace":8,
+                "lineSpace":9,
                 "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
@@ -164,21 +164,21 @@
                     }
                 },
             {
-                "x":190,
-                "y":222,
-                "width":167,
-                "height":53,
+                "x":200,
+                "y":228,
+                "width":153,
+                "height":57,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"健康美白瘦身类非三无防伪可查\n杂货类均为一手货源品质保证\n拒绝真假惨卖",
+                "text":"最宠代理团队\n最强扶持团队\n最强售前售后体系团队",
                 "textAlign":0,
                 "fontName":"华康方圆体",
-                "defaultFontSize":10,
+                "defaultFontSize":11,
                 "lineCount":3,
-                "lineSpace":8,
+                "lineSpace":9,
                 "characterSpace":2,
                 "shadow":{
                     "shadowColor":{
@@ -209,64 +209,19 @@
                     }
                 },
             {
-                "x":118,
-                "y":289,
-                "width":137,
-                "height":10,
+                "x":41,
+                "y":291,
+                "width":312,
+                "height":15,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"招上进代理 一件代发",
+                "text":"我是宅宅 我再这里 等风也等你",
                 "textAlign":1,
                 "fontName":"华康方圆体",
-                "defaultFontSize":9,
-                "lineCount":0,
-                "lineSpace":0,
-                "characterSpace":2,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":1,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
-                    "alpha":1
-                    }
-                },
-            {
-                "x":102,
-                "y":302,
-                "width":167,
-                "height":12,
-                "type":1,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "verticalAlign":0,
-                "text":"Wechat：XXXXXXXXXXXX",
-                "textAlign":1,
-                "fontName":"华康方圆体",
-                "defaultFontSize":9,
+                "defaultFontSize":11,
                 "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":2,
@@ -298,7 +253,6 @@
                     "alpha":1
                     }
                 }
-            
         ]
     }
 }

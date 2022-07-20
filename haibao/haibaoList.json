@@ -335,6 +335,27 @@
             "type":"1",
             "thumbWidth":"375",
             "thumbHeight":"375"
+        },
+        {
+            "haiBaoJsonName":"haibao49",
+            "thumbPath":"haibao_49_xiaoguotu.jpg",
+            "type":"1",
+            "thumbWidth":"375",
+            "thumbHeight":"375"
+        },
+        {
+            "haiBaoJsonName":"haibao50",
+            "thumbPath":"haibao_50_xiaoguotu.jpg",
+            "type":"1",
+            "thumbWidth":"375",
+            "thumbHeight":"375"
+        },
+        {
+            "haiBaoJsonName":"haibao51",
+            "thumbPath":"haibao_51_xiaoguotu.jpg",
+            "type":"1",
+            "thumbWidth":"375",
+            "thumbHeight":"375"
         }
     
     ]

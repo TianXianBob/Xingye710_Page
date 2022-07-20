@@ -28,7 +28,7 @@
             },
             {
                 "x":114,
-                "y":154,
+                "y":157,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -39,7 +39,7 @@
             },
             {
                 "x":114,
-                "y":172,
+                "y":175,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -50,18 +50,7 @@
             },
             {
                 "x":114,
-                "y":190,
-                "width":2,
-                "height":2,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "bgRadius":67,
-                "path":"haibao_39_dian.png"
-            },
-            {
-                "x":114,
-                "y":208,
+                "y":193,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -72,7 +61,7 @@
             },
             {
                 "x":114,
-                "y":226,
+                "y":211,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -83,7 +72,7 @@
             },
             {
                 "x":114,
-                "y":244,
+                "y":229,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -94,7 +83,7 @@
             },
             {
                 "x":114,
-                "y":261,
+                "y":247,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
@@ -105,7 +94,18 @@
             },
             {
                 "x":114,
-                "y":279,
+                "y":264,
+                "width":2,
+                "height":2,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0,
+                "path":"haibao_39_dian.png"
+            },
+            {
+                "x":114,
+                "y":282,
                 "width":2,
                 "height":2,
                 "verticalFlip":0,
