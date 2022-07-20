@@ -73,13 +73,13 @@
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"主营：中高端童装、爆款系列母婴用品\n本店不议价 非质量问题不退不换\n选款 请翻烂朋友圈\n贩卖关于宝宝的一切",
+                "text":"主营：中高端童装 爆款系列母婴用品\n本店不议价 非质量问题不退不换\n选款 请翻烂朋友圈\n贩卖关于宝宝的一切",
                 "textAlign":0,
                 "fontName":"华康方圆体",
                 "defaultFontSize":11,
                 "lineCount":4,
                 "lineSpace":16,
-                "characterSpace":2,
+                "characterSpace":1,
                 "shadow":{
                     "shadowColor":{
                         "red":0,
@@ -102,9 +102,9 @@
                     }
                 },
                 "color":{
-                    "red":188,
-                    "green":153,
-                    "blue":111,
+                    "red":0,
+                    "green":0,
+                    "blue":0,
                     "alpha":1
                     }
                 },
@@ -147,9 +147,9 @@
                     }
                 },
                 "color":{
-                    "red":188,
-                    "green":153,
-                    "blue":111,
+                    "red":0,
+                    "green":0,
+                    "blue":0,
                     "alpha":1
                     }
                 }
