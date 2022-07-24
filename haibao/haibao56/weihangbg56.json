@@ -117,7 +117,7 @@
         ],
         "textPieces":[
             {
-                "x":21,
+                "x":0,
                 "y":89,
                 "width":191,
                 "height":20,
@@ -344,7 +344,7 @@
             {
                 "x":68,
                 "y":303,
-                "width":97,
+                "width":110,
                 "height":33,
                 "type":1,
                 "verticalFlip":0,
