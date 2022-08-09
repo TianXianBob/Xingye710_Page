@@ -11,10 +11,20 @@
                 "green":255,
                 "blue":255,
                 "alpha":1
-            },
-            "path":"haibao_49_sucai.png"
+            }
         },
         "imagePieces":[
+            {
+                "path":"haibao_49_sucai.png",
+                "x":0,
+                "y":0,
+                "width":375,
+                "height":375,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0
+            },
             {
                 "x":152,
                 "y":149,
