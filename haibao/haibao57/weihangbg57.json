@@ -45,6 +45,18 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":1
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
                 "path":"haibao_57_heikuai.png"
             },
             {
@@ -132,7 +144,7 @@
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":4,
+                "bgRadius":7,
                 "path":"haibao_57_touxiang.png"
             },
             {
@@ -143,7 +155,7 @@
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":4,
+                "bgRadius":7,
                 "path":"haibao_57_touxiang.png"
             }
         ],
@@ -205,7 +217,7 @@
                 "verticalAlign":0,
                 "text":"压迫感十足女头",
                 "textAlign":0,
-                "fontName":"优设标题黑",
+                "fontName":"优设标题黑Regular",
                 "defaultFontSize":21.6,
                 "lineCount":0,
                 "lineSpace":0,
