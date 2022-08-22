@@ -1,6 +1,14 @@
 {
     "data":[
         {
+            "haiBaoJsonName":"haibao58",
+            "thumbPath":"haibao_58_xiaoguotu.jpg",
+            "type":"1",
+            "thumbWidth":"375",
+            "thumbHeight":"375",
+            "resId":"haibao_58"
+        },
+        {
             "haiBaoJsonName":"haibao57",
             "thumbPath":"haibao_57_xiaoguotu.jpg",
             "type":"1",
