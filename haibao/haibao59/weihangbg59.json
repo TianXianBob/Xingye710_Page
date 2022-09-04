@@ -1,6 +1,6 @@
 {
     "data":{
-        "resId":"haibao_58",
+        "resId":"haibao_59",
         "type":1,
         "name":"微商朋友圈背景可爱风1",
         "canvas":{
@@ -15,7 +15,7 @@
         },
         "imagePieces":[
             {
-                "path":"haibao_58_sucai.png",
+                "path":"haibao_59_sucai.png",
                 "x":0,
                 "y":0,
                 "width":375,
@@ -26,7 +26,7 @@
                 "bgRadius":0
             },
             {
-                "path":"haibao_58_heidi.png",
+                "path":"haibao_59_heidi.png",
                 "x":0,
                 "y":0,
                 "width":375,
@@ -45,7 +45,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":7,
-                "path":"haibao_58_baikuai.png"
+                "path":"haibao_59_baikuai.png"
             },
             {
                 "x":85,
@@ -56,7 +56,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":7,
-                "path":"haibao_58_touxiang.png"
+                "path":"haibao_59_touxiang.png"
             },
             {
                 "x":84,
@@ -67,7 +67,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":7,
-                "path":"haibao_58_touxiang.png"
+                "path":"haibao_59_touxiang.png"
             }
         ],
         "textPieces":[
