@@ -5,7 +5,7 @@
         "name":"微商朋友圈背景可爱风1",
         "canvas":{
             "width":375,
-            "height":501,
+            "height":375,
             "color":{
                 "red":255,
                 "green":255,
@@ -19,73 +19,83 @@
                 "x":0,
                 "y":0,
                 "width":375,
-                "height":501,
+                "height":375,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":0
+            },
+            {
+                "path":"haibao_58_heidi.png",
+                "x":0,
+                "y":0,
+                "width":375,
+                "height":375,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":0
+            },
+            {
+                "x":17,
+                "y":135,
+                "width":11.7,
+                "height":14,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":7,
+                "path":"haibao_58_touxiang.png"
+            },
+            {
+                "x":84,
+                "y":21,
+                "width":75,
+                "height":75,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":7,
+                "path":"haibao_58_touxiang.png"
+            },
+            {
+                "x":59,
+                "y":40,
+                "width":255,
+                "height":315,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":7,
+                "path":"haibao_58_baikuai.png"
+            },
+            {
+                "x":84,
+                "y":120,
+                "width":208,
+                "height":208,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":7,
+                "path":"haibao_57_touxiang.png"
             }
         ],
         "textPieces":[
             {
-                "x":42.8,
-                "y":153.8,
-                "width":45,
-                "height":14,
+                "x":167,
+                "y":50,
+                "width":115,
+                "height":26,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"05:20",
-                "textAlign":1,
-                "fontName":"",
-                "defaultFontSize":12.4,
-                "lineCount":0,
-                "lineSpace":0,
-                "characterSpace":2,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":1,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":1
-                    }
-                },
-            {
-                "x":123.7,
-                "y":215,
-                "width":186,
-                "height":22.7,
-                "type":1,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "verticalAlign":0,
-                "text":"压迫感十足女头",
+                "text":"高级感",
                 "textAlign":0,
-                "fontName":"优设标题黑Regular",
-                "defaultFontSize":21.6,
+                "fontName":"华康方圆体",
+                "defaultFontSize":24,
                 "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":2,
@@ -111,71 +121,26 @@
                     }
                 },
                 "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
+                    "red":0,
+                    "green":0,
+                    "blue":0,
                     "alpha":1
                     }
                 },
             {
-                "x":123.7,
-                "y":254.8,
-                "width":42.8,
-                "height":17,
+                "x":167,
+                "y":78,
+                "width":115,
+                "height":15,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "verticalAlign":0,
-                "text":"+状态",
-                "textAlign":1,
-                "fontName":"",
-                "defaultFontSize":9.8,
-                "lineCount":0,
-                "lineSpace":0,
-                "characterSpace":2,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":1,
-                    "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":1
-                    }
-                },
-            {
-                "x":208,
-                "y":255,
-                "width":61.5,
-                "height":17,
-                "type":1,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "verticalAlign":0,
-                "text":"等59个朋友",
+                "text":"头像越怪长得越帅",
                 "textAlign":0,
-                "fontName":"",
-                "defaultFontSize":9.8,
+                "fontName":"华康方圆体",
+                "defaultFontSize":12,
                 "lineCount":0,
                 "lineSpace":0,
                 "characterSpace":2,
@@ -201,9 +166,9 @@
                     }
                 },
                 "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
+                    "red":0,
+                    "green":0,
+                    "blue":0,
                     "alpha":1
                     }
                 }
