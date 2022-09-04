@@ -37,28 +37,6 @@
                 "bgRadius":0
             },
             {
-                "x":17,
-                "y":135,
-                "width":11.7,
-                "height":14,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "bgRadius":7,
-                "path":"haibao_58_touxiang.png"
-            },
-            {
-                "x":84,
-                "y":21,
-                "width":75,
-                "height":75,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "bgRadius":7,
-                "path":"haibao_58_touxiang.png"
-            },
-            {
                 "x":59,
                 "y":40,
                 "width":255,
@@ -70,6 +48,17 @@
                 "path":"haibao_58_baikuai.png"
             },
             {
+                "x":85,
+                "y":21,
+                "width":75,
+                "height":75,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "bgRadius":7,
+                "path":"haibao_58_touxiang.png"
+            },
+            {
                 "x":84,
                 "y":120,
                 "width":208,
@@ -78,7 +67,7 @@
                 "horizonFlip":0,
                 "angle":0,
                 "bgRadius":7,
-                "path":"haibao_57_touxiang.png"
+                "path":"haibao_58_touxiang.png"
             }
         ],
         "textPieces":[
