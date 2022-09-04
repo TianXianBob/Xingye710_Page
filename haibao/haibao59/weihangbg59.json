@@ -44,7 +44,7 @@
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":7,
+                "bgRadius":0,
                 "path":"haibao_59_baikuai.png"
             },
             {
@@ -55,7 +55,7 @@
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":7,
+                "bgRadius":17,
                 "path":"haibao_59_touxiang.png"
             },
             {
@@ -66,7 +66,7 @@
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
-                "bgRadius":7,
+                "bgRadius":17,
                 "path":"haibao_59_touxiang.png"
             }
         ],
