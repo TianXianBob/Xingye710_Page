@@ -80,7 +80,7 @@
                 }
             },
             {
-                "x":55.5,
+                "x":46.5,
                 "y":75,
                 "width":60.5,
                 "height":16,
@@ -93,7 +93,7 @@
                 "verticalAlign":1,
                 "text":"10:54",
                 "textAlign":1,
-                "fontName":"优设标题黑Regular",
+                "fontName":"futura-heavyoblique",
                 "defaultFontSize":24,
                 "maxCount":1,
                 "lineCount":1,
@@ -128,7 +128,7 @@
                 }
             },
             {
-                "x":16.5,
+                "x":18.5,
                 "y":101.5,
                 "width":217,
                 "height":21,
@@ -154,7 +154,7 @@
                         "blue":0,
                         "alpha":0.3
                     },
-                    "opacity":0.2,
+                    "opacity":0.1,
                     "shadowOffsetX":2,
                     "shadowOffsetY":3,
                     "shadowRadius":0
@@ -202,7 +202,7 @@
                         "blue":0,
                         "alpha":0.3
                     },
-                    "opacity":0.2,
+                    "opacity":0.1,
                     "shadowOffsetX":2,
                     "shadowOffsetY":3,
                     "shadowRadius":0
@@ -224,7 +224,7 @@
                 }
             },
             {
-                "x":20.5,
+                "x":10.5,
                 "y":154,
                 "width":159.5,
                 "height":12,
