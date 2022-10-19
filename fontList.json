@@ -32,6 +32,7 @@
             "yPadding":0,
             "showText":"华康方圆体"
         },
+        
         {
             "name":"锐字温帅小可爱简",
             "tags":[
@@ -95,6 +96,22 @@
             "xPadding":0,
             "yPadding":0,
             "showText":"电影海报字体"
+        },
+        {
+            "name":"sim黑体",
+            "tags":[
+                "sim黑体"
+            ],
+            "localID":"S09",
+            "thumb":"simhei.png",
+            "wenJian":"simhei.ttc",
+            "chanPinId":"com.bob.simheiti",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"sim黑体"
         },
         {
             "name":"优设标题黑Regular",
