@@ -85,7 +85,7 @@
                     "blue":255,
                     "alpha":0
                 },
-                "bgRadius":10
+                "bgRadius":8
             },
             {
                 "x":64.5,
@@ -141,7 +141,7 @@
                     "blue":255,
                     "alpha":0
                 },
-                "bgRadius":10
+                "bgRadius":8
             },
             {
                 "x":107,
@@ -197,7 +197,7 @@
                     "blue":158,
                     "alpha":0.6
                 },
-                "bgRadius":50
+                "bgRadius":8
             },
             {
                 "x":107,
@@ -253,7 +253,7 @@
                     "blue":158,
                     "alpha":0.6
                 },
-                "bgRadius":50
+                "bgRadius":8
             }
         ]
     }
