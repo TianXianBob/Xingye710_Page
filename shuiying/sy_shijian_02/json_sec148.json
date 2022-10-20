@@ -32,56 +32,8 @@
         ],
         "textPieces":[
             {
-                "x":19,
-                "y":75,
-                "width":29.5,
-                "height":16,
-                "type":1,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "offsetX":0,
-                "offsetY":0,
-                "verticalAlign":1,
-                "text":"打卡",
-                "textAlign":1,
-                "fontName":"优设标题黑Regular",
-                "defaultFontSize":18,
-                "maxCount":30,
-                "lineCount":1,
-                "lineSpace":0,
-                "characterSpace":0,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":255,
-                        "blue":255,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
-                    "alpha":1
-                }
-            },
-            {
                 "x":17.5,
-                "y":135.5,
+                "y":85.5,
                 "width":33.5,
                 "height":25.5,
                 "type":9,
@@ -122,9 +74,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 },
                 "bgColor":{
@@ -133,11 +85,11 @@
                     "blue":255,
                     "alpha":0
                 },
-                "bgRadius" : 10
+                "bgRadius":10
             },
             {
-                "x":17.5,
-                "y":114.5,
+                "x":64.5,
+                "y":85.5,
                 "width":33.5,
                 "height":25.5,
                 "type":10,
@@ -178,9 +130,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 },
                 "bgColor":{
@@ -189,14 +141,14 @@
                     "blue":255,
                     "alpha":0
                 },
-                "bgRadius" : 10
+                "bgRadius":10
             },
             {
                 "x":107,
                 "y":80,
                 "width":40,
                 "height":14.5,
-                "type":10,
+                "type":8,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
@@ -205,7 +157,7 @@
                 "verticalAlign":1,
                 "text":"星期五",
                 "textAlign":1,
-                "bgInset":10,
+                "bgInset":5,
                 "fontName":"站酷小薇LOGO体",
                 "defaultFontSize":13,
                 "maxCount":20,
@@ -234,9 +186,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 },
                 "bgColor":{
@@ -245,7 +197,7 @@
                     "blue":158,
                     "alpha":0.8
                 },
-                "bgRadius" : 10
+                "bgRadius":50
             },
             {
                 "x":105,
@@ -261,7 +213,7 @@
                 "verticalAlign":1,
                 "text":"2022.05.20 ",
                 "textAlign":1,
-                "bgInset":10,
+                "bgInset":5,
                 "fontName":"站酷小薇LOGO体",
                 "defaultFontSize":16,
                 "maxCount":20,
@@ -290,9 +242,9 @@
                     }
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 },
                 "bgColor":{
@@ -301,8 +253,8 @@
                     "blue":158,
                     "alpha":0.8
                 },
-                "bgRadius" : 10
-                }
+                "bgRadius":50
+            }
         ]
     }
 }
