@@ -157,7 +157,7 @@
                 "verticalAlign":1,
                 "text":"星期五",
                 "textAlign":1,
-                "bgInset":5,
+                "bgInset":3,
                 "fontName":"站酷小薇LOGO体",
                 "defaultFontSize":13,
                 "maxCount":20,
@@ -195,12 +195,12 @@
                     "red":155,
                     "green":153,
                     "blue":158,
-                    "alpha":0.8
+                    "alpha":0.6
                 },
                 "bgRadius":50
             },
             {
-                "x":105,
+                "x":107,
                 "y":100,
                 "width":81,
                 "height":14.5,
@@ -213,7 +213,7 @@
                 "verticalAlign":1,
                 "text":"2022.05.20 ",
                 "textAlign":1,
-                "bgInset":5,
+                "bgInset":3,
                 "fontName":"站酷小薇LOGO体",
                 "defaultFontSize":16,
                 "maxCount":20,
@@ -251,7 +251,7 @@
                     "red":155,
                     "green":153,
                     "blue":158,
-                    "alpha":0.8
+                    "alpha":0.6
                 },
                 "bgRadius":50
             }
