@@ -114,6 +114,23 @@
             "showText":"sim黑体"
         },
         {
+            "name":"YournameD7HomeHalf",
+            "tags":[
+                "YournameD7HomeHalf"
+            ],
+            "localID":"S09",
+            "thumb":"YournameD7HomeHalf.png",
+            "wenJian":"YournameD7HomeHalf.ttc",
+            "chanPinId":"com.bob.YournameD7HomeHalf",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"YournameD7HomeHalf"
+            "daxiao":"4KB"
+        },
+        {
             "name":"优设标题黑Regular",
             "tags":[
                 "优设标题黑Regular"
