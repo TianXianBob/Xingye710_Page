@@ -170,7 +170,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"星期五",
-                "textAlign":2,
+                "textAlign":0,
                 "bgInset":2,
                 "fontName":"站酷小薇LOGO体",
                 "defaultFontSize":13,
@@ -226,10 +226,66 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"2022.05.20 ",
-                "textAlign":2,
+                "textAlign":0,
                 "bgInset":2,
                 "fontName":"站酷小薇LOGO体",
                 "defaultFontSize":16,
+                "maxCount":20,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":2,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":1
+                },
+                "bgColor":{
+                    "red":155,
+                    "green":153,
+                    "blue":158,
+                    "alpha":0.6
+                },
+                "bgRadius":4
+            },
+            {
+                "x":34,
+                "y":124,
+                "width":194,
+                "height":34,
+                "type":4,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"杭州市.EFC LIVE欧美广场",
+                "textAlign":0,
+                "bgInset":3,
+                "fontName":"sim黑体",
+                "defaultFontSize":14,
                 "maxCount":20,
                 "lineCount":1,
                 "lineSpace":0,
