@@ -1,10 +1,10 @@
 {
     "data":{
-        "resId":152,
+        "resId":153,
         "version":"1.0.0",
         "type":8,
         "name":"mj\u7b2c\u516b\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shijian_06/thumb_mj1.png",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shijian_07/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -28,16 +28,16 @@
                 "offsetY":0,
                 "angle":0,
                 "alpha":0.8,
-                "path":"http://tianxianbob.com/Xingye710_Page/sy_shijian_06/img_sec1.png"
+                "path":"http://tianxianbob.com/Xingye710_Page/sy_shijian_07/img_sec1.png"
             }
         ],
         "textPieces":[
             {
-                "x":70,
-                "y":94,
-                "width":77,
-                "height":16,
-                "type":11,
+                "x":67,
+                "y":91,
+                "width":165,
+                "height":15,
+                "type":12,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
@@ -48,7 +48,7 @@
                 "textAlign":0,
                 "bgInset":10,
                 "fontName":"sim黑体",
-                "defaultFontSize":16,
+                "defaultFontSize":15,
                 "maxCount":20,
                 "lineCount":1,
                 "lineSpace":0,
@@ -89,10 +89,10 @@
                 "bgRadius":8
             },
             {
-                "x":70,
-                "y":114,
-                "width":161,
-                "height":16,
+                "x":67,
+                "y":110,
+                "width":165,
+                "height":15,
                 "type":4,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -104,7 +104,7 @@
                 "textAlign":0,
                 "bgInset":2,
                 "fontName":"sim黑体",
-                "defaultFontSize":15,
+                "defaultFontSize":13,
                 "maxCount":30,
                 "lineCount":1,
                 "lineSpace":0,
@@ -145,78 +145,22 @@
                 "bgRadius":4
             },
             {
-                "x":147,
-                "y":94,
-                "width":50,
-                "height":16,
-                "type":8,
+                "x":67,
+                "y":128,
+                "width":165,
+                "height":15,
+                "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"星期五",
+                "text":"30.2783787N,119.832989E",
                 "textAlign":1,
                 "bgInset":2,
                 "fontName":"sim黑体",
-                "defaultFontSize":16,
-                "maxCount":30,
-                "lineCount":1,
-                "lineSpace":0,
-                "characterSpace":0,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":255,
-                        "blue":255,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":1
-                },
-                "bgColor":{
-                    "red":155,
-                    "green":153,
-                    "blue":158,
-                    "alpha":0
-                },
-                "bgRadius":4
-            },
-            {
-                "x":5,
-                "y":93,
-                "width":60,
-                "height":28,
-                "type":6,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "offsetX":0,
-                "offsetY":0,
-                "verticalAlign":1,
-                "text":"10:10",
-                "textAlign":1,
-                "bgInset":2,
-                "fontName":"sim黑体",
-                "defaultFontSize":30,
+                "defaultFontSize":13,
                 "maxCount":30,
                 "lineCount":1,
                 "lineSpace":0,

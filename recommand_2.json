@@ -456,6 +456,20 @@
                     "resId":152,
                     "thumbPath":"thumb_sy_shijian_06.png",
                     "isPaoFu":0
+                },
+                {
+                    "jsonName":"json_sec153.json",
+                    "folderName":"sy_shijian_07",
+                    "resId":153,
+                    "thumbPath":"thumb_sy_shijian_07.png",
+                    "isPaoFu":0
+                },
+                {
+                    "jsonName":"json_sec154.json",
+                    "folderName":"sy_shijian_08",
+                    "resId":154,
+                    "thumbPath":"thumb_sy_shijian_08.png",
+                    "isPaoFu":0
                 }
             ]
             },
