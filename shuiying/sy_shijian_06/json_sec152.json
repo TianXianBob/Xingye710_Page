@@ -1,10 +1,10 @@
 {
     "data":{
-        "resId":150,
+        "resId":152,
         "version":"1.0.0",
         "type":8,
         "name":"mj\u7b2c\u516b\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shijian_04/thumb_mj1.png",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shijian_06/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -28,27 +28,27 @@
                 "offsetY":0,
                 "angle":0,
                 "alpha":0.8,
-                "path":"http://tianxianbob.com/Xingye710_Page/sy_shijian_04/img_sec1.png"
+                "path":"http://tianxianbob.com/Xingye710_Page/sy_shijian_06/img_sec1.png"
             }
         ],
         "textPieces":[
             {
-                "x":40,
-                "y":63,
-                "width":60,
-                "height":55,
-                "type":9,
+                "x":70,
+                "y":94,
+                "width":77,
+                "height":16,
+                "type":11,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"10",
-                "textAlign":1,
+                "text":"2022.10.18",
+                "textAlign":0,
                 "bgInset":10,
                 "fontName":"sim黑体",
-                "defaultFontSize":65,
+                "defaultFontSize":16,
                 "maxCount":20,
                 "lineCount":1,
                 "lineSpace":0,
@@ -89,178 +89,10 @@
                 "bgRadius":8
             },
             {
-                "x":132,
-                "y":63,
-                "width":60,
-                "height":55,
-                "type":10,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "offsetX":0,
-                "offsetY":0,
-                "verticalAlign":1,
-                "text":"10",
-                "textAlign":1,
-                "bgInset":10,
-                "fontName":"sim黑体",
-                "defaultFontSize":65,
-                "maxCount":20,
-                "lineCount":1,
-                "lineSpace":0,
-                "characterSpace":0,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":255,
-                        "blue":255,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":1
-                },
-                "bgColor":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-                },
-                "bgRadius":8
-            },
-            {
-                "x":13,
-                "y":129,
-                "width":144,
-                "height":22,
-                "type":5,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "offsetX":0,
-                "offsetY":0,
-                "verticalAlign":1,
-                "text":"2022年10月21日",
-                "textAlign":1,
-                "bgInset":2,
-                "fontName":"sim黑体",
-                "defaultFontSize":17,
-                "maxCount":30,
-                "lineCount":1,
-                "lineSpace":0,
-                "characterSpace":0,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":255,
-                        "blue":255,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":1
-                },
-                "bgColor":{
-                    "red":155,
-                    "green":153,
-                    "blue":158,
-                    "alpha":0
-                },
-                "bgRadius":4
-            },
-            {
-                "x":155,
-                "y":129,
-                "width":72,
-                "height":22,
-                "type":8,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "offsetX":0,
-                "offsetY":0,
-                "verticalAlign":1,
-                "text":"星期五",
-                "textAlign":1,
-                "bgInset":2,
-                "fontName":"sim黑体",
-                "defaultFontSize":17,
-                "maxCount":30,
-                "lineCount":1,
-                "lineSpace":0,
-                "characterSpace":0,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":255,
-                        "blue":255,
-                        "alpha":0
-                    }
-                },
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":1
-                },
-                "bgColor":{
-                    "red":155,
-                    "green":153,
-                    "blue":158,
-                    "alpha":0
-                },
-                "bgRadius":4
-            },
-            {
-                "x":13,
-                "y":155,
-                "width":215,
-                "height":22,
+                "x":70,
+                "y":114,
+                "width":161,
+                "height":16,
                 "type":4,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -272,7 +104,119 @@
                 "textAlign":0,
                 "bgInset":2,
                 "fontName":"sim黑体",
-                "defaultFontSize":17,
+                "defaultFontSize":15,
+                "maxCount":30,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":2,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":1
+                },
+                "bgColor":{
+                    "red":155,
+                    "green":153,
+                    "blue":158,
+                    "alpha":0
+                },
+                "bgRadius":4
+            },
+            {
+                "x":147,
+                "y":94,
+                "width":50,
+                "height":16,
+                "type":8,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"星期五",
+                "textAlign":1,
+                "bgInset":2,
+                "fontName":"sim黑体",
+                "defaultFontSize":16,
+                "maxCount":30,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
+                },
+                "border":{
+                    "borderWidth":2,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":1
+                },
+                "bgColor":{
+                    "red":155,
+                    "green":153,
+                    "blue":158,
+                    "alpha":0
+                },
+                "bgRadius":4
+            },
+            {
+                "x":147,
+                "y":94,
+                "width":50,
+                "height":16,
+                "type":6,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"10:10",
+                "textAlign":1,
+                "bgInset":2,
+                "fontName":"sim黑体",
+                "defaultFontSize":30,
                 "maxCount":30,
                 "lineCount":1,
                 "lineSpace":0,
