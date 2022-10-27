@@ -46,7 +46,7 @@
                 "verticalAlign":1,
                 "text":"2022.10.18",
                 "textAlign":0,
-                "bgInset":10,
+                "bgInset":2,
                 "fontName":"sim黑体",
                 "defaultFontSize":22,
                 "maxCount":20,
