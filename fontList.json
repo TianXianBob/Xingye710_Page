@@ -111,7 +111,8 @@
             "multiple":0.7,
             "xPadding":0,
             "yPadding":0,
-            "showText":"sim黑体"
+            "showText":"sim黑体",
+            "daxiao":"5.8MB"
         },
         {
             "name":"YournameD7HomeHalf",
