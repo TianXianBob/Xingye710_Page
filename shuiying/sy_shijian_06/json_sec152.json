@@ -18,10 +18,10 @@
         },
         "imagePieces":[
             {
-                "x":0,
-                "y":0,
-                "width":240,
-                "height":240,
+                "x":48,
+                "y":124,
+                "width":23,
+                "height":4,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "offsetX":0,
@@ -33,7 +33,7 @@
         ],
         "textPieces":[
             {
-                "x":70,
+                "x":79,
                 "y":94,
                 "width":77,
                 "height":16,
@@ -46,7 +46,7 @@
                 "verticalAlign":1,
                 "text":"2022.10.18",
                 "textAlign":0,
-                "bgInset":10,
+                "bgInset":2,
                 "fontName":"sim黑体",
                 "defaultFontSize":16,
                 "maxCount":20,
@@ -89,7 +89,7 @@
                 "bgRadius":8
             },
             {
-                "x":70,
+                "x":79,
                 "y":114,
                 "width":161,
                 "height":16,
@@ -145,7 +145,7 @@
                 "bgRadius":4
             },
             {
-                "x":147,
+                "x":167,
                 "y":94,
                 "width":50,
                 "height":16,
@@ -157,7 +157,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"星期五",
-                "textAlign":1,
+                "textAlign":0,
                 "bgInset":2,
                 "fontName":"sim黑体",
                 "defaultFontSize":16,
@@ -201,7 +201,7 @@
                 "bgRadius":4
             },
             {
-                "x":5,
+                "x":0,
                 "y":93,
                 "width":60,
                 "height":28,
@@ -213,7 +213,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"10:10",
-                "textAlign":1,
+                "textAlign":0,
                 "bgInset":2,
                 "fontName":"sim黑体",
                 "defaultFontSize":30,

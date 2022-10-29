@@ -33,11 +33,11 @@
         ],
         "textPieces":[
             {
-                "x":13,
+                "x":0,
                 "y":130,
                 "width":59,
                 "height":11,
-                "type":11,
+                "type":16,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
@@ -46,7 +46,7 @@
                 "verticalAlign":1,
                 "text":"2022.10.18",
                 "textAlign":0,
-                "bgInset":10,
+                "bgInset":2,
                 "fontName":"sim黑体",
                 "defaultFontSize":10,
                 "maxCount":20,
@@ -145,7 +145,7 @@
                 "bgRadius":4
             },
             {
-                "x":72,
+                "x":80,
                 "y":130,
                 "width":35,
                 "height":11,
@@ -157,7 +157,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"星期五",
-                "textAlign":1,
+                "textAlign":0,
                 "bgInset":2,
                 "fontName":"sim黑体",
                 "defaultFontSize":10,
