@@ -45,7 +45,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"2022年10月18日 星期日",
-                "textAlign":0,
+                "textAlign":3,
                 "bgInset":2,
                 "fontName":"sim黑体",
                 "defaultFontSize":10,
