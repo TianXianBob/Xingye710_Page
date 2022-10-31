@@ -4,7 +4,7 @@
         "version":"1.0.0",
         "type":9,
         "name":"mj\u7b2c\u516b\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shijian_10/thumb_mj1.png",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_tuzhang_01/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -28,7 +28,7 @@
                 "offsetY":0,
                 "angle":0,
                 "alpha":0.8,
-                "path":"http://tianxianbob.com/Xingye710_Page/sy_shijian_10/img_sec1.png"
+                "path":"http://tianxianbob.com/Xingye710_Page/sy_tuzhang_01/img_sec1.png"
             }
         ],
         "textPieces":[
