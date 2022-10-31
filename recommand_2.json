@@ -3,7 +3,7 @@
         {
             "type":0,
             "shuiYing":[
-            {
+                {
                     "jsonName":"json_sec5.json",
                     "folderName":"sy_quanping_01",
                     "resId":129,
@@ -276,7 +276,6 @@
                     "thumbPath":"thumb_sy_wenzi_08.png",
                     "isPaoFu":0
                 },
-                
                 {
                     "jsonName":"json_sec36.json",
                     "folderName":"sy_quanping_03",
@@ -413,8 +412,8 @@
             ]
         },
         {
-            "type" : 8,
-            "shuiYing" : [
+            "type":8,
+            "shuiYing":[
                 {
                     "jsonName":"json_sec147.json",
                     "folderName":"sy_shijian_01",
@@ -478,17 +477,22 @@
                     "thumbPath":"thumb_sy_shijian_09.png",
                     "isPaoFu":0,
                     "isNew":1
-                },
+                }
+            ]
+        },
+        {
+            "type":9,
+            "shuiYing":[
                 {
                     "jsonName":"json_sec156.json",
-                    "folderName":"sy_shijian_10",
+                    "folderName":"sy_tuzhang_01",
                     "resId":156,
                     "thumbPath":"thumb_sy_shijian_10.png",
                     "isPaoFu":0,
                     "isNew":1
                 }
             ]
-            },
+        },
         {
             "type":1,
             "shuiYing":[
