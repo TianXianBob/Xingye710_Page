@@ -33,10 +33,10 @@
         ],
         "textPieces":[
             {
-                "x":17,
-                "y":68,
-                "width":120,
-                "height":120,
+                "x":0,
+                "y":0,
+                "width":240,
+                "height":240,
                 "type":3,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -47,7 +47,7 @@
                 "text":"微商水印大师牛逼鲍勃牛逼起飞起飞起飞吧",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":60,
+                "circleRadius":120,
                 "fontName":"sim黑体",
                 "defaultFontSize":14,
                 "maxCount":20,
