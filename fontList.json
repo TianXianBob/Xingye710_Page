@@ -98,6 +98,23 @@
             "showText":"电影海报字体"
         },
         {
+            "name":"思源宋体",
+            "tags":[
+                "思源宋体"
+            ],
+            "localID":"S09",
+            "thumb":"siyuansongti.png",
+            "wenJian":"siyuansongti.ttc",
+            "chanPinId":"com.bob.simheiti",
+            "s3":"benDi",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"思源宋体",
+            "daxiao":"18.7MB"
+        },
+        {
             "name":"sim黑体",
             "tags":[
                 "sim黑体"
