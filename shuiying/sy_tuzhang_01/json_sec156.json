@@ -48,6 +48,7 @@
                 "textAlign":1,
                 "bgInset":2,
                 "circleRadius":80,
+                "circleTextInside":true,
                 "fontName":"sim黑体",
                 "defaultFontSize":14,
                 "maxCount":20,
