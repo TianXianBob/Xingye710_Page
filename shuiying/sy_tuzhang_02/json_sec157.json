@@ -47,7 +47,7 @@
                 "text":"★★实物拍摄★★盗图必究★★实物拍摄★★盗图必究",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":80,
+                "circleRadius":82,
                 "circleTextInside":false,
                 "fontName":"sim黑体",
                 "defaultFontSize":21,
@@ -55,40 +55,12 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":0,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":255,
-                        "blue":255,
-                        "alpha":0
-                    }
-                },
                 "color":{
                     "red":191,
                     "green":24,
                     "blue":24,
                     "alpha":1
-                },
-                "bgColor":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-                },
-                "bgRadius":8
+                }
             },
             {
                 "x":57,
@@ -113,40 +85,12 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":0,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":255,
-                        "blue":255,
-                        "alpha":0
-                    }
-                },
                 "color":{
                     "red":191,
                     "green":24,
                     "blue":24,
                     "alpha":1
-                },
-                "bgColor":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-                },
-                "bgRadius":8
+                }
             },
             {
                 "x":57,
@@ -171,40 +115,12 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":0,
-                "shadow":{
-                    "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":0
-                    },
-                    "opacity":0.2,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
-                    "shadowRadius":0
-                },
-                "border":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":255,
-                        "blue":255,
-                        "alpha":0
-                    }
-                },
                 "color":{
                     "red":191,
                     "green":24,
                     "blue":24,
                     "alpha":1
-                },
-                "bgColor":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":0
-                },
-                "bgRadius":8
+                }
             }
         ]
     }
