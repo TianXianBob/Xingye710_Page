@@ -530,6 +530,30 @@
                     "thumbPath":"thumb_sy_tuzhang_06.png",
                     "isPaoFu":0,
                     "isNew":1
+                },
+                {
+                    "jsonName":"json_sec162.json",
+                    "folderName":"sy_tuzhang_07",
+                    "resId":162,
+                    "thumbPath":"thumb_sy_tuzhang_07.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec163.json",
+                    "folderName":"sy_tuzhang_08",
+                    "resId":163,
+                    "thumbPath":"thumb_sy_tuzhang_08.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec164.json",
+                    "folderName":"sy_tuzhang_09",
+                    "resId":164,
+                    "thumbPath":"thumb_sy_tuzhang_09.png",
+                    "isPaoFu":0,
+                    "isNew":1
                 }
             ]
         },
