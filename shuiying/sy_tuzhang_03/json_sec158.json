@@ -77,7 +77,7 @@
                 "text":"123456789987433",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":0,
+                "circleRadius":85,
                 "circleTextInside":true,
                 "fontName":"sim黑体",
                 "defaultFontSize":15,
