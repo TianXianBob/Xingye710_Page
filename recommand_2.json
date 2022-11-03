@@ -490,6 +490,14 @@
                     "thumbPath":"thumb_sy_tuzhang_01.png",
                     "isPaoFu":0,
                     "isNew":1
+                },
+                {
+                    "jsonName":"json_sec157.json",
+                    "folderName":"sy_tuzhang_02",
+                    "resId":157,
+                    "thumbPath":"thumb_sy_tuzhang_02.png",
+                    "isPaoFu":0,
+                    "isNew":1
                 }
             ]
         },
