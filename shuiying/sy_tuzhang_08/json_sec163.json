@@ -47,7 +47,7 @@
                 "text":"镇店之宝",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":150,
+                "circleRadius":80,
                 "circleTextInside":false,
                 "fontName":"sim黑体",
                 "defaultFontSize":20,
