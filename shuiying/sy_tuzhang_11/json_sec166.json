@@ -40,7 +40,7 @@
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":345,
+                "angle":357,
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
@@ -56,9 +56,9 @@
                 "lineSpace":0,
                 "characterSpace":0,
                 "color":{
-                    "red":191,
-                    "green":24,
-                    "blue":24,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 }
             }
