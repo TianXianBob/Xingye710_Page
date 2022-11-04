@@ -56,9 +56,9 @@
                 "lineSpace":0,
                 "characterSpace":0,
                 "color":{
-                    "red":191,
-                    "green":24,
-                    "blue":24,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 }
             }
