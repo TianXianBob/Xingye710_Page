@@ -47,7 +47,7 @@
                 "text":"此处输入相关文字有限公司",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":85,
+                "circleRadius":77,
                 "circleTextInside":false,
                 "fontName":"sim黑体",
                 "defaultFontSize":25,
@@ -64,7 +64,7 @@
             },
             {
                 "x":60,
-                "y":173,
+                "y":168,
                 "width":121,
                 "height":33,
                 "type":1,

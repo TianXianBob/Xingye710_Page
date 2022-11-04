@@ -35,8 +35,8 @@
             {
                 "x":0,
                 "y":0,
-                "width":200,
-                "height":200,
+                "width":150,
+                "height":150,
                 "type":3,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -47,7 +47,7 @@
                 "text":"镇店之宝",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":80,
+                "circleRadius":40,
                 "circleTextInside":false,
                 "fontName":"sim黑体",
                 "defaultFontSize":20,
@@ -63,7 +63,7 @@
                 }
             },
             {
-                "x":60,
+                "x":77,
                 "y":140,
                 "width":77,
                 "height":16,

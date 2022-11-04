@@ -33,8 +33,8 @@
         ],
         "textPieces":[
             {
-                "x":0,
-                "y":0,
+                "x":20,
+                "y":23,
                 "width":200,
                 "height":200,
                 "type":3,
@@ -47,14 +47,14 @@
                 "text":"此处可修改文案 此处可修改文案 此处可修改文案",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":80,
+                "circleRadius":77,
                 "circleTextInside":false,
                 "fontName":"sim黑体",
                 "defaultFontSize":20,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
+                "characterSpace":2,
                 "color":{
                     "red":231,
                     "green":8,
@@ -93,8 +93,8 @@
                 }
             },
             {
-                "x":0,
-                "y":0,
+                "x":19,
+                "y":23,
                 "width":200,
                 "height":200,
                 "type":3,
@@ -107,7 +107,7 @@
                 "text":"此处可修改文字",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":60,
+                "circleRadius":48,
                 "circleTextInside":false,
                 "fontName":"sim黑体",
                 "defaultFontSize":17,
