@@ -33,7 +33,7 @@
                 "textAlign":1,
                 "bgInset":2,
                 "circleRadius":80,
-                "circleTextInside":true,
+                "circleTextInside":false,
                 "fontName":"龙书慢生活",
                 "defaultFontSize":32,
                 "maxCount":50,
@@ -70,12 +70,6 @@
                     "shadowOffsetX":0,
                     "shadowOffsetY":3,
                     "shadowRadius":10
-                },
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":1
                 },
                 "characterArray":[
                     {
