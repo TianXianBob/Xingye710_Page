@@ -436,6 +436,14 @@
                     "thumbPath":"thumb_sy_huazi_03.png",
                     "isPaoFu":0,
                     "isNew":1
+                },
+                {
+                    "jsonName":"json_sec174.json",
+                    "folderName":"sy_debug_01",
+                    "resId":174,
+                    "thumbPath":"thumb_sy_debug_01.png",
+                    "isPaoFu":0,
+                    "isNew":1
                 }
             ]
         },
@@ -511,14 +519,6 @@
         {
             "type":9,
             "shuiYing":[
-                {
-                    "jsonName":"json_sec174.json",
-                    "folderName":"sy_debug_01",
-                    "resId":174,
-                    "thumbPath":"thumb_sy_debug_01.png",
-                    "isPaoFu":0,
-                    "isNew":1
-                },
                 {
                     "jsonName":"json_sec156.json",
                     "folderName":"sy_tuzhang_01",
