@@ -115,6 +115,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"龙书慢生活",
+            "tags":[
+                "龙书慢生活"
+            ],
+            "localID":"S09",
+            "thumb":"longshumanshenghuo.png",
+            "wenJian":"longshumanshenghuo.ttc",
+            "chanPinId":"com.bob.longshumanshenghuo",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"龙书慢生活",
+            "daxiao":"4MB"
+        },
+        {
             "name":"YournameD7HomeHalf",
             "tags":[
                 "YournameD7HomeHalf"
