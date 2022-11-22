@@ -115,6 +115,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"仓耳渔阳体",
+            "tags":[
+                "仓耳渔阳体"
+            ],
+            "localID":"S09",
+            "thumb":"cangeryutangti.png",
+            "wenJian":"cangeryuyangti.ttc",
+            "chanPinId":"com.bob.cangeryuyangti",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"仓耳渔阳体",
+            "daxiao":"1.2MB"
+        },
+        {
             "name":"仓耳小丸子",
             "tags":[
                 "仓耳小丸子"
