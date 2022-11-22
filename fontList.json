@@ -115,6 +115,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"文悦新青年",
+            "tags":[
+                "文悦新青年"
+            ],
+            "localID":"S09",
+            "thumb":"wenyunxinqingnian.png",
+            "wenJian":"wenyunxinqingnian.ttc",
+            "chanPinId":"com.bob.wenyunxinqingnian",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"文悦新青年",
+            "daxiao":"3.2MB"
+        },
+        {
             "name":"仓耳渔阳体",
             "tags":[
                 "仓耳渔阳体"
