@@ -115,6 +115,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"aileron-black",
+            "tags":[
+                "aileron-black"
+            ],
+            "localID":"S09",
+            "thumb":"aileron-black.woff.png",
+            "wenJian":"aileron-black.woff.ttc",
+            "chanPinId":"com.bob.aileron-black.woff",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"aileron-black",
+            "daxiao":"4MB"
+        },
+        {
             "name":"龙书慢生活",
             "tags":[
                 "龙书慢生活"
@@ -129,7 +146,7 @@
             "xPadding":0,
             "yPadding":0,
             "showText":"龙书慢生活",
-            "daxiao":"4MB"
+            "daxiao":"20KB"
         },
         {
             "name":"YournameD7HomeHalf",
