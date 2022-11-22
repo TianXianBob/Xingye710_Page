@@ -120,16 +120,16 @@
                 "aileron-black"
             ],
             "localID":"S09",
-            "thumb":"aileron-black.woff.png",
-            "wenJian":"aileron-black.woff.ttc",
-            "chanPinId":"com.bob.aileron-black.woff",
+            "thumb":"aileron.png",
+            "wenJian":"aileron.ttc",
+            "chanPinId":"com.bob.aileron",
             "s3":"yuanChen",
             "zhiFu":"mianFei",
             "multiple":0.7,
             "xPadding":0,
             "yPadding":0,
             "showText":"aileron-black",
-            "daxiao":"4MB"
+            "daxiao":"20KB"
         },
         {
             "name":"龙书慢生活",
@@ -146,7 +146,7 @@
             "xPadding":0,
             "yPadding":0,
             "showText":"龙书慢生活",
-            "daxiao":"20KB"
+            "daxiao":"4MB"
         },
         {
             "name":"YournameD7HomeHalf",
