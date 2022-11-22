@@ -36,8 +36,8 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":0,
-                "italic":0,
+                "characterSpace":1,
+                "italic":10,
                 "shine":{
                     "borderWidth":2,
                     "borderColor":{
@@ -64,8 +64,8 @@
                         "alpha":1
                     },
                     "opacity":1,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":2,
+                    "shadowOffsetX":1.5,
+                    "shadowOffsetY":1.5,
                     "shadowRadius":0
                 },
                 "color":{
