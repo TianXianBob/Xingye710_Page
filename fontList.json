@@ -115,6 +115,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"黄引齐招牌",
+            "tags":[
+                "黄引齐招牌"
+            ],
+            "localID":"S09",
+            "thumb":"huangyinqizhaopai.png",
+            "wenJian":"huangyinqizhaopai.ttc",
+            "chanPinId":"com.bob.huangyinqizhaopai",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"黄引齐招牌",
+            "daxiao":"1.5MB"
+        },
+        {
             "name":"aileron-black",
             "tags":[
                 "aileron-black"
