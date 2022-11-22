@@ -1,10 +1,10 @@
 {
     "data":{
-        "resId":175,
+        "resId":178,
         "version":"1.0.0",
         "type":10,
         "name":"mj\u7b2c\u4e00\u767e\u4e09\u5341\u4e5d\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_02/thumb_mj1.png",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_05/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -18,10 +18,10 @@
         },
         "textPieces":[
             {
-                "x":0,
-                "y":0,
-                "width":240,
-                "height":240,
+                "x":20,
+                "y":65,
+                "width":195,
+                "height":55,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -29,17 +29,17 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"okay.",
+                "text":"私藏宝藏店铺",
                 "textAlign":1,
-                "fontName":"aileron-black",
-                "defaultFontSize":67,
+                "fontName":"优设标题黑Regular",
+                "defaultFontSize":37,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":1,
-                "italic":10,
+                "characterSpace":0,
+                "italic":0,
                 "shine":{
-                    "borderWidth":3,
+                    "borderWidth":1.5,
                     "borderColor":{
                         "red":255,
                         "green":255,
@@ -48,30 +48,30 @@
                     }
                 },
                 "border":{
-                    "borderWidth":2,
+                    "borderWidth":1.5,
                     "borderColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
+                        "red":183,
+                        "green":49,
+                        "blue":53,
                         "alpha":1
                     }
                 },
                 "shadow":{
                     "shadowColor":{
-                        "red":0,
-                        "green":0,
-                        "blue":0,
-                        "alpha":1
+                        "red":277,
+                        "green":45,
+                        "blue":58,
+                        "alpha":0
                     },
                     "opacity":0.5,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
+                    "shadowOffsetX":1,
+                    "shadowOffsetY":1,
                     "shadowRadius":0
                 },
                 "color":{
                     "red":255,
-                    "green":255,
-                    "blue":255,
+                    "green":245,
+                    "blue":211,
                     "alpha":1
                 }
             }
