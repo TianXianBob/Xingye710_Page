@@ -18,10 +18,10 @@
         },
         "textPieces":[
             {
-                "x":20,
-                "y":83,
-                "width":201,
-                "height":72,
+                "x":0,
+                "y":0,
+                "width":240,
+                "height":240,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
