@@ -423,9 +423,9 @@
             "shuiYing":[
                 {
                     "jsonName":"json_sec175.json",
-                    "folderName":"sy_huazi_01",
+                    "folderName":"sy_huazi_02",
                     "resId":175,
-                    "thumbPath":"thumb_sy_huazi_01.png",
+                    "thumbPath":"thumb_sy_huazi_02.png",
                     "isPaoFu":0,
                     "isNew":1
                 }
