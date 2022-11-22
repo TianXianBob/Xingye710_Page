@@ -48,7 +48,7 @@
                     }
                 },
                 "border":{
-                    "borderWidth":2,
+                    "borderWidth":1,
                     "borderColor":{
                         "red":277,
                         "green":45,
@@ -64,7 +64,65 @@
                         "alpha":1
                     },
                     "opacity":0.5,
-                    "shadowOffsetX":2,
+                    "shadowOffsetX":1,
+                    "shadowOffsetY":1,
+                    "shadowRadius":0
+                },
+                "color":{
+                    "red":250,
+                    "green":142,
+                    "blue":246,
+                    "alpha":1
+                }
+            },
+            {
+                "x":20,
+                "y":118,
+                "width":195,
+                "height":55,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"(喜欢)",
+                "textAlign":1,
+                "fontName":"优设标题黑Regular",
+                "defaultFontSize":50,
+                "maxCount":50,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":0,
+                "italic":0,
+                "shine":{
+                    "borderWidth":3,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":277,
+                        "green":45,
+                        "blue":58,
+                        "alpha":1
+                    }
+                },
+                "shadow":{
+                    "shadowColor":{
+                        "red":277,
+                        "green":45,
+                        "blue":58,
+                        "alpha":1
+                    },
+                    "opacity":0.5,
+                    "shadowOffsetX":1,
                     "shadowOffsetY":1,
                     "shadowRadius":0
                 },
