@@ -115,6 +115,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"仓耳小丸子",
+            "tags":[
+                "仓耳小丸子"
+            ],
+            "localID":"S09",
+            "thumb":"cangerxiaowanzi.png",
+            "wenJian":"cangerxiaowanzi.ttc",
+            "chanPinId":"com.bob.cangerxiaowanzi",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"仓耳小丸子",
+            "daxiao":"950KB"
+        },
+        {
             "name":"黄引齐招牌",
             "tags":[
                 "黄引齐招牌"

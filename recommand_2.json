@@ -460,6 +460,14 @@
                     "thumbPath":"thumb_sy_huazi_05.png",
                     "isPaoFu":0,
                     "isNew":1
+                },
+                {
+                    "jsonName":"json_sec179.json",
+                    "folderName":"sy_huazi_06",
+                    "resId":179,
+                    "thumbPath":"thumb_sy_huazi_06.png",
+                    "isPaoFu":0,
+                    "isNew":1
                 }
             ]
         },

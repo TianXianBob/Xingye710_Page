@@ -1,10 +1,10 @@
 {
     "data":{
-        "resId":178,
+        "resId":179,
         "version":"1.0.0",
         "type":10,
         "name":"mj\u7b2c\u4e00\u767e\u4e09\u5341\u4e5d\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_05/thumb_mj1.png",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_06/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -29,10 +29,10 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"私藏宝藏店铺",
+                "text":"餐厅厨具好物分享!",
                 "textAlign":1,
-                "fontName":"优设标题黑Regular",
-                "defaultFontSize":37,
+                "fontName":"仓耳小丸子",
+                "defaultFontSize":25,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
@@ -44,15 +44,15 @@
                         "red":255,
                         "green":255,
                         "blue":255,
-                        "alpha":1
+                        "alpha":0
                     }
                 },
                 "border":{
-                    "borderWidth":1.5,
+                    "borderWidth":2,
                     "borderColor":{
-                        "red":183,
-                        "green":49,
-                        "blue":53,
+                        "red":255,
+                        "green":255,
+                        "blue":255,
                         "alpha":1
                     }
                 },
@@ -69,9 +69,9 @@
                     "shadowRadius":0
                 },
                 "color":{
-                    "red":255,
-                    "green":245,
-                    "blue":211,
+                    "red":109,
+                    "green":110,
+                    "blue":111,
                     "alpha":1
                 }
             }
