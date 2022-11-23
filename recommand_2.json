@@ -524,6 +524,22 @@
                     "thumbPath":"thumb_sy_huazi_13.png",
                     "isPaoFu":0,
                     "isNew":1
+                },
+                {
+                    "jsonName":"json_sec187.json",
+                    "folderName":"sy_huazi_14",
+                    "resId":187,
+                    "thumbPath":"thumb_sy_huazi_14.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec188.json",
+                    "folderName":"sy_huazi_15",
+                    "resId":188,
+                    "thumbPath":"thumb_sy_huazi_15.png",
+                    "isPaoFu":0,
+                    "isNew":1
                 }
             ]
         },
