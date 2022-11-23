@@ -67,8 +67,8 @@
                         "alpha":1
                     },
                     "opacity":0.5,
-                    "shadowOffsetX":2,
-                    "shadowOffsetY":3,
+                    "shadowOffsetX":1,
+                    "shadowOffsetY":1,
                     "shadowRadius":0
                 },
                 "characterArray":[
