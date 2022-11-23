@@ -115,6 +115,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"王汉宗",
+            "tags":[
+                "王汉宗"
+            ],
+            "localID":"S09",
+            "thumb":"wanghanzong.png",
+            "wenJian":"wanghanzong.ttc",
+            "chanPinId":"com.bob.wanghanzong",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"王汉宗",
+            "daxiao":"5.7MB"
+        },
+        {
             "name":"斗鱼体",
             "tags":[
                 "斗鱼体"
