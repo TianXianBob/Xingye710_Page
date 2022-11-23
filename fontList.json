@@ -370,20 +370,20 @@
             "daxiao":"3.1MB"
         },
         {
-            "name":"文悦新青年",
+            "name":"文悦简体",
             "tags":[
-                "文悦新青年"
+                "文悦简体"
             ],
             "localID":"S09",
-            "thumb":"wenyuexinqingnian.png",
-            "wenJian":"wenyuexinqingnian.ttc",
-            "chanPinId":"com.bob.wenyuexinqingnian",
+            "thumb":"wenyuejianti.png",
+            "wenJian":"wenyuejianti.ttc",
+            "chanPinId":"com.bob.wenyuejianti",
             "s3":"yuanChen",
             "zhiFu":"mianFei",
             "multiple":0.7,
             "xPadding":0,
             "yPadding":0,
-            "showText":"文悦新青年",
+            "showText":"文悦简体",
             "daxiao":"3.2MB"
         },
         {
