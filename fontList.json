@@ -115,6 +115,40 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"仓耳非白",
+            "tags":[
+                "仓耳非白"
+            ],
+            "localID":"S09",
+            "thumb":"cangerfeibai.png",
+            "wenJian":"cangerfeibai.ttc",
+            "chanPinId":"com.bob.cangerfeibai",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"仓耳非白",
+            "daxiao":"1.2MB"
+        },
+        {
+            "name":"棒棒糖",
+            "tags":[
+                "棒棒糖"
+            ],
+            "localID":"S09",
+            "thumb":"bangbangtang.png",
+            "wenJian":"bangbangtang.ttc",
+            "chanPinId":"com.bob.bangbangtang",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"棒棒糖",
+            "daxiao":"3.1MB"
+        },
+        {
             "name":"文悦新青年",
             "tags":[
                 "文悦新青年"
