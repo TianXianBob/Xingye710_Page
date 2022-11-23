@@ -52,7 +52,7 @@
                     "borderColor":{
                         "red":147,
                         "green":139,
-                        "blue":71179,
+                        "blue":117,
                         "alpha":1
                     }
                 },
@@ -70,9 +70,9 @@
                 },
                 "gradient":{
                     "startPointX":0.5,
-                    "startPointY":0.1,
+                    "startPointY":1,
                     "endPointX":0.5,
-                    "endPointY":1,
+                    "endPointY":0.1,
                     "gradientColors":[
                         {
                             "red":255,
@@ -130,7 +130,7 @@
                     "borderColor":{
                         "red":147,
                         "green":139,
-                        "blue":71179,
+                        "blue":117,
                         "alpha":1
                     }
                 },
