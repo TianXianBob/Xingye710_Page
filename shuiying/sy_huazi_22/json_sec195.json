@@ -19,9 +19,9 @@
         "textPieces":[
             {
                 "x":0,
-                "y":61,
-                "width":240,
-                "height":29,
+                "y":70,
+                "width":480,
+                "height":63,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -29,10 +29,10 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"2022好运+100",
+                "text":"我和我的祖国",
                 "textAlign":1,
-                "fontName":"庞门正道标题",
-                "defaultFontSize":28,
+                "fontName":"鸿雷板书",
+                "defaultFontSize":47,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
@@ -53,7 +53,7 @@
                         "red":209,
                         "green":41,
                         "blue":40,
-                        "alpha":1
+                        "alpha":0
                     }
                 },
                 "shadow":{
@@ -69,75 +69,69 @@
                     "shadowRadius":0
                 },
                 "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
+                    "red":218,
+                    "green":0,
+                    "blue":0,
                     "alpha":1
-                }
-            },
-            {
-                "x":0,
-                "y":106,
-                "width":240,
-                "height":29,
-                "type":1,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "angle":0,
-                "offsetX":0,
-                "offsetY":0,
-                "verticalAlign":1,
-                "text":"2022好运+100",
-                "textAlign":1,
-                "fontName":"庞门正道标题",
-                "defaultFontSize":28,
-                "maxCount":50,
-                "lineCount":1,
-                "lineSpace":0,
-                "characterSpace":1,
-                "italic":0,
-                "shine":{
-                    "borderWidth":2,
-                    "borderColor":{
-                        "red":255,
-                        "green":192,
-                        "blue":212,
-                        "alpha":0
-                    }
                 },
-                "border":{
-                    "borderWidth":1.5,
-                    "borderColor":{
-                        "red":209,
-                        "green":41,
-                        "blue":40,
-                        "alpha":1
-                    }
-                },
-                "shadow":{
-                    "shadowColor":{
-                        "red":44,
-                        "green":166,
-                        "blue":222,
-                        "alpha":0
+                "characterArray":[
+                    {
+                        "color":{
+                            "red":218,
+                            "green":0,
+                            "blue":0,
+                            "alpha":1
+                        },
+                        "fontSize":47,
+                        "posionOffsetY":0
                     },
-                    "opacity":1,
-                    "shadowOffsetX":1.5,
-                    "shadowOffsetY":1.5,
-                    "shadowRadius":0
-                },
-                "color":{
-                    "red":255,
-                    "green":255,
-                    "blue":255,
-                    "alpha":1
-                }
+                    {
+                        "color":{
+                            "red":218,
+                            "green":0,
+                            "blue":0,
+                            "alpha":1
+                        },
+                        "fontSize":47,
+                        "posionOffsetY":-16
+                    },
+                    {
+                        "color":{
+                            "red":218,
+                            "green":0,
+                            "blue":0,
+                            "alpha":1
+                        },
+                        "fontSize":47,
+                        "posionOffsetY":0
+                    },
+                    {
+                        "color":{
+                            "red":218,
+                            "green":0,
+                            "blue":0,
+                            "alpha":1
+                        },
+                        "fontSize":47,
+                        "posionOffsetY":0
+                    },
+                    {
+                        "color":{
+                            "red":218,
+                            "green":0,
+                            "blue":0,
+                            "alpha":1
+                        },
+                        "fontSize":47,
+                        "posionOffsetY":-16
+                    }
+                ]
             },
             {
                 "x":0,
-                "y":150,
-                "width":240,
-                "height":29,
+                "y":70,
+                "width":480,
+                "height":63,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -145,10 +139,10 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"2022好运+100",
+                "text":"星星相映 家园礼赞",
                 "textAlign":1,
-                "fontName":"庞门正道标题",
-                "defaultFontSize":28,
+                "fontName":"鸿雷板书",
+                "defaultFontSize":18,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
@@ -169,7 +163,7 @@
                         "red":209,
                         "green":41,
                         "blue":40,
-                        "alpha":1
+                        "alpha":0
                     }
                 },
                 "shadow":{
