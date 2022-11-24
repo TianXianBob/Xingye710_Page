@@ -48,7 +48,7 @@
                     }
                 },
                 "border":{
-                    "borderWidth":1.5,
+                    "borderWidth":1,
                     "borderColor":{
                         "red":209,
                         "green":41,
@@ -106,7 +106,7 @@
                     }
                 },
                 "border":{
-                    "borderWidth":1.5,
+                    "borderWidth":1,
                     "borderColor":{
                         "red":209,
                         "green":41,
@@ -164,7 +164,7 @@
                     }
                 },
                 "border":{
-                    "borderWidth":1.5,
+                    "borderWidth":1,
                     "borderColor":{
                         "red":209,
                         "green":41,
