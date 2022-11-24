@@ -30,7 +30,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"Desert Rose\n#001",
-                "textAlign":1,
+                "textAlign":0,
                 "fontName":"aileron-black",
                 "defaultFontSize":34,
                 "maxCount":50,
@@ -74,7 +74,7 @@
                     "blue":255,
                     "alpha":1
                 },
-                "bgColor":{
+                "lineColor":{
                     "red":185,
                     "green":129,
                     "blue":124,
