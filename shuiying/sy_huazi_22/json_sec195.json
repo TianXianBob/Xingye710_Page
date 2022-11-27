@@ -129,9 +129,9 @@
             },
             {
                 "x":0,
-                "y":70,
-                "width":480,
-                "height":63,
+                "y":133,
+                "width":240,
+                "height":22,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -163,7 +163,7 @@
                         "red":209,
                         "green":41,
                         "blue":40,
-                        "alpha":0
+                        "alpha":1
                     }
                 },
                 "shadow":{

@@ -51,7 +51,7 @@
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":1,
-                "italic":0,
+                "italic":10,
                 "shine":{
                     "borderWidth":2,
                     "borderColor":{
