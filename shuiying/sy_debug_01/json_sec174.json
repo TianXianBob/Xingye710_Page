@@ -20,7 +20,6 @@
             {
                 "gylphSizeWidth" : 40,
                 "gylphSizeHeight" : 40,
-                "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_keai_16/img_sec1.png",
                 "x":0,
                 "y":0,
                 "width":240,
@@ -83,7 +82,8 @@
                             "alpha":1
                         },
                         "fontSize":32,
-                        "posionOffsetY":0
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_keai_16/img_sec1.png"
                     },
                     {
                         "color":{
@@ -93,7 +93,8 @@
                             "alpha":1
                         },
                         "fontSize":32,
-                        "posionOffsetY":0
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_keai_16/img_sec1.png"
                     },
                     {
                         "color":{
@@ -103,7 +104,8 @@
                             "alpha":1
                         },
                         "fontSize":32,
-                        "posionOffsetY":0
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_keai_16/img_sec1.png"
                     },
                     {
                         "color":{
@@ -113,7 +115,8 @@
                             "alpha":1
                         },
                         "fontSize":32,
-                        "posionOffsetY":0
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_keai_16/img_sec1.png"
                     },
                     {
                         "color":{
@@ -123,7 +126,8 @@
                             "alpha":1
                         },
                         "fontSize":32,
-                        "posionOffsetY":0
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_keai_16/img_sec1.png"
                     },
                     {
                         "color":{
@@ -133,7 +137,8 @@
                             "alpha":1
                         },
                         "fontSize":32,
-                        "posionOffsetY":0
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_keai_16/img_sec1.png"
                     }
                 ]
             }
