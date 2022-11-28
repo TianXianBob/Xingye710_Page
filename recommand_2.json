@@ -652,6 +652,38 @@
                     "thumbPath":"thumb_sy_huazi_29.png",
                     "isPaoFu":0,
                     "isNew":1
+                },
+                {
+                    "jsonName":"json_sec203.json",
+                    "folderName":"sy_huazi_30",
+                    "resId":203,
+                    "thumbPath":"thumb_sy_huazi_30.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec204.json",
+                    "folderName":"sy_huazi_31",
+                    "resId":204,
+                    "thumbPath":"thumb_sy_huazi_31.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec205.json",
+                    "folderName":"sy_huazi_32",
+                    "resId":205,
+                    "thumbPath":"thumb_sy_huazi_32.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec206.json",
+                    "folderName":"sy_huazi_33",
+                    "resId":206,
+                    "thumbPath":"thumb_sy_huazi_33.png",
+                    "isPaoFu":0,
+                    "isNew":1
                 }
             ]
         },

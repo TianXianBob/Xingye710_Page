@@ -115,6 +115,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"龚帆体",
+            "tags":[
+                "龚帆体"
+            ],
+            "localID":"S09",
+            "thumb":"gongfanti.png",
+            "wenJian":"gongfanti.ttc",
+            "chanPinId":"com.bob.gongfanti",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"龚帆体",
+            "daxiao":"6.2MB"
+        },
+        {
             "name":"王汉宗颜楷体",
             "tags":[
                 "王汉宗颜楷体"
