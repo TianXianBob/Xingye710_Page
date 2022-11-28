@@ -97,6 +97,7 @@
             "yPadding":0,
             "showText":"电影海报字体"
         },
+        
         {
             "name":"sim黑体",
             "tags":[
@@ -113,6 +114,23 @@
             "yPadding":0,
             "showText":"sim黑体",
             "daxiao":"5.8MB"
+        },
+        {
+            "name":"胡涂体",
+            "tags":[
+                "胡涂体"
+            ],
+            "localID":"S09",
+            "thumb":"hututi.png",
+            "wenJian":"hututi.ttc",
+            "chanPinId":"com.bob.hututi",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"胡涂体",
+            "daxiao":"3.7MB"
         },
         {
             "name":"龚帆体",
