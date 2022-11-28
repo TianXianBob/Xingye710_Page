@@ -116,6 +116,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"雷盖体",
+            "tags":[
+                "雷盖体"
+            ],
+            "localID":"S09",
+            "thumb":"leigaiti.png",
+            "wenJian":"leigaiti.ttc",
+            "chanPinId":"com.bob.leigaiti",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"雷盖体",
+            "daxiao":"2.8MB"
+        },
+        {
             "name":"字制区喜脉体",
             "tags":[
                 "字制区喜脉体"
