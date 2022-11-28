@@ -116,6 +116,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"猫啃网故障宋",
+            "tags":[
+                "猫啃网故障宋"
+            ],
+            "localID":"S09",
+            "thumb":"maokenwangguzhangsong.png",
+            "wenJian":"maokenwangguzhangsong.ttc",
+            "chanPinId":"com.bob.maokenwangguzhangsong",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"猫啃网故障宋",
+            "daxiao":"35.8MB"
+        },
+        {
             "name":"雷盖体",
             "tags":[
                 "雷盖体"
