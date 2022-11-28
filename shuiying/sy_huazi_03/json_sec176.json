@@ -70,9 +70,9 @@
                 },
                 "gradient":{
                     "startPointX":0.5,
-                    "startPointY":0.1,
+                    "startPointY":0.4,
                     "endPointX":0.5,
-                    "endPointY":1,
+                    "endPointY":0.7,
                     "gradientColors":[
                         {
                             "red":255,
@@ -92,6 +92,122 @@
                     "red":255,
                     "green":255,
                     "blue":255,
+                    "alpha":1
+                }
+            },
+            {
+                "x":26,
+                "y":85,
+                "width":59,
+                "height":10,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"<酸酸甜甜就是我>",
+                "textAlign":1,
+                "fontName":"黄引齐招牌",
+                "defaultFontSize":6,
+                "maxCount":50,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":1,
+                "italic":0,
+                "shine":{
+                    "borderWidth":5,
+                    "borderColor":{
+                        "red":158,
+                        "green":240,
+                        "blue":8,
+                        "alpha":0
+                    }
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":102,
+                        "blue":0,
+                        "alpha":0
+                    }
+                },
+                "shadow":{
+                    "shadowColor":{
+                        "red":214,
+                        "green":60,
+                        "blue":80,
+                        "alpha":0
+                    },
+                    "opacity":1,
+                    "shadowOffsetX":1.5,
+                    "shadowOffsetY":1.5,
+                    "shadowRadius":0
+                },
+                "color":{
+                    "red":255,
+                    "green":59,
+                    "blue":96,
+                    "alpha":1
+                }
+            },
+            {
+                "x":180,
+                "y":139,
+                "width":35,
+                "height":10,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"冬日甜蜜",
+                "textAlign":1,
+                "fontName":"黄引齐招牌",
+                "defaultFontSize":6,
+                "maxCount":50,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":1,
+                "italic":0,
+                "shine":{
+                    "borderWidth":5,
+                    "borderColor":{
+                        "red":158,
+                        "green":240,
+                        "blue":8,
+                        "alpha":0
+                    }
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":102,
+                        "blue":0,
+                        "alpha":0
+                    }
+                },
+                "shadow":{
+                    "shadowColor":{
+                        "red":214,
+                        "green":60,
+                        "blue":80,
+                        "alpha":0
+                    },
+                    "opacity":1,
+                    "shadowOffsetX":1.5,
+                    "shadowOffsetY":1.5,
+                    "shadowRadius":0
+                },
+                "color":{
+                    "red":255,
+                    "green":59,
+                    "blue":96,
                     "alpha":1
                 }
             }
