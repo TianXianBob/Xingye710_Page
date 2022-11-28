@@ -732,6 +732,54 @@
                     "thumbPath":"thumb_sy_huazi_39.png",
                     "isPaoFu":0,
                     "isNew":1
+                },
+                {
+                    "jsonName":"json_sec213.json",
+                    "folderName":"sy_huazi_40",
+                    "resId":213,
+                    "thumbPath":"thumb_sy_huazi_40.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec214.json",
+                    "folderName":"sy_huazi_41",
+                    "resId":214,
+                    "thumbPath":"thumb_sy_huazi_41.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec215.json",
+                    "folderName":"sy_huazi_42",
+                    "resId":215,
+                    "thumbPath":"thumb_sy_huazi_42.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec216.json",
+                    "folderName":"sy_huazi_43",
+                    "resId":216,
+                    "thumbPath":"thumb_sy_huazi_43.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec217.json",
+                    "folderName":"sy_huazi_44",
+                    "resId":217,
+                    "thumbPath":"thumb_sy_huazi_44.png",
+                    "isPaoFu":0,
+                    "isNew":1
+                },
+                {
+                    "jsonName":"json_sec218.json",
+                    "folderName":"sy_huazi_45",
+                    "resId":218,
+                    "thumbPath":"thumb_sy_huazi_45.png",
+                    "isPaoFu":0,
+                    "isNew":1
                 }
             ]
         },
