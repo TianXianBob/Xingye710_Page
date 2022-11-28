@@ -116,6 +116,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"字制区喜脉体",
+            "tags":[
+                "字制区喜脉体"
+            ],
+            "localID":"S09",
+            "thumb":"zizhiquximai.png",
+            "wenJian":"zizhiquximai.ttc",
+            "chanPinId":"com.bob.zizhiquximai",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"字制区喜脉体",
+            "daxiao":"927KB"
+        },
+        {
             "name":"胡涂体",
             "tags":[
                 "胡涂体"
