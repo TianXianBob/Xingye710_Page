@@ -1,10 +1,10 @@
 {
     "data":{
-        "resId":201,
+        "resId":202,
         "version":"1.0.0",
         "type":10,
         "name":"mj\u7b2c\u4e00\u767e\u4e09\u5341\u4e5d\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_28/thumb_mj1.png",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_29/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -31,9 +31,9 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"今日份VLOG",
+                "text":"随手记录一些\n欢乐日常。",
                 "textAlign":1,
-                "fontName":"胡晓波骚包体",
+                "fontName":"优设好身体",
                 "defaultFontSize":24,
                 "maxCount":50,
                 "lineCount":1,
