@@ -1,10 +1,10 @@
 {
     "data":{
-        "resId":225,
+        "resId":226,
         "version":"1.0.0",
         "type":10,
         "name":"mj\u7b2c\u4e00\u767e\u4e09\u5341\u4e5d\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_52/thumb_mj1.png",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_53/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -19,9 +19,9 @@
         "textPieces":[
             {
                 "x":0,
-                "y":146,
+                "y":73,
                 "width":240,
-                "height":40,
+                "height":125,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -29,15 +29,15 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"''  21  02  28",
+                "text":"[保持可爱]",
                 "textAlign":1,
-                "fontName":"YournameD7HomeHalf",
-                "defaultFontSize":34,
+                "fontName":"萌神手写体",
+                "defaultFontSize":32,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":1,
-                "italic":0,
+                "italic":10,
                 "shine":{
                     "borderWidth":5,
                     "borderColor":{
@@ -58,10 +58,10 @@
                 },
                 "shadow":{
                     "shadowColor":{
-                        "red":42,
-                        "green":26,
-                        "blue":240,
-                        "alpha":0
+                        "red":214,
+                        "green":60,
+                        "blue":80,
+                        "alpha":1
                     },
                     "opacity":1,
                     "shadowOffsetX":1.5,
@@ -69,9 +69,9 @@
                     "shadowRadius":0
                 },
                 "color":{
-                    "red":253,
-                    "green":168,
-                    "blue":45,
+                    "red":247,
+                    "green":194,
+                    "blue":189,
                     "alpha":1
                 }
             }
