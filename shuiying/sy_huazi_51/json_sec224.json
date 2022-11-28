@@ -32,21 +32,21 @@
         ],
         "textPieces":[
             {
-                "x":104,
-                "y":72,
-                "width":120,
-                "height":21,
+                "x":70,
+                "y":70,
+                "width":133,
+                "height":39,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":318,
+                "angle":0,
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"-记录碎片生活-",
+                "text":"Home",
                 "textAlign":1,
-                "fontName":"文悦简体",
-                "defaultFontSize":15,
+                "fontName":"猫啃网故障宋",
+                "defaultFontSize":32,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
@@ -83,28 +83,86 @@
                     "shadowRadius":0
                 },
                 "color":{
-                    "red":0,
-                    "green":0,
-                    "blue":0,
+                    "red":255,
+                    "green":255,
+                    "blue":255,
                     "alpha":1
                 }
             },
             {
-                "x":61,
-                "y":85,
-                "width":153,
-                "height":39,
+                "x":52,
+                "y":110,
+                "width":133,
+                "height":44,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":318,
+                "angle":0,
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"今日更新",
+                "text":"Lalle",
                 "textAlign":1,
-                "fontName":"文悦简体",
-                "defaultFontSize":35,
+                "fontName":"猫啃网故障宋",
+                "defaultFontSize":46,
+                "maxCount":50,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":1,
+                "italic":0,
+                "shine":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    }
+                },
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":0
+                    },
+                    "opacity":1,
+                    "shadowOffsetX":1.5,
+                    "shadowOffsetY":1.5,
+                    "shadowRadius":0
+                },
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":1
+                }
+            },
+            {
+                "x":27,
+                "y":154,
+                "width":133,
+                "height":16,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"3AM/NIGHT",
+                "textAlign":1,
+                "fontName":"猫啃网故障宋",
+                "defaultFontSize":15,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
