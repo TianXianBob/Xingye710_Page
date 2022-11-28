@@ -36,7 +36,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":1,
+                "characterSpace":2,
                 "italic":10,
                 "shine":{
                     "borderWidth":5,
@@ -53,7 +53,7 @@
                         "red":255,
                         "green":102,
                         "blue":0,
-                        "alpha":1
+                        "alpha":0
                     }
                 },
                 "shadow":{
