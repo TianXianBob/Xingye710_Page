@@ -18,10 +18,8 @@
         },
         "textPieces":[
             {
-                "gylphSizeWidth" : 28,
-                "gylphSizeHeight" : 28,
                 "x":0,
-                "y":69,
+                "y":86,
                 "width":240,
                 "height":240,
                 "type":999,
@@ -31,14 +29,126 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"随手记录一些\n欢乐日常。",
+                "text":"我的夏天",
                 "textAlign":1,
-                "fontName":"优设好身体",
-                "defaultFontSize":24,
+                "fontName":"龙书慢生活",
+                "defaultFontSize":37,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":-2,
+                "italic":0,
+                "shine":{
+                    "borderWidth":2,
+                    "borderColor":{
+                        "red":255,
+                        "green":192,
+                        "blue":212,
+                        "alpha":0
+                    }
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
+                    }
+                },
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
+                    },
+                    "opacity":1,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":2,
+                    "shadowRadius":0
+                },
+                "color":{
+                    "red":255,
+                    "green":255,
+                    "blue":255,
+                    "alpha":1
+                },
+                "characterArray":[
+                    {
+                        "gylphSizeWidth" : 47,
+                        "gylphSizeHeight" : 47,
+                        "color":{
+                            "red":222,
+                            "green":243,
+                            "blue":128,
+                            "alpha":1
+                        },
+                        "fontSize":37,
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec1.png"
+                    },
+                    {
+                        "gylphSizeWidth" : 52,
+                        "gylphSizeHeight" : 52,
+                        "color":{
+                            "red":222,
+                            "green":243,
+                            "blue":128,
+                            "alpha":1
+                        },
+                        "fontSize":37,
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec2.png"
+                    },
+                    {
+                        "gylphSizeWidth" : 47,
+                        "gylphSizeHeight" : 47,
+                        "color":{
+                            "red":140,
+                            "green":206,
+                            "blue":188,
+                            "alpha":1
+                        },
+                        "fontSize":37,
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec3.png"
+                    },
+                    {
+                        "gylphSizeWidth" : 54,
+                        "gylphSizeHeight" : 54,
+                        "color":{
+                            "red":222,
+                            "green":243,
+                            "blue":128,
+                            "alpha":1
+                        },
+                        "fontSize":37,
+                        "posionOffsetY":0,
+                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec4.png"
+                    }
+                ]
+            },
+            {
+                "x":0,
+                "y":70,
+                "width":240,
+                "height":15,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"WO DE XIA TIAN",
+                "textAlign":1,
+                "fontName":"aileron-black",
+                "defaultFontSize":13,
+                "maxCount":50,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":1,
                 "italic":10,
                 "shine":{
                     "borderWidth":2,
@@ -55,15 +165,15 @@
                         "red":0,
                         "green":0,
                         "blue":0,
-                        "alpha":0
+                        "alpha":1
                     }
                 },
                 "shadow":{
                     "shadowColor":{
-                        "red":113,
-                        "green":113,
-                        "blue":111,
-                        "alpha":0
+                        "red":0,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
                     },
                     "opacity":1,
                     "shadowOffsetX":1.5,
@@ -72,89 +182,10 @@
                 },
                 "color":{
                     "red":255,
-                    "green":255,
-                    "blue":255,
+                    "green":167,
+                    "blue":94,
                     "alpha":1
-                },
-                "characterArray":[
-                    {
-                        "color":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
-                            "alpha":1
-                        },
-                        "fontSize":24,
-                        "posionOffsetY":0,
-                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_28/img_sec1.png"
-                    },
-                    {
-                        "color":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
-                            "alpha":1
-                        },
-                        "fontSize":24,
-                        "posionOffsetY":0,
-                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_28/img_sec2.png"
-                    },
-                    {
-                        "color":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
-                            "alpha":1
-                        },
-                        "fontSize":24,
-                        "posionOffsetY":0,
-                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_28/img_sec3.png"
-                    },
-                    {
-                        "color":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
-                            "alpha":1
-                        },
-                        "fontSize":24,
-                        "posionOffsetY":0,
-                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_28/img_sec4.png"
-                    },
-                    {
-                        "color":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
-                            "alpha":1
-                        },
-                        "fontSize":24,
-                        "posionOffsetY":0,
-                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_28/img_sec5.png"
-                    },
-                    {
-                        "color":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
-                            "alpha":1
-                        },
-                        "fontSize":24,
-                        "posionOffsetY":0,
-                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_28/img_sec6.png"
-                    },
-                    {
-                        "color":{
-                            "red":255,
-                            "green":255,
-                            "blue":255,
-                            "alpha":1
-                        },
-                        "fontSize":24,
-                        "posionOffsetY":0,
-                        "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_28/img_sec7.png"
-                    }
-                ]
+                }
             }
         ]
     }
