@@ -33,7 +33,7 @@
         "textPieces":[
             {
                 "x":37,
-                "y":85,
+                "y":78,
                 "width":87,
                 "height":48,
                 "type":1,
@@ -91,7 +91,7 @@
             },
             {
                 "x":127,
-                "y":95,
+                "y":92,
                 "width":87,
                 "height":48,
                 "type":1,
@@ -149,13 +149,13 @@
             },
             {
                 "x":36,
-                "y":130,
+                "y":127,
                 "width":95,
                 "height":29,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
-                "angle":9,
+                "angle":8,
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
