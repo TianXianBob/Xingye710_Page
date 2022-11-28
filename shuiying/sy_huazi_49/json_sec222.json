@@ -32,7 +32,7 @@
         ],
         "textPieces":[
             {
-                "x":109,
+                "x":104,
                 "y":72,
                 "width":120,
                 "height":21,
@@ -45,7 +45,7 @@
                 "verticalAlign":1,
                 "text":"-记录碎片生活-",
                 "textAlign":1,
-                "fontName":"平方粗体",
+                "fontName":"文悦简体",
                 "defaultFontSize":15,
                 "maxCount":50,
                 "lineCount":1,
@@ -90,8 +90,8 @@
                 }
             },
             {
-                "x":65,
-                "y":89,
+                "x":61,
+                "y":85,
                 "width":153,
                 "height":39,
                 "type":1,
@@ -103,7 +103,7 @@
                 "verticalAlign":1,
                 "text":"今日更新",
                 "textAlign":1,
-                "fontName":"平方粗体",
+                "fontName":"文悦简体",
                 "defaultFontSize":35,
                 "maxCount":50,
                 "lineCount":1,
