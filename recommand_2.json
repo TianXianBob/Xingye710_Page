@@ -438,14 +438,6 @@
                     "isNew":1
                 },
                 {
-                    "jsonName":"json_sec174.json",
-                    "folderName":"sy_debug_01",
-                    "resId":174,
-                    "thumbPath":"thumb_sy_debug_01.png",
-                    "isPaoFu":0,
-                    "isNew":1
-                },
-                {
                     "jsonName":"json_sec177.json",
                     "folderName":"sy_huazi_04",
                     "resId":177,

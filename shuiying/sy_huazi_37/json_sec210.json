@@ -44,7 +44,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"减肥打卡day1",
-                "textAlign":1,
+                "textAlign":0,
                 "fontName":"站酷快乐",
                 "defaultFontSize":25,
                 "maxCount":50,

@@ -44,7 +44,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"打卡完成",
-                "textAlign":1,
+                "textAlign":0,
                 "fontName":"平方粗体",
                 "defaultFontSize":34,
                 "maxCount":50,

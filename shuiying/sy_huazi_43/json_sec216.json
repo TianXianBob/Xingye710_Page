@@ -44,7 +44,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"打卡标记",
-                "textAlign":1,
+                "textAlign":0,
                 "fontName":"华康方圆体",
                 "defaultFontSize":34,
                 "maxCount":50,
