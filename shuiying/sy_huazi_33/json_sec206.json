@@ -18,8 +18,8 @@
         },
         "textPieces":[
             {
-                "gylphSizeWidth" : 54.5,
-                "gylphSizeHeight" : 61.5,
+                "gylphSizeWidth" : 59.5,
+                "gylphSizeHeight" : 66.5,
                 "x":0,
                 "y":79,
                 "width":240,
@@ -38,7 +38,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":-2,
+                "characterSpace":-1,
                 "italic":10,
                 "shine":{
                     "borderWidth":2,
