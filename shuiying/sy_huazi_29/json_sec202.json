@@ -20,9 +20,9 @@
             {
                 "gylphSizeWidth" : 58,
                 "gylphSizeHeight" : 68,
-                "x":40,
+                "x":0,
                 "y":86,
-                "width":200,
+                "width":240,
                 "height":240,
                 "type":999,
                 "verticalFlip":0,
@@ -124,9 +124,9 @@
                 ]
             },
             {
-                "x":0,
-                "y":60,
-                "width":240,
+                "x":52,
+                "y":70,
+                "width":133,
                 "height":15,
                 "type":1,
                 "verticalFlip":0,
@@ -138,7 +138,7 @@
                 "text":"WO DE XIA TIAN",
                 "textAlign":0,
                 "fontName":"龙书慢生活",
-                "defaultFontSize":13,
+                "defaultFontSize":10,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
