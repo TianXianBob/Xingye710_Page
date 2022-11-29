@@ -85,7 +85,7 @@
                             "alpha":1
                         },
                         "fontSize":40,
-                        "posionOffsetY":0,
+                        "posionOffsetY":1,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_30/img_sec1.png"
                     }
                 ]
