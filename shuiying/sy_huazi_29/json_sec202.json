@@ -125,7 +125,7 @@
             },
             {
                 "x":0,
-                "y":70,
+                "y":60,
                 "width":240,
                 "height":15,
                 "type":1,
@@ -136,7 +136,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"WO DE XIA TIAN",
-                "textAlign":1,
+                "textAlign":0,
                 "fontName":"龙书慢生活",
                 "defaultFontSize":13,
                 "maxCount":50,
