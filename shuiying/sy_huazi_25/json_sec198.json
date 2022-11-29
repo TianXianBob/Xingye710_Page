@@ -18,8 +18,8 @@
         },
         "textPieces":[
             {
-                "gylphSizeWidth" : 51.5,
-                "gylphSizeHeight" : 67,
+                "gylphSizeWidth" : 55,
+                "gylphSizeHeight" : 71,
                 "x":0,
                 "y":69,
                 "width":240,
@@ -86,7 +86,7 @@
                         },
                         "fontSize":40,
                         "posionOffsetX":5,
-                        "posionOffsetY":-3,
+                        "posionOffsetY":-2,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_25/img_sec1.png"
                     }
                 ]
