@@ -18,6 +18,8 @@
         },
         "textPieces":[
             {
+                "gylphSizeWidth" : 54,
+                "gylphSizeHeight" : 54,
                 "x":0,
                 "y":86,
                 "width":240,
@@ -76,8 +78,6 @@
                 },
                 "characterArray":[
                     {
-                        "gylphSizeWidth" : 47,
-                        "gylphSizeHeight" : 47,
                         "color":{
                             "red":222,
                             "green":243,
@@ -85,12 +85,10 @@
                             "alpha":1
                         },
                         "fontSize":37,
-                        "posionOffsetY":0,
+                        "posionOffsetY":1,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec1.png"
                     },
                     {
-                        "gylphSizeWidth" : 52,
-                        "gylphSizeHeight" : 52,
                         "color":{
                             "red":222,
                             "green":243,
@@ -98,12 +96,10 @@
                             "alpha":1
                         },
                         "fontSize":37,
-                        "posionOffsetY":0,
+                        "posionOffsetY":1,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec2.png"
                     },
                     {
-                        "gylphSizeWidth" : 47,
-                        "gylphSizeHeight" : 47,
                         "color":{
                             "red":140,
                             "green":206,
@@ -111,12 +107,10 @@
                             "alpha":1
                         },
                         "fontSize":37,
-                        "posionOffsetY":0,
+                        "posionOffsetY":1,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec3.png"
                     },
                     {
-                        "gylphSizeWidth" : 54,
-                        "gylphSizeHeight" : 54,
                         "color":{
                             "red":222,
                             "green":243,
@@ -124,7 +118,7 @@
                             "alpha":1
                         },
                         "fontSize":37,
-                        "posionOffsetY":0,
+                        "posionOffsetY":1,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec4.png"
                     }
                 ]
@@ -143,7 +137,7 @@
                 "verticalAlign":1,
                 "text":"WO DE XIA TIAN",
                 "textAlign":1,
-                "fontName":"aileron-black",
+                "fontName":"龙书慢生活",
                 "defaultFontSize":13,
                 "maxCount":50,
                 "lineCount":1,
