@@ -38,7 +38,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":-2,
+                "characterSpace":-1,
                 "italic":10,
                 "shine":{
                     "borderWidth":2,
@@ -118,7 +118,7 @@
                             "alpha":1
                         },
                         "fontSize":24,
-                        "posionOffsetY":0,
+                        "posionOffsetY":2,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_28/img_sec4.png"
                     },
                     {
