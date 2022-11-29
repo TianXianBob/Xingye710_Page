@@ -37,7 +37,7 @@
                 "defaultFontSize":33,
                 "maxCount":50,
                 "lineCount":1,
-                "lineSpace":2,
+                "lineSpace":4,
                 "characterSpace":-2,
                 "italic":10,
                 "shine":{
