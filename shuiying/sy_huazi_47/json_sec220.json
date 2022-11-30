@@ -16,20 +16,6 @@
                 "alpha":0
             }
         },
-        "imagePieces":[
-            {
-                "x":0,
-                "y":0,
-                "width":240,
-                "height":240,
-                "verticalFlip":0,
-                "horizonFlip":0,
-                "offsetX":0,
-                "offsetY":0,
-                "angle":0,
-                "path":"http://tianxianbob.com/Xingye710_Page/sy_huazi_47/img_sec1.png"
-            }
-        ],
         "textPieces":[
             {
                 "x":27,
@@ -86,6 +72,12 @@
                     "red":255,
                     "green":255,
                     "blue":255,
+                    "alpha":1
+                },
+                "lineColor":{
+                    "red":185,
+                    "green":129,
+                    "blue":124,
                     "alpha":1
                 }
             }
