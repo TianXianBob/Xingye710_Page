@@ -18,8 +18,8 @@
         },
         "textPieces":[
             {
-                "gylphSizeWidth" : 80,
-                "gylphSizeHeight" : 80,
+                "gylphSizeWidth" : 49,
+                "gylphSizeHeight" : 49,
                 "x":0,
                 "y":0,
                 "width":240,
@@ -35,11 +35,11 @@
                 "textAlign":1,
                 "fontName":"王汉宗颜楷体",
                 "defaultFontSize":30,
-                "maxCount":50,
+                "maxCount":20,
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":1,
-                "italic":10,
+                "italic":0,
                 "shine":{
                     "borderWidth":2,
                     "borderColor":{
