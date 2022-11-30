@@ -25,6 +25,7 @@
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
+                "bginset":77,
                 "angle":0,
                 "offsetX":0,
                 "offsetY":0,
@@ -75,9 +76,9 @@
                     "alpha":1
                 },
                 "lineColor":{
-                    "red":185,
-                    "green":129,
-                    "blue":124,
+                    "red":0,
+                    "green":0,
+                    "blue":0,
                     "alpha":1
                 }
             }
