@@ -37,7 +37,7 @@
                 "defaultFontSize":33,
                 "maxCount":50,
                 "lineCount":1,
-                "lineSpace":0,
+                "lineSpace":4,
                 "characterSpace":-2,
                 "italic":10,
                 "shine":{
@@ -85,7 +85,7 @@
                             "alpha":1
                         },
                         "fontSize":33,
-                        "posionOffsetY":0,
+                        "posionOffsetY":4,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_27/img_sec1.png"
                     }
                 ]

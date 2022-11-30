@@ -18,8 +18,8 @@
         },
         "textPieces":[
             {
-                "gylphSizeWidth" : 64,
-                "gylphSizeHeight" : 64,
+                "gylphSizeWidth" : 58,
+                "gylphSizeHeight" : 58,
                 "x":0,
                 "y":79,
                 "width":240,
@@ -85,7 +85,7 @@
                             "alpha":1
                         },
                         "fontSize":47,
-                        "posionOffsetY":0,
+                        "posionOffsetY":10,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_32/img_sec1.png"
                     },
                     {
@@ -96,7 +96,7 @@
                             "alpha":1
                         },
                         "fontSize":47,
-                        "posionOffsetY":0,
+                        "posionOffsetY":10,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_32/img_sec2.png"
                     },
                     {
@@ -107,7 +107,7 @@
                             "alpha":1
                         },
                         "fontSize":47,
-                        "posionOffsetY":0,
+                        "posionOffsetY":10,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_32/img_sec3.png"
                     },
                     {
@@ -118,7 +118,7 @@
                             "alpha":1
                         },
                         "fontSize":47,
-                        "posionOffsetY":0,
+                        "posionOffsetY":10,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_32/img_sec4.png"
                     }
                 ]

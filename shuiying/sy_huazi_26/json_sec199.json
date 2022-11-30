@@ -18,10 +18,10 @@
         },
         "textPieces":[
             {
-                "gylphSizeWidth" : 49,
-                "gylphSizeHeight" : 49,
+                "gylphSizeWidth" : 80,
+                "gylphSizeHeight" : 80,
                 "x":0,
-                "y":69,
+                "y":0,
                 "width":240,
                 "height":240,
                 "type":999,
@@ -38,7 +38,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":-2,
+                "characterSpace":1,
                 "italic":10,
                 "shine":{
                     "borderWidth":2,
@@ -85,7 +85,7 @@
                             "alpha":1
                         },
                         "fontSize":30,
-                        "posionOffsetY":0,
+                        "posionOffsetY":2,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_26/img_sec1.png"
                     }
                 ]

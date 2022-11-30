@@ -18,6 +18,8 @@
         },
         "textPieces":[
             {
+                "gylphSizeWidth" : 58,
+                "gylphSizeHeight" : 68,
                 "x":0,
                 "y":86,
                 "width":240,
@@ -36,7 +38,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":-2,
+                "characterSpace":-10,
                 "italic":0,
                 "shine":{
                     "borderWidth":2,
@@ -76,8 +78,6 @@
                 },
                 "characterArray":[
                     {
-                        "gylphSizeWidth" : 47,
-                        "gylphSizeHeight" : 47,
                         "color":{
                             "red":222,
                             "green":243,
@@ -85,12 +85,10 @@
                             "alpha":1
                         },
                         "fontSize":37,
-                        "posionOffsetY":0,
+                        "posionOffsetY":5,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec1.png"
                     },
                     {
-                        "gylphSizeWidth" : 52,
-                        "gylphSizeHeight" : 52,
                         "color":{
                             "red":222,
                             "green":243,
@@ -98,12 +96,10 @@
                             "alpha":1
                         },
                         "fontSize":37,
-                        "posionOffsetY":0,
+                        "posionOffsetY":5,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec2.png"
                     },
                     {
-                        "gylphSizeWidth" : 47,
-                        "gylphSizeHeight" : 47,
                         "color":{
                             "red":140,
                             "green":206,
@@ -111,12 +107,10 @@
                             "alpha":1
                         },
                         "fontSize":37,
-                        "posionOffsetY":0,
+                        "posionOffsetY":5,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec3.png"
                     },
                     {
-                        "gylphSizeWidth" : 54,
-                        "gylphSizeHeight" : 54,
                         "color":{
                             "red":222,
                             "green":243,
@@ -124,15 +118,15 @@
                             "alpha":1
                         },
                         "fontSize":37,
-                        "posionOffsetY":0,
+                        "posionOffsetY":5,
                         "bgImagePath" : "http://tianxianbob.com/Xingye710_Page/sy_huazi_29/img_sec4.png"
                     }
                 ]
             },
             {
-                "x":0,
-                "y":70,
-                "width":240,
+                "x":51,
+                "y":88,
+                "width":133,
                 "height":15,
                 "type":1,
                 "verticalFlip":0,
@@ -142,14 +136,14 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"WO DE XIA TIAN",
-                "textAlign":1,
-                "fontName":"aileron-black",
-                "defaultFontSize":13,
+                "textAlign":0,
+                "fontName":"龙书慢生活",
+                "defaultFontSize":10,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":1,
-                "italic":10,
+                "italic":0,
                 "shine":{
                     "borderWidth":2,
                     "borderColor":{
@@ -176,8 +170,8 @@
                         "alpha":1
                     },
                     "opacity":1,
-                    "shadowOffsetX":1.5,
-                    "shadowOffsetY":1.5,
+                    "shadowOffsetX":1,
+                    "shadowOffsetY":1,
                     "shadowRadius":0
                 },
                 "color":{
