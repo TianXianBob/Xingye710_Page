@@ -35,7 +35,7 @@
                 "textAlign":1,
                 "fontName":"文悦古典",
                 "defaultFontSize":40,
-                "maxCount":50,
+                "maxCount":8,
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":-2,
