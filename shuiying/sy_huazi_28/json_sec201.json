@@ -35,10 +35,10 @@
                 "textAlign":1,
                 "fontName":"胡晓波骚包体",
                 "defaultFontSize":24,
-                "maxCount":50,
+                "maxCount":56,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":2,
+                "characterSpace":4,
                 "italic":10,
                 "shine":{
                     "borderWidth":2,

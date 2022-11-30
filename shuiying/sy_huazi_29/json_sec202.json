@@ -35,7 +35,7 @@
                 "textAlign":1,
                 "fontName":"龙书慢生活",
                 "defaultFontSize":37,
-                "maxCount":50,
+                "maxCount":12,
                 "lineCount":1,
                 "lineSpace":0,
                 "characterSpace":-10,
@@ -124,8 +124,8 @@
                 ]
             },
             {
-                "x":51,
-                "y":88,
+                "x":58,
+                "y":70,
                 "width":133,
                 "height":15,
                 "type":1,
