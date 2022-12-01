@@ -30,7 +30,7 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"''  21  02  28",
-                "textAlign":0,
+                "textAlign":1,
                 "fontName":"YournameD7HomeHalf",
                 "defaultFontSize":34,
                 "maxCount":20,
