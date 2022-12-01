@@ -1,10 +1,10 @@
 {
     "data":{
-        "resId":225,
+        "resId":228,
         "version":"1.0.0",
-        "type":10,
-        "name":"mj\u7b2c\u4e00\u767e\u4e09\u5341\u4e5d\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_huazi_52/thumb_mj1.png",
+        "type":8,
+        "name":"mj\u7b2c\u516b\u4e2a\u6c34\u5370",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_shijian_10/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -19,10 +19,10 @@
         "textPieces":[
             {
                 "x":0,
-                "y":146,
+                "y":96,
                 "width":240,
                 "height":40,
-                "type":1,
+                "type":18,
                 "verticalFlip":0,
                 "horizonFlip":0,
                 "angle":0,
@@ -30,22 +30,24 @@
                 "offsetY":0,
                 "verticalAlign":1,
                 "text":"''  21  02  28",
-                "textAlign":1,
+                "textAlign":0,
                 "fontName":"YournameD7HomeHalf",
                 "defaultFontSize":34,
-                "maxCount":50,
+                "maxCount":20,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":1,
-                "italic":0,
-                "shine":{
-                    "borderWidth":5,
-                    "borderColor":{
-                        "red":158,
-                        "green":240,
-                        "blue":8,
+                "characterSpace":0,
+                "shadow":{
+                    "shadowColor":{
+                        "red":0,
+                        "green":0,
+                        "blue":0,
                         "alpha":0
-                    }
+                    },
+                    "opacity":0.2,
+                    "shadowOffsetX":2,
+                    "shadowOffsetY":3,
+                    "shadowRadius":0
                 },
                 "border":{
                     "borderWidth":1,
@@ -56,22 +58,10 @@
                         "alpha":1
                     }
                 },
-                "shadow":{
-                    "shadowColor":{
-                        "red":42,
-                        "green":26,
-                        "blue":240,
-                        "alpha":0
-                    },
-                    "opacity":1,
-                    "shadowOffsetX":1.5,
-                    "shadowOffsetY":1.5,
-                    "shadowRadius":0
-                },
                 "color":{
                     "red":253,
-                    "green":168,
-                    "blue":45,
+                    "green":164,
+                    "blue":42,
                     "alpha":1
                 }
             }
