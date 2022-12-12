@@ -2,15 +2,9 @@
     "data":[
         {
             "type":0,
+            "dot":false,
+            "title":"推荐",
             "shuiYing":[
-                {
-                    "jsonName":"json_debug_01.json",
-                    "folderName":"sy_debug_01",
-                    "resId":9999,
-                    "thumbPath":"thumb_sy_quanping_01.png",
-                    "isPaoFu":1,
-                    "version":"1.2.5"
-                },
                 {
                     "jsonName":"json_sec5.json",
                     "folderName":"sy_quanping_01",
@@ -479,6 +473,8 @@
         },
         {
             "type":10,
+            "dot":false,
+            "title":"花字水印",
             "shuiYing":[
                 {
                     "jsonName":"json_sec175.json",
@@ -952,6 +948,8 @@
         },
         {
             "type":8,
+            "title":"时间水印",
+            "dot":false,
             "shuiYing":[
                 {
                     "jsonName":"json_sec147.json",
@@ -1038,6 +1036,8 @@
         },
         {
             "type":9,
+            "title":"图章水印",
+            "dot":false,
             "shuiYing":[
                 {
                     "jsonName":"json_sec156.json",
@@ -1205,6 +1205,8 @@
         },
         {
             "type":1,
+            "title":"全屏水印",
+            "dot":false,
             "shuiYing":[
                 {
                     "jsonName":"json_sec3.json",
@@ -1458,6 +1460,8 @@
         },
         {
             "type":2,
+            "title":"文字水印",
+            "dot":false,
             "shuiYing":[
                 {
                     "jsonName":"json_sec5.json",
@@ -1663,6 +1667,8 @@
         },
         {
             "type":3,
+            "title":"文字水印",
+            "dot":false,
             "shuiYing":[
                 {
                     "jsonName":"json_sec6.json",
@@ -1820,6 +1826,8 @@
         },
         {
             "type":4,
+            "dot":false,
+            "title":"童心未泯",
             "shuiYing":[
                 {
                     "jsonName":"json_sec8.json",
@@ -1953,6 +1961,8 @@
         },
         {
             "type":5,
+            "title":"元气少女",
+            "dot":false,
             "shuiYing":[
                 {
                     "jsonName":"json_sec126.json",
@@ -2054,6 +2064,8 @@
         },
         {
             "type":6,
+            "title":"温柔雅痞",
+            "dot":false,
             "shuiYing":[
                 {
                     "jsonName":"json_sec79.json",
@@ -2251,6 +2263,8 @@
         },
         {
             "type":7,
+            "title":"私人稿件",
+            "dot":false,
             "shuiYing":[
                 {
                     "jsonName":"json_sec127.json",
