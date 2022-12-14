@@ -1,0 +1,23 @@
+{
+    "data":[
+        {
+            "type":11,
+            "dot":false,
+            "title":"测试组",
+            "titleIcon" : "first_thumb.png"
+            "tiezhi":[
+                {
+                    "resId":146,
+                    "thumbPath":"guonian/first_thumb.png",
+                    "isPaoFu":1,
+                    "bgColor":{
+                        "red":255,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
+                    }
+                }
+            ]
+        }
+    ]
+}
