@@ -116,6 +116,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"厚底黑",
+            "tags":[
+                "厚底黑"
+            ],
+            "localID":"S09",
+            "thumb":"houdihei.png",
+            "wenJian":"houdihei.ttc",
+            "chanPinId":"com.bob.houdihei",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"厚底黑",
+            "daxiao":"1.2MB"
+        },
+        {
             "name":"猫啃网故障宋",
             "tags":[
                 "猫啃网故障宋"

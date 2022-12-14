@@ -2200,7 +2200,7 @@
         {
             "type":11,
             "dot":false,
-            "title":"测试组",
+            "title":"标题花字",
             "shuiYing":[
                 {
                     "jsonName":"json_sec146.json",
@@ -2215,6 +2215,14 @@
                         "blue":0,
                         "alpha":1
                     }
+                },
+                {
+                    "jsonName":"json_sec228.json",
+                    "folderName":"sy_biaotihuazi_01",
+                    "resId":228,
+                    "thumbPath":"thumb_sy_biaotihuazi_01.png",
+                    "isPaoFu":1,
+                    "version":"1.2.5"
                 }
             ]
         }
