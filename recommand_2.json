@@ -472,6 +472,35 @@
             ]
         },
         {
+            "type":11,
+            "dot":false,
+            "title":"标题花字",
+            "shuiYing":[
+                {
+                    "jsonName":"json_sec146.json",
+                    "folderName":"sy_shuban_01",
+                    "resId":146,
+                    "thumbPath":"thumb_sy_shuban_01.png",
+                    "isPaoFu":1,
+                    "version":"1.2.3",
+                    "bgColor":{
+                        "red":255,
+                        "green":0,
+                        "blue":0,
+                        "alpha":1
+                    }
+                },
+                {
+                    "jsonName":"json_sec228.json",
+                    "folderName":"sy_biaotihuazi_01",
+                    "resId":228,
+                    "thumbPath":"thumb_sy_biaotihuazi_01.png",
+                    "isPaoFu":1,
+                    "version":"1.2.5"
+                }
+            ]
+        },
+        {
             "type":10,
             "dot":false,
             "title":"花字水印",
@@ -2194,35 +2223,6 @@
                     "thumbPath":"thumb_sy_shuban_01.png",
                     "isPaoFu":1,
                     "version":"1.2.3"
-                }
-            ]
-        },
-        {
-            "type":11,
-            "dot":false,
-            "title":"标题花字",
-            "shuiYing":[
-                {
-                    "jsonName":"json_sec146.json",
-                    "folderName":"sy_shuban_01",
-                    "resId":146,
-                    "thumbPath":"thumb_sy_shuban_01.png",
-                    "isPaoFu":1,
-                    "version":"1.2.3",
-                    "bgColor":{
-                        "red":255,
-                        "green":0,
-                        "blue":0,
-                        "alpha":1
-                    }
-                },
-                {
-                    "jsonName":"json_sec228.json",
-                    "folderName":"sy_biaotihuazi_01",
-                    "resId":228,
-                    "thumbPath":"thumb_sy_biaotihuazi_01.png",
-                    "isPaoFu":1,
-                    "version":"1.2.5"
                 }
             ]
         }
