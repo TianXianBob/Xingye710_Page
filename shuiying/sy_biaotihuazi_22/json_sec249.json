@@ -1,10 +1,10 @@
 {
     "data":{
-        "resId":248,
+        "resId":249,
         "version":"1.0.0",
         "type":11,
         "name":"mj\u7b2c\u4e00\u767e\u4e09\u5341\u4e5d\u4e2a\u6c34\u5370",
-        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_biaotihuazi_21/thumb_mj1.png",
+        "thumbPath":"http://tianxianbob.com/Xingye710_Page/sy_biaotihuazi_22/thumb_mj1.png",
         "canvas":{
             "width":240,
             "height":240,
@@ -27,14 +27,14 @@
                 "offsetX":0,
                 "offsetY":0,
                 "angle":0,
-                "path":"http://tianxianbob.com/Xingye710_Page/sy_biaotihuazi_21/img_sec1.png"
+                "path":"http://tianxianbob.com/Xingye710_Page/sy_biaotihuazi_22/img_sec1.png"
             }
         ],
         "textPieces":[
             {
-                "x":25,
+                "x":26,
                 "y":93,
-                "width":85,
+                "width":86,
                 "height":19,
                 "type":1,
                 "verticalFlip":0,
@@ -46,7 +46,7 @@
                 "text":"LOOK ME",
                 "textAlign":0,
                 "fontName":"棒棒糖",
-                "defaultFontSize":18,
+                "defaultFontSize":19,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":2,
@@ -83,16 +83,16 @@
                     "shadowRadius":0
                 },
                 "color":{
-                    "red":77,
-                    "green":128,
-                    "blue":227,
+                    "red":39,
+                    "green":191,
+                    "blue":11,
                     "alpha":1
                 }
             },
             {
-                "x":25,
-                "y":130,
-                "width":193,
+                "x":27,
+                "y":127,
+                "width":186,
                 "height":26,
                 "type":1,
                 "verticalFlip":0,
@@ -101,7 +101,7 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"蓝色海洋的夏日穿搭～",
+                "text":"莫兰迪绿奶油调色教程",
                 "textAlign":0,
                 "fontName":"棒棒糖",
                 "defaultFontSize":21,
@@ -141,16 +141,16 @@
                     "shadowRadius":0
                 },
                 "color":{
-                    "red":77,
-                    "green":128,
-                    "blue":227,
+                    "red":39,
+                    "green":191,
+                    "blue":11,
                     "alpha":1
                 }
             },
             {
-                "x":25,
-                "y":171,
-                "width":193,
+                "x":27,
+                "y":168,
+                "width":186,
                 "height":26,
                 "type":1,
                 "verticalFlip":0,
@@ -159,7 +159,7 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"蓝色海洋的夏日穿搭～",
+                "text":"莫兰迪绿奶油调色教程",
                 "textAlign":0,
                 "fontName":"棒棒糖",
                 "defaultFontSize":21,
@@ -199,9 +199,9 @@
                     "shadowRadius":0
                 },
                 "color":{
-                    "red":77,
-                    "green":128,
-                    "blue":227,
+                    "red":39,
+                    "green":191,
+                    "blue":11,
                     "alpha":1
                 }
             }
