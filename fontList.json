@@ -116,6 +116,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"飞云体",
+            "tags":[
+                "飞云体"
+            ],
+            "localID":"S09",
+            "thumb":"feiyunti.png",
+            "wenJian":"feiyunti.ttc",
+            "chanPinId":"com.bob.feiyunti",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"飞云体",
+            "daxiao":"5.3MB"
+        },
+        {
             "name":"静龙行书",
             "tags":[
                 "静龙行书"
