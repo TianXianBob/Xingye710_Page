@@ -116,6 +116,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"我爱万万手写体",
+            "tags":[
+                "我爱万万手写体"
+            ],
+            "localID":"S09",
+            "thumb":"woaiwanwanshouxieti.png",
+            "wenJian":"woaiwanwanshouxieti.ttc",
+            "chanPinId":"com.bob.woaiwanwanshouxieti",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"我爱万万手写体",
+            "daxiao":"2.4MB"
+        },
+        {
             "name":"厚底黑",
             "tags":[
                 "厚底黑"
