@@ -665,6 +665,38 @@
                     "thumbPath":"thumb_sy_biaotihuazi_22.png",
                     "isPaoFu":1,
                     "version":"1.2.4"
+                },
+                {
+                    "jsonName":"json_sec250.json",
+                    "folderName":"sy_biaotihuazi_23",
+                    "resId":250,
+                    "thumbPath":"thumb_sy_biaotihuazi_23.png",
+                    "isPaoFu":1,
+                    "version":"1.2.4"
+                },
+                {
+                    "jsonName":"json_sec251.json",
+                    "folderName":"sy_biaotihuazi_24",
+                    "resId":251,
+                    "thumbPath":"thumb_sy_biaotihuazi_24.png",
+                    "isPaoFu":1,
+                    "version":"1.2.4"
+                },
+                {
+                    "jsonName":"json_sec252.json",
+                    "folderName":"sy_biaotihuazi_25",
+                    "resId":252,
+                    "thumbPath":"thumb_sy_biaotihuazi_25.png",
+                    "isPaoFu":1,
+                    "version":"1.2.4"
+                },
+                {
+                    "jsonName":"json_sec253.json",
+                    "folderName":"sy_biaotihuazi_26",
+                    "resId":253,
+                    "thumbPath":"thumb_sy_biaotihuazi_26.png",
+                    "isPaoFu":1,
+                    "version":"1.2.4"
                 }
             ]
         },
