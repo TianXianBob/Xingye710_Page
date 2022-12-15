@@ -72,10 +72,10 @@
                 },
                 "shadow":{
                     "shadowColor":{
-                        "red":191,
-                        "green":67,
-                        "blue":25,
-                        "alpha":0
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":1
                     },
                     "opacity":1,
                     "shadowOffsetX":1.5,
