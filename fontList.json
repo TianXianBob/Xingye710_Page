@@ -116,6 +116,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"静龙行书",
+            "tags":[
+                "静龙行书"
+            ],
+            "localID":"S09",
+            "thumb":"jinglongxingshu.png",
+            "wenJian":"jinglongxingshu.ttc",
+            "chanPinId":"com.bob.jinglongxingshu",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"静龙行书",
+            "daxiao":"3.1MB"
+        },
+        {
             "name":"麦圆体",
             "tags":[
                 "麦圆体"
