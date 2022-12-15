@@ -116,6 +116,23 @@
             "daxiao":"5.8MB"
         },
         {
+            "name":"剑豪体",
+            "tags":[
+                "剑豪体"
+            ],
+            "localID":"S09",
+            "thumb":"jianhaoti.png",
+            "wenJian":"jianhaoti.ttc",
+            "chanPinId":"com.bob.jianhaoti",
+            "s3":"yuanChen",
+            "zhiFu":"mianFei",
+            "multiple":0.7,
+            "xPadding":0,
+            "yPadding":0,
+            "showText":"剑豪体",
+            "daxiao":"4.0MB"
+        },
+        {
             "name":"我爱万万手写体",
             "tags":[
                 "我爱万万手写体"
