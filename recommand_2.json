@@ -513,6 +513,14 @@
                     "thumbPath":"thumb_sy_biaotihuazi_03.png",
                     "isPaoFu":1,
                     "version":"1.2.4"
+                },
+                {
+                    "jsonName":"json_sec231.json",
+                    "folderName":"sy_biaotihuazi_04",
+                    "resId":231,
+                    "thumbPath":"thumb_sy_biaotihuazi_04.png",
+                    "isPaoFu":1,
+                    "version":"1.2.4"
                 }
             ]
         },
