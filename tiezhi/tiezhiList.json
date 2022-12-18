@@ -4,7 +4,7 @@
             "type":11,
             "dot":false,
             "title":"测试组",
-            "titleIcon" : "xiaohuamao.png",
+            "titleIcon" : "xiaohuamao/xiaohuamao.png",
             "tiezhi":[
                 {
                     "resId":146,
