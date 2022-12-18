@@ -4,16 +4,38 @@
             "type":11,
             "dot":false,
             "title":"测试组",
-            "titleIcon" : "first_thumb.png",
+            "titleIcon" : "xiaohuamao.png",
             "tiezhi":[
                 {
                     "resId":146,
-                    "thumbPath":"guonian/first_thumb.png",
+                    "thumbPath":"xiaohuamao/list/1.png",
                     "isPaoFu":1,
                     "bgColor":{
-                        "red":255,
-                        "green":0,
-                        "blue":0,
+                        "red":60,
+                        "green":60,
+                        "blue":60,
+                        "alpha":1
+                    }
+                },
+                {
+                    "resId":147,
+                    "thumbPath":"xiaohuamao/list/2.png",
+                    "isPaoFu":1,
+                    "bgColor":{
+                        "red":60,
+                        "green":60,
+                        "blue":60,
+                        "alpha":1
+                    }
+                },
+                {
+                    "resId":148,
+                    "thumbPath":"xiaohuamao/list/3.png",
+                    "isPaoFu":1,
+                    "bgColor":{
+                        "red":60,
+                        "green":60,
+                        "blue":60,
                         "alpha":1
                     }
                 }
