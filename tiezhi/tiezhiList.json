@@ -8,7 +8,8 @@
             "tiezhi":[
                 {
                     "resId":146,
-                    "thumbPath":"xiaohuamao/list/1.png",
+                    "path":"xiaohuamao/list/1.png",
+                    "thumbPath":"xiaohuamao/thumb_list/1.png",
                     "isPaoFu":1,
                     "bgColor":{
                         "red":60,
@@ -19,7 +20,8 @@
                 },
                 {
                     "resId":147,
-                    "thumbPath":"xiaohuamao/list/2.png",
+                    "path":"xiaohuamao/list/2.png",
+                    "thumbPath":"xiaohuamao/thumb_list/2.png",
                     "isPaoFu":1,
                     "bgColor":{
                         "red":60,
@@ -30,7 +32,8 @@
                 },
                 {
                     "resId":148,
-                    "thumbPath":"xiaohuamao/list/3.png",
+                    "path":"xiaohuamao/list/3.png",
+                    "thumbPath":"xiaohuamao/thumb_list/3.png",
                     "isPaoFu":1,
                     "bgColor":{
                         "red":60,
