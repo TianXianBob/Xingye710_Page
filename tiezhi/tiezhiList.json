@@ -1,51 +1,6 @@
 {
     "data":[
         {
-            "type":11,
-            "dot":false,
-            "title":"测试组",
-            "folderName" : "xiaohuamao",
-            "titleIcon" : "xiaohuamao.png",
-            "tiezhi":[
-                {
-                    "resId":146,
-                    "path":"list/1.png",
-                    "thumbPath":"thumb_list/1.png",
-                    "isPaoFu":1,
-                    "bgColor":{
-                        "red":60,
-                        "green":60,
-                        "blue":60,
-                        "alpha":1
-                    }
-                },
-                {
-                    "resId":147,
-                    "path":"list/2.png",
-                    "thumbPath":"thumb_list/2.png",
-                    "isPaoFu":1,
-                    "bgColor":{
-                        "red":60,
-                        "green":60,
-                        "blue":60,
-                        "alpha":1
-                    }
-                },
-                {
-                    "resId":148,
-                    "path":"list/3.png",
-                    "thumbPath":"thumb_list/3.png",
-                    "isPaoFu":1,
-                    "bgColor":{
-                        "red":60,
-                        "green":60,
-                        "blue":60,
-                        "alpha":1
-                    }
-                }
-            ]
-        },
-        {
             "type":101,
             "dot":true,
             "title":"新年",
