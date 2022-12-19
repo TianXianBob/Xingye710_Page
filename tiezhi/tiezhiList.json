@@ -3404,6 +3404,75 @@
                     }
                 }
             ]
+        },
+        {
+            "type":117,
+            "dot":true,
+            "title":"猫猫",
+            "folderName" : "maomao",
+            "titleIcon" : "maomao.png",
+            "tiezhi":[
+                {
+                    "resId":419,
+                    "path":"list/1.png",
+                    "thumbPath":"thumb_list/1.png",
+                    "isPaoFu":1,
+                    "bgColor":{
+                        "red":60,
+                        "green":60,
+                        "blue":60,
+                        "alpha":1
+                    }
+                },
+                {
+                    "resId":420,
+                    "path":"list/2.png",
+                    "thumbPath":"thumb_list/2.png",
+                    "isPaoFu":1,
+                    "bgColor":{
+                        "red":60,
+                        "green":60,
+                        "blue":60,
+                        "alpha":1
+                    }
+                },
+                {
+                    "resId":421,
+                    "path":"list/3.png",
+                    "thumbPath":"thumb_list/3.png",
+                    "isPaoFu":1,
+                    "bgColor":{
+                        "red":60,
+                        "green":60,
+                        "blue":60,
+                        "alpha":1
+                    }
+                },
+                {
+                    "resId":422,
+                    "path":"list/4.png",
+                    "thumbPath":"thumb_list/4.png",
+                    "isPaoFu":1,
+                    "bgColor":{
+                        "red":60,
+                        "green":60,
+                        "blue":60,
+                        "alpha":1
+                    }
+                },
+                {
+                    "resId":423,
+                    "path":"list/5.png",
+                    "thumbPath":"thumb_list/5.png",
+                    "isPaoFu":1,
+                    "bgColor":{
+                        "red":60,
+                        "green":60,
+                        "blue":60,
+                        "alpha":1
+                    }
+                }
+            ]
         }
     ]
 }
