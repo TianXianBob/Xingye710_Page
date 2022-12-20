@@ -32,10 +32,10 @@
         ],
         "textPieces":[
             {
-                "x":35,
-                "y":57,
+                "x":40,
+                "y":56,
                 "width":172,
-                "height":130,
+                "height":68,
                 "type":1,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -43,7 +43,65 @@
                 "offsetX":0,
                 "offsetY":0,
                 "verticalAlign":1,
-                "text":"NICE\nDAY",
+                "text":"NICE",
+                "textAlign":1,
+                "fontName":"千图小兔体",
+                "defaultFontSize":83,
+                "maxCount":50,
+                "lineCount":1,
+                "lineSpace":0,
+                "characterSpace":1,
+                "italic":0,
+                "shine":{
+                    "borderWidth":2,
+                    "borderColor":{
+                        "red":255,
+                        "green":192,
+                        "blue":212,
+                        "alpha":0
+                    }
+                },
+                "border":{
+                    "borderWidth":1,
+                    "borderColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":0
+                    }
+                },
+                "shadow":{
+                    "shadowColor":{
+                        "red":255,
+                        "green":255,
+                        "blue":255,
+                        "alpha":1
+                    },
+                    "opacity":1,
+                    "shadowOffsetX":1.5,
+                    "shadowOffsetY":1.5,
+                    "shadowRadius":0
+                },
+                "color":{
+                    "red":253,
+                    "green":109,
+                    "blue":162,
+                    "alpha":1
+                }
+            },
+            {
+                "x":40,
+                "y":115,
+                "width":172,
+                "height":68,
+                "type":1,
+                "verticalFlip":0,
+                "horizonFlip":0,
+                "angle":0,
+                "offsetX":0,
+                "offsetY":0,
+                "verticalAlign":1,
+                "text":"DAY",
                 "textAlign":1,
                 "fontName":"千图小兔体",
                 "defaultFontSize":83,
