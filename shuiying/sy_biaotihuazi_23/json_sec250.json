@@ -32,8 +32,8 @@
         ],
         "textPieces":[
             {
-                "x":14,
-                "y":101,
+                "x":21,
+                "y":99,
                 "width":215,
                 "height":48,
                 "type":1,
@@ -50,7 +50,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":2,
-                "characterSpace":5,
+                "characterSpace":17,
                 "italic":0,
                 "shine":{
                     "borderWidth":2,
@@ -90,7 +90,7 @@
                 }
             },
             {
-                "x":70,
+                "x":76,
                 "y":153,
                 "width":104,
                 "height":20,
@@ -108,7 +108,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":2,
-                "characterSpace":5,
+                "characterSpace":11,
                 "italic":0,
                 "shine":{
                     "borderWidth":2,

@@ -50,7 +50,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":2,
-                "characterSpace":1,
+                "characterSpace":-2,
                 "italic":0,
                 "shine":{
                     "borderWidth":2,
@@ -108,7 +108,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":2,
-                "characterSpace":1,
+                "characterSpace":-2,
                 "italic":0,
                 "shine":{
                     "borderWidth":2,
@@ -166,7 +166,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":2,
-                "characterSpace":1,
+                "characterSpace":-2,
                 "italic":0,
                 "shine":{
                     "borderWidth":2,

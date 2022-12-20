@@ -50,7 +50,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":2,
+                "characterSpace":6,
                 "italic":0,
                 "shine":{
                     "borderWidth":2,
@@ -91,7 +91,7 @@
             },
             {
                 "x":45,
-                "y":117,
+                "y":121,
                 "width":189,
                 "height":32,
                 "type":1,
@@ -108,7 +108,7 @@
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
-                "characterSpace":2,
+                "characterSpace":4,
                 "italic":0,
                 "shine":{
                     "borderWidth":2,
