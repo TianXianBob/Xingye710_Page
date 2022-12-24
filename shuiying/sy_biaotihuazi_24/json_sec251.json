@@ -32,10 +32,10 @@
         ],
         "textPieces":[
             {
-                "x":0,
-                "y":0,
-                "width":220,
-                "height":220,
+                "x":-280,
+                "y":80,
+                "width":800,
+                "height":800,
                 "type":3,
                 "verticalFlip":0,
                 "horizonFlip":0,
@@ -46,7 +46,7 @@
                 "text":"生日快乐呀",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":160,
+                "circleRadius":400,
                 "circleTextInside":false,
                 "fontName":"龚帆体",
                 "defaultFontSize":22,
