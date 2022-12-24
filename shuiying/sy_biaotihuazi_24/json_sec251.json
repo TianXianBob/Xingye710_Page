@@ -46,7 +46,7 @@
                 "text":"生日快乐呀",
                 "textAlign":1,
                 "bgInset":2,
-                "circleRadius":400,
+                "circleRadius":360,
                 "circleTextInside":false,
                 "fontName":"龚帆体",
                 "defaultFontSize":22,
