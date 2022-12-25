@@ -33,7 +33,7 @@
         "textPieces":[
             {
                 "x":-285,
-                "y":125,
+                "y":95,
                 "width":800,
                 "height":800,
                 "type":3,
@@ -49,7 +49,7 @@
                 "circleRadius":360,
                 "circleTextInside":false,
                 "fontName":"龚帆体",
-                "defaultFontSize":22,
+                "defaultFontSize":8,
                 "maxCount":50,
                 "lineCount":1,
                 "lineSpace":0,
