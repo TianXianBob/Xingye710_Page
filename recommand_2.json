@@ -105,15 +105,6 @@
                     "isPaoFu":0
                 },
                 {
-                    "jsonName":"json_sec204.json",
-                    "folderName":"sy_huazi_31",
-                    "resId":204,
-                    "thumbPath":"thumb_sy_huazi_31.png",
-                    "isPaoFu":1,
-                    "version":"1.2.3",
-                    "isNew":1
-                },
-                {
                     "jsonName":"json_sec7.json",
                     "folderName":"sy_quanping_02",
                     "resId":48,
