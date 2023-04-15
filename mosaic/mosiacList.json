@@ -1,0 +1,44 @@
+{
+    "data":[
+        {
+            "isPaofu":false,
+            "type": 0,
+            "colorHexString":"",
+            "benDiTuName":"mosaic_list_normal",
+            "yuanduanTuName":"",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 1
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"mosaic_list_light",
+            "yuanduanTuName":"",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 2
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"mosaic_list_dark",
+            "yuanduanTuName":"",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 3
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"mosaic_1",
+            "yuanduanTuName":"",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        }
+    ]
+}
