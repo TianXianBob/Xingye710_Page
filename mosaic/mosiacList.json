@@ -39,6 +39,116 @@
             "name":"马赛克1",
             "fenlei":"def",
             "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_2",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_3",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_4",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_5",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_6",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_7",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_8",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_9",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_10",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_11",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
+        },
+        {
+            "isPaofu":false,
+            "type":0,
+            "colorHexString":"",
+            "benDiTuName":"",
+            "yuanduanTuName":"mosaic_12",
+            "name":"马赛克1",
+            "fenlei":"def",
+            "mosaicType" : 0
         }
     ]
 }
