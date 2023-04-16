@@ -48,7 +48,8 @@
             "yuanduanTuName":"mosaic_2",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_2"
         },
         {
             "isPaofu":false,
@@ -58,7 +59,8 @@
             "yuanduanTuName":"mosaic_3",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_3"
         },
         {
             "isPaofu":false,
@@ -68,7 +70,8 @@
             "yuanduanTuName":"mosaic_4",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_4"
         },
         {
             "isPaofu":false,
@@ -78,7 +81,8 @@
             "yuanduanTuName":"mosaic_5",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_5"
         },
         {
             "isPaofu":false,
@@ -88,7 +92,8 @@
             "yuanduanTuName":"mosaic_6",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_6"
         },
         {
             "isPaofu":false,
@@ -98,7 +103,8 @@
             "yuanduanTuName":"mosaic_7",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_7"
         },
         {
             "isPaofu":false,
@@ -108,7 +114,8 @@
             "yuanduanTuName":"mosaic_8",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_8"
         },
         {
             "isPaofu":false,
@@ -118,7 +125,8 @@
             "yuanduanTuName":"mosaic_9",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_9"
         },
         {
             "isPaofu":false,
@@ -128,7 +136,8 @@
             "yuanduanTuName":"mosaic_10",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_10"
         },
         {
             "isPaofu":false,
@@ -138,7 +147,8 @@
             "yuanduanTuName":"mosaic_11",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_11"
         },
         {
             "isPaofu":false,
@@ -148,7 +158,8 @@
             "yuanduanTuName":"mosaic_12",
             "name":"马赛克1",
             "fenlei":"def",
-            "mosaicType" : 0
+            "mosaicType" : 0,
+            "thumb" : "mosaic_12"
         }
     ]
 }
