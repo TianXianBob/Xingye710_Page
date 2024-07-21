@@ -14,23 +14,23 @@
             },
             "rects": [
                 {
-                    "x": 29,
-                    "y": 131,
-                    "width": 182,
-                    "height": 42,
+                    "x": 0,
+                    "y": 0,
+                    "width": 240,
+                    "height": 40,
                     "color": {
                         "red": 255,
                         "green": 255,
-                        "blue": 255,
-                        "alpha": 0
+                        "blue": 0,
+                        "alpha": 1
                     },
                     "bgImg": "",
                     "textPieces": [
                         {
-                            "x": 29,
-                            "y": 131,
-                            "width": 182,
-                            "height": 42,
+                            "x": 0,
+                            "y": 10,
+                            "width": 240,
+                            "height": 20,
                             "type": 1,
                             "editType": "001",
                             "latFormat": 1,
@@ -44,21 +44,78 @@
                             "text": "#干饭啦～",
                             "textAlign": 1,
                             "fontName": "厚底黑",
-                            "defaultFontSize": 38,
+                            "fontSize": 20,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
-                            "characterSpace": 1,
-                            "italic": 0,
-                            "shine": {
-                                "borderWidth": 2,
+                            "border": {
+                                "borderWidth": 1,
                                 "borderColor": {
-                                    "red": 255,
-                                    "green": 192,
-                                    "blue": 212,
-                                    "alpha": 0
+                                    "red": 111,
+                                    "green": 239,
+                                    "blue": 111,
+                                    "alpha": 1
                                 }
                             },
+                            "shadow": {
+                                "shadowColor": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 0
+                                },
+                                "opacity": 1,
+                                "shadowOffsetX": 1.5,
+                                "shadowOffsetY": 1.5,
+                                "shadowRadius": 0
+                            },
+                            "color": {
+                                "red": 0,
+                                "green": 0,
+                                "blue": 0,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 40,
+                    "width": 240,
+                    "height": 200,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 0,
+                            "y": 10,
+                            "width": 240,
+                            "height": 20,
+                            "type": 4,
+                            "editType": "001",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd HH:mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "#干饭啦～",
+                            "textAlign": 1,
+                            "fontName": "厚底黑",
+                            "fontSize": 20,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
                             "border": {
                                 "borderWidth": 1,
                                 "borderColor": {
@@ -99,7 +156,7 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
-                            "path": "http://tianxianbob.com/Xingye710_Page/sy_biaotihuazi_01/img_sec1.png"
+                            "path": "http://aishuiying.com/shuiying/sy_biaotihuazi_01/img_sec1.png"
                         }
                     ]
                 }
