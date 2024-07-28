@@ -1,0 +1,399 @@
+{
+    "data": {
+        "resId": 1,
+        "type": 2,
+        "canvas": {
+            "width": 241,
+            "height": 142,
+            "cornerRadius": 9,
+            "color": {
+                "red": 37,
+                "green": 45,
+                "blue": 97,
+                "alpha": 1
+            },
+            "rects": [
+                {
+                    "x": 0,
+                    "y": 8.5,
+                    "width": 241,
+                    "height": 46.5,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 10.5,
+                            "y": 14.5,
+                            "width": 76.5,
+                            "height": 19.5,
+                            "type": 0,
+                            "editType": "000",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd HH:mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "执勤巡逻",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 20,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "shine": {
+                                "borderWidth": 2,
+                                "borderColor": {
+                                    "red": 255,
+                                    "green": 192,
+                                    "blue": 212,
+                                    "alpha": 0
+                                }
+                            },
+                            "border": {
+                                "borderWidth": 2,
+                                "borderColor": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 1
+                                }
+                            },
+                            "shadow": {
+                                "shadowColor": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 0
+                                },
+                                "opacity": 1,
+                                "shadowOffsetX": 1.5,
+                                "shadowOffsetY": 1.5,
+                                "shadowRadius": 0
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        },
+                        {
+                            "x": 101.5,
+                            "y": 15,
+                            "width": 65.5,
+                            "height": 16.5,
+                            "type": 0,
+                            "editType": "000",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd HH:mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "工作记录",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 20,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "shine": {
+                                "borderWidth": 2,
+                                "borderColor": {
+                                    "red": 255,
+                                    "green": 192,
+                                    "blue": 212,
+                                    "alpha": 0
+                                }
+                            },
+                            "border": {
+                                "borderWidth": 2,
+                                "borderColor": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 1
+                                }
+                            },
+                            "shadow": {
+                                "shadowColor": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 0
+                                },
+                                "opacity": 1,
+                                "shadowOffsetX": 1.5,
+                                "shadowOffsetY": 1.5,
+                                "shadowRadius": 0
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 6.5,
+                            "y": 9,
+                            "width": 226.5,
+                            "height": 46,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "sy_gc_01/img_rect_1.png"
+                        }
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 62.5,
+                    "width": 241,
+                    "height": 32,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 6,
+                            "y": 62.5,
+                            "width": 83.5,
+                            "height": 32,
+                            "type": 1,
+                            "editType": "000",
+                            "latFormat": 1,
+                            "timeFormat": "mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 44,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "shine": {
+                                "borderWidth": 2,
+                                "borderColor": {
+                                    "red": 255,
+                                    "green": 192,
+                                    "blue": 212,
+                                    "alpha": 0
+                                }
+                            },
+                            "border": {
+                                "borderWidth": 1,
+                                "borderColor": {
+                                    "red": 111,
+                                    "green": 239,
+                                    "blue": 111,
+                                    "alpha": 0
+                                }
+                            },
+                            "shadow": {
+                                "shadowColor": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 0
+                                },
+                                "opacity": 1,
+                                "shadowOffsetX": 1.5,
+                                "shadowOffsetY": 1.5,
+                                "shadowRadius": 0
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        },
+                        {
+                            "x": 100,
+                            "y": 77,
+                            "width": 125,
+                            "height": 17.5,
+                            "type": 1,
+                            "editType": "000",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 18,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "shine": {
+                                "borderWidth": 2,
+                                "borderColor": {
+                                    "red": 255,
+                                    "green": 192,
+                                    "blue": 212,
+                                    "alpha": 0
+                                }
+                            },
+                            "border": {
+                                "borderWidth": 1,
+                                "borderColor": {
+                                    "red": 111,
+                                    "green": 239,
+                                    "blue": 111,
+                                    "alpha": 0
+                                }
+                            },
+                            "shadow": {
+                                "shadowColor": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 0
+                                },
+                                "opacity": 1,
+                                "shadowOffsetX": 1.5,
+                                "shadowOffsetY": 1.5,
+                                "shadowRadius": 0
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 105,
+                    "width": 240,
+                    "height": 18,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 35,
+                            "y": 110,
+                            "width": 206,
+                            "height": 18,
+                            "type": 2,
+                            "editType": "000",
+                            "latFormat": 1,
+                            "timeFormat": "mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 15,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "shine": {
+                                "borderWidth": 2,
+                                "borderColor": {
+                                    "red": 255,
+                                    "green": 192,
+                                    "blue": 212,
+                                    "alpha": 0
+                                }
+                            },
+                            "border": {
+                                "borderWidth": 1,
+                                "borderColor": {
+                                    "red": 111,
+                                    "green": 239,
+                                    "blue": 111,
+                                    "alpha": 0
+                                }
+                            },
+                            "shadow": {
+                                "shadowColor": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 0
+                                },
+                                "opacity": 1,
+                                "shadowOffsetX": 1.5,
+                                "shadowOffsetY": 1.5,
+                                "shadowRadius": 0
+                            },
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 15,
+                            "y": 115,
+                            "width": 11,
+                            "height": 7.5,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "sy_gc_01/img_rect_2.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
