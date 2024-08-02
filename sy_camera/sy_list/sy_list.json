@@ -1,1 +1,132 @@
-{"data":[{"type":0,"dot":false,"title":"推荐","shuiYings":[{"jsonName":"json_sec5.json","folderName":"sy_quanping_01","resId":129,"thumbPath":"thumb_sy_quanping_01.png","version":"1.2.3","thumbWidth":200,"thunbHeight":300}]},{"type":1,"dot":false,"title":"每日打卡","shuiYings":[{"jsonName":"json_sec5.json","folderName":"sy_quanping_01","resId":129,"thumbPath":"thumb_sy_quanping_01.png","version":"1.2.3","thumbWidth":200,"thunbHeight":400}]}]}
+{
+    "data": [
+        {
+            "type": 0,
+            "dot": false,
+            "title": "推荐",
+            "shuiYings": [
+                {
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 200,
+                    "thunbHeight": 300
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "dot": false,
+            "title": "考勤打卡",
+            "shuiYings": [
+                {
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 200,
+                    "thunbHeight": 400
+                }
+            ]
+        },
+        {
+            "type": 2,
+            "dot": false,
+            "title": "工程记录",
+            "shuiYings": [
+                {
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 200,
+                    "thunbHeight": 400
+                }
+            ]
+        },
+        {
+            "type": 3,
+            "dot": false,
+            "title": "物业管理",
+            "shuiYings": [
+                {
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 200,
+                    "thunbHeight": 400
+                }
+            ]
+        },
+        {
+            "type": 4,
+            "dot": false,
+            "title": "污染防治",
+            "shuiYings": [
+                {
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 200,
+                    "thunbHeight": 400
+                }
+            ]
+        },
+        {
+            "type": 5,
+            "dot": false,
+            "title": "室内施工",
+            "shuiYings": [
+                {
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 200,
+                    "thunbHeight": 400
+                }
+            ]
+        },
+        {
+            "type": 6,
+            "dot": false,
+            "title": "检查",
+            "shuiYings": [
+                {
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 200,
+                    "thunbHeight": 400
+                }
+            ]
+        },
+        {
+            "type": 7,
+            "dot": false,
+            "title": "保险",
+            "shuiYings": [
+                {
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 200,
+                    "thunbHeight": 400
+                }
+            ]
+        }
+    ]
+}
