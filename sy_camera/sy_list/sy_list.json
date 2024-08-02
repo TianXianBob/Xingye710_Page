@@ -6,13 +6,74 @@
             "title": "推荐",
             "shuiYings": [
                 {
+                    "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
-                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "thumbPath": "thumb_sy_keai_16.png",
                     "version": "1.2.3",
-                    "thumbWidth": 200,
-                    "thunbHeight": 300
+                    "thumbWidth": 300,
+                    "thunbHeight": 200
+                },
+                {
+                    "syName": "上班打卡",
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_keai_16.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 300,
+                    "thunbHeight": 200
+                },
+                {
+                    "syName": "上班打卡",
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_keai_16.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 300,
+                    "thunbHeight": 200
+                },
+                {
+                    "syName": "上班打卡",
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_keai_16.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 300,
+                    "thunbHeight": 200
+                },
+                {
+                    "syName": "上班打卡",
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_keai_16.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 300,
+                    "thunbHeight": 200
+                },
+                {
+                    "syName": "上班打卡",
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_keai_16.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 300,
+                    "thunbHeight": 200
+                },
+                {
+                    "syName": "上班打卡",
+                    "jsonName": "json_sec5.json",
+                    "folderName": "sy_quanping_01",
+                    "resId": 129,
+                    "thumbPath": "thumb_sy_keai_16.png",
+                    "version": "1.2.3",
+                    "thumbWidth": 300,
+                    "thunbHeight": 200
                 }
             ]
         },
@@ -22,6 +83,7 @@
             "title": "考勤打卡",
             "shuiYings": [
                 {
+                    "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
@@ -38,6 +100,7 @@
             "title": "工程记录",
             "shuiYings": [
                 {
+                    "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
@@ -54,6 +117,7 @@
             "title": "物业管理",
             "shuiYings": [
                 {
+                    "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
@@ -70,6 +134,7 @@
             "title": "污染防治",
             "shuiYings": [
                 {
+                    "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
@@ -86,6 +151,7 @@
             "title": "室内施工",
             "shuiYings": [
                 {
+                    "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
@@ -102,6 +168,7 @@
             "title": "检查",
             "shuiYings": [
                 {
+                    "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
@@ -118,6 +185,7 @@
             "title": "保险",
             "shuiYings": [
                 {
+                    "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
