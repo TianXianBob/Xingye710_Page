@@ -16,7 +16,7 @@
                     "thunbHeight": 200
                 },
                 {
-                    "syName": "上班打卡",
+                    "syName": "下班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 129,
