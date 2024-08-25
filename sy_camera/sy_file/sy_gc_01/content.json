@@ -10,7 +10,7 @@
                 "red": 37,
                 "green": 45,
                 "blue": 97,
-                "alpha": 0.5
+                "alpha": 0.8
             },
             "rects": [
                 {
@@ -321,7 +321,7 @@
                             "textPiece": {
                                 "x": 35,
                                 "y": 0,
-                                "width": 206,
+                                "width": 180,
                                 "height": 18,
                                 "type": 2,
                                 "editType": "100",
