@@ -7,8 +7,8 @@
             "shuiYings": [
                 {
                     "syName": "执勤巡逻",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_01",
                     "resId": 1,
                     "thumbPath": "zhiqingxunluo2.png",
                     "version": "0.0.1",
