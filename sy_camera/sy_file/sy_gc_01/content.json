@@ -10,7 +10,7 @@
                 "red": 37,
                 "green": 45,
                 "blue": 97,
-                "alpha": 1
+                "alpha": 0.5
             },
             "rects": [
                 {
