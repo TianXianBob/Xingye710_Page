@@ -100,17 +100,10 @@
             "title": "工程记录",
             "shuiYings": [
                 {
-<<<<<<< HEAD
-                    "syName": "工程记录",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_01",
-                    "resId": 1,
-=======
                     "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
                     "resId": 137,
->>>>>>> a724c339e9afebb254f16dfc1b1c985047c2182d
                     "thumbPath": "thumb_sy_quanping_01.png",
                     "version": "0.0.1",
                     "thumbWidth": 200,
