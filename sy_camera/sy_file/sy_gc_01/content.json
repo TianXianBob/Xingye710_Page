@@ -3,21 +3,21 @@
         "resId": 1,
         "type": 2,
         "canvas": {
-            "width": 241,
-            "height": 142,
+            "width": 185,
+            "height": 109,
             "cornerRadius": 9,
             "color": {
-                "red": 37,
-                "green": 45,
-                "blue": 97,
-                "alpha": 0.8
+                "red": 64,
+                "green": 85,
+                "blue": 199,
+                "alpha": 0.7
             },
             "rects": [
                 {
                     "x": 0,
-                    "y": 8.5,
-                    "width": 241,
-                    "height": 46.5,
+                    "y": 6.5,
+                    "width": 185,
+                    "height": 35.5,
                     "color": {
                         "red": 255,
                         "green": 255,
@@ -27,12 +27,12 @@
                     "bgImg": "",
                     "textPieces": [
                         {
-                            "x": 6,
-                            "y": 4,
-                            "width": 87.5,
-                            "height": 25,
+                            "x": 4,
+                            "y": 2,
+                            "width": 67,
+                            "height": 20.5,
                             "type": 0,
-                            "editType": "000",
+                            "editType": "1000",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
@@ -44,14 +44,14 @@
                             "text": "执勤巡逻",
                             "textAlign": 1,
                             "fontName": "",
-                            "fontSize": 20,
+                            "fontSize": 15,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
                             "characterSpace": 0,
                             "italic": 0,
                             "shine": {
-                                "borderWidth": 2,
+                                "borderWidth": 0,
                                 "borderColor": {
                                     "red": 255,
                                     "green": 192,
@@ -88,12 +88,12 @@
                             }
                         },
                         {
-                            "x": 101,
-                            "y": 4.5,
-                            "width": 133,
-                            "height": 21.5,
+                            "x": 76.5,
+                            "y": 4,
+                            "width": 102,
+                            "height": 14.5,
                             "type": 0,
-                            "editType": "000",
+                            "editType": "1000",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
@@ -105,14 +105,14 @@
                             "text": "工作记录",
                             "textAlign": 0,
                             "fontName": "",
-                            "fontSize": 20,
+                            "fontSize": 13,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
                             "characterSpace": 0,
                             "italic": 0,
                             "shine": {
-                                "borderWidth": 2,
+                                "borderWidth": 0,
                                 "borderColor": {
                                     "red": 255,
                                     "green": 192,
@@ -151,10 +151,10 @@
                     ],
                     "imagePieces": [
                         {
-                            "x": 6.5,
-                            "y": 0.5,
-                            "width": 226.5,
-                            "height": 46,
+                            "x": 3.5,
+                            "y": 0,
+                            "width": 172,
+                            "height": 25.5,
                             "verticalFlip": 0,
                             "horizonFlip": 0,
                             "offsetX": 0,
@@ -166,9 +166,9 @@
                 },
                 {
                     "x": 0,
-                    "y": 62.5,
-                    "width": 241,
-                    "height": 32,
+                    "y": 46.5,
+                    "width": 185,
+                    "height": 28.5,
                     "color": {
                         "red": 255,
                         "green": 255,
@@ -178,12 +178,12 @@
                     "bgImg": "",
                     "textPieces": [
                         {
-                            "x": 6,
-                            "y": 0,
-                            "width": 83,
-                            "height": 32,
+                            "x": 3.5,
+                            "y": 0.5,
+                            "width": 64.5,
+                            "height": 27,
                             "type": 1,
-                            "editType": "000",
+                            "editType": "1000",
                             "latFormat": 1,
                             "timeFormat": "HH:mm",
                             "weatherFormat": "weather，temperature",
@@ -195,14 +195,14 @@
                             "text": "",
                             "textAlign": 1,
                             "fontName": "xiaowei",
-                            "fontSize": 44,
+                            "fontSize": 33.5,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
                             "characterSpace": 0,
                             "italic": 0,
                             "shine": {
-                                "borderWidth": 2,
+                                "borderWidth": 0,
                                 "borderColor": {
                                     "red": 255,
                                     "green": 192,
@@ -211,7 +211,7 @@
                                 }
                             },
                             "border": {
-                                "borderWidth": 1,
+                                "borderWidth": 0,
                                 "borderColor": {
                                     "red": 111,
                                     "green": 239,
@@ -239,12 +239,12 @@
                             }
                         },
                         {
-                            "x": 100,
-                            "y": 13.5,
-                            "width": 150,
-                            "height": 17.5,
+                            "x": 76.5,
+                            "y": 12.5,
+                            "width": 96,
+                            "height": 13.5,
                             "type": 1,
-                            "editType": "000",
+                            "editType": "1000",
                             "latFormat": 1,
                             "timeFormat": "yyyy年MM月dd日",
                             "weatherFormat": "weather，temperature",
@@ -256,14 +256,14 @@
                             "text": "",
                             "textAlign": 0,
                             "fontName": "SimHei",
-                            "fontSize": 18,
+                            "fontSize": 13.5,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
                             "characterSpace": 0,
                             "italic": 0,
                             "shine": {
-                                "borderWidth": 2,
+                                "borderWidth": 0,
                                 "borderColor": {
                                     "red": 255,
                                     "green": 192,
@@ -272,7 +272,7 @@
                                 }
                             },
                             "border": {
-                                "borderWidth": 1,
+                                "borderWidth": 0,
                                 "borderColor": {
                                     "red": 111,
                                     "green": 239,
@@ -306,8 +306,8 @@
                 },
                 {
                     "x": 0,
-                    "y": 105,
-                    "width": 240,
+                    "y": 82,
+                    "width": 185,
                     "height": 18,
                     "color": {
                         "red": 255,
@@ -319,12 +319,12 @@
                     "cells": [
                         {
                             "textPiece": {
-                                "x": 35,
-                                "y": 0,
-                                "width": 180,
-                                "height": 18,
+                                "x": 26.5,
+                                "y": 1.5,
+                                "width": 143,
+                                "height": 15,
                                 "type": 2,
-                                "editType": "100",
+                                "editType": "1100",
                                 "latFormat": 1,
                                 "timeFormat": "mm:ss",
                                 "weatherFormat": "weather，temperature",
@@ -336,14 +336,14 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 15,
+                                "fontSize": 11.5,
                                 "maxCount": 50,
                                 "lineCount": 0,
                                 "lineSpace": 0,
                                 "characterSpace": 0,
                                 "italic": 0,
                                 "shine": {
-                                    "borderWidth": 2,
+                                    "borderWidth": 0,
                                     "borderColor": {
                                         "red": 255,
                                         "green": 192,
@@ -380,10 +380,10 @@
                                 }
                             },
                             "imagePiece": {
-                                "x": 15,
+                                "x": 10.5,
                                 "y": 5.5,
-                                "width": 11,
-                                "height": 7.5,
+                                "width": 8.5,
+                                "height": 5.5,
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
                                 "offsetX": 0,
