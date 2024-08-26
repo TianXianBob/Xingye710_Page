@@ -10,7 +10,7 @@
                 "red": 64,
                 "green": 85,
                 "blue": 199,
-                "alpha": 0.7
+                "alpha": 0.5
             },
             "rects": [
                 {
@@ -44,7 +44,7 @@
                             "text": "执勤巡逻",
                             "textAlign": 1,
                             "fontName": "",
-                            "fontSize": 15,
+                            "fontSize": 14.5,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
@@ -105,7 +105,7 @@
                             "text": "工作记录",
                             "textAlign": 0,
                             "fontName": "",
-                            "fontSize": 13,
+                            "fontSize": 12.5,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
@@ -153,14 +153,14 @@
                         {
                             "x": 3.5,
                             "y": 0,
-                            "width": 172,
-                            "height": 25.5,
+                            "width": 175,
+                            "height": 34.5,
                             "verticalFlip": 0,
                             "horizonFlip": 0,
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_01/img_rect_1.png"
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_01/img_rect_2.png"
                         }
                     ]
                 },
@@ -389,7 +389,7 @@
                                 "offsetX": 0,
                                 "offsetY": 0,
                                 "angle": 0,
-                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_01/img_rect_2.png"
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_01/img_rect_3.png"
                             },
                             "bgImg": "",
                             "color": {
