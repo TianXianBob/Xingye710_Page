@@ -129,18 +129,6 @@
                                     "alpha": 1
                                 }
                             },
-                            "shadow": {
-                                "shadowColor": {
-                                    "red": 0,
-                                    "green": 0,
-                                    "blue": 0,
-                                    "alpha": 0
-                                },
-                                "opacity": 1,
-                                "shadowOffsetX": 1.5,
-                                "shadowOffsetY": 1.5,
-                                "shadowRadius": 0
-                            },
                             "color": {
                                 "red": 255,
                                 "green": 255,
@@ -219,18 +207,6 @@
                                     "alpha": 0
                                 }
                             },
-                            "shadow": {
-                                "shadowColor": {
-                                    "red": 0,
-                                    "green": 0,
-                                    "blue": 0,
-                                    "alpha": 0
-                                },
-                                "opacity": 1,
-                                "shadowOffsetX": 1.5,
-                                "shadowOffsetY": 1.5,
-                                "shadowRadius": 0
-                            },
                             "color": {
                                 "red": 255,
                                 "green": 255,
@@ -279,18 +255,6 @@
                                     "blue": 111,
                                     "alpha": 0
                                 }
-                            },
-                            "shadow": {
-                                "shadowColor": {
-                                    "red": 0,
-                                    "green": 0,
-                                    "blue": 0,
-                                    "alpha": 0
-                                },
-                                "opacity": 1,
-                                "shadowOffsetX": 1.5,
-                                "shadowOffsetY": 1.5,
-                                "shadowRadius": 0
                             },
                             "color": {
                                 "red": 255,
@@ -359,18 +323,6 @@
                                         "blue": 111,
                                         "alpha": 0
                                     }
-                                },
-                                "shadow": {
-                                    "shadowColor": {
-                                        "red": 0,
-                                        "green": 0,
-                                        "blue": 0,
-                                        "alpha": 0
-                                    },
-                                    "opacity": 1,
-                                    "shadowOffsetX": 1.5,
-                                    "shadowOffsetY": 1.5,
-                                    "shadowRadius": 0
                                 },
                                 "color": {
                                     "red": 255,
