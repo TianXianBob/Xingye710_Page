@@ -10,20 +10,20 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_01",
                     "resId": 1,
-                    "thumbPath": "zhiqingxunluo3.png",
+                    "thumbPath": "zhiqingxunluo5.png",
                     "version": "0.0.1",
-                    "thumbWidth": 370,
-                    "thumbHeight": 218
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 },
                 {
-                    "syName": "下班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_02",
                     "resId": 130,
-                    "thumbPath": "thumb_sy_keai_16.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 300,
-                    "thumbHeight": 200
+                    "thumbPath": "kaoqingdaka4.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 },
                 {
                     "syName": "上班打卡",
@@ -83,14 +83,14 @@
             "title": "考勤打卡",
             "shuiYings": [
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 136,
-                    "thumbPath": "thumb_sy_quanping_01.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 200,
-                    "thumbHeight": 400
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_02",
+                    "resId": 130,
+                    "thumbPath": "kaoqingdaka4.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
@@ -100,14 +100,14 @@
             "title": "工程记录",
             "shuiYings": [
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 137,
-                    "thumbPath": "thumb_sy_quanping_01.png",
+                    "syName": "执勤巡逻",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_01",
+                    "resId": 1,
+                    "thumbPath": "zhiqingxunluo5.png",
                     "version": "0.0.1",
-                    "thumbWidth": 200,
-                    "thumbHeight": 400
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
