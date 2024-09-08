@@ -218,10 +218,10 @@
                     ]
                 },
                 {
-                    "x": 0,
-                    "y": 12.5,
-                    "width": 185,
-                    "height": 27,
+                    "x": 2.5,
+                    "y": 82,
+                    "width": 182.5,
+                    "height": 12,
                     "color": {
                         "red": 255,
                         "green": 255,
@@ -248,7 +248,7 @@
                             "text": "水印相机已验证考勤信息真实性",
                             "textAlign": 0,
                             "fontName": "",
-                            "fontSize": 13.5,
+                            "fontSize": 8.5,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
