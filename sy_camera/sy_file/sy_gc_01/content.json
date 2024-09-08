@@ -60,7 +60,7 @@
                                 }
                             },
                             "border": {
-                                "borderWidth": 2,
+                                "borderWidth": 1,
                                 "borderColor": {
                                     "red": 0,
                                     "green": 0,
