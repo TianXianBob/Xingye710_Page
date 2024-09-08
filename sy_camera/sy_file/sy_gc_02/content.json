@@ -44,16 +44,16 @@
                             "text": "打卡",
                             "textAlign": 1,
                             "fontName": "SimHei",
-                            "fontSize": 13.5,
+                            "fontSize": 12,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
                             "characterSpace": 0,
                             "italic": 0,
                             "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
+                                "red": 0,
+                                "green": 0,
+                                "blue": 0,
                                 "alpha": 1
                             }
                         },
