@@ -32,7 +32,7 @@
                             "width": 59.5,
                             "height": 18,
                             "type": 0,
-                            "editType": "1000",
+                            "editType": "1010",
                             "latFormat": 1,
                             "timeFormat": "yyyy.MM.dd",
                             "weatherFormat": "weather，temperature",
@@ -44,7 +44,7 @@
                             "text": "工程记录",
                             "textAlign": 1,
                             "fontName": "",
-                            "fontSize": 21,
+                            "fontSize": 15,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
@@ -94,7 +94,7 @@
                                 "width": 191,
                                 "height": 18.5,
                                 "type": 0,
-                                "editType": "1100",
+                                "editType": "1110",
                                 "latFormat": 1,
                                 "timeFormat": "E",
                                 "weatherFormat": "weather，temperature",
@@ -113,9 +113,9 @@
                                 "characterSpace": 0,
                                 "italic": 0,
                                 "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
                                     "alpha": 1
                                 }
                             },
@@ -134,7 +134,7 @@
                                 "width": 191,
                                 "height": 18.5,
                                 "type": 1,
-                                "editType": "1100",
+                                "editType": "1110",
                                 "latFormat": 1,
                                 "timeFormat": "拍摄时间：yyyy.MM.dd",
                                 "weatherFormat": "weather，temperature",
@@ -153,9 +153,9 @@
                                 "characterSpace": 0,
                                 "italic": 0,
                                 "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
                                     "alpha": 1
                                 }
                             },
@@ -174,7 +174,7 @@
                                 "width": 191,
                                 "height": 18.5,
                                 "type": 3,
-                                "editType": "1100",
+                                "editType": "1110",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
                                 "weatherFormat": "天      气：weather，temperature",
@@ -193,9 +193,9 @@
                                 "characterSpace": 0,
                                 "italic": 0,
                                 "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
                                     "alpha": 1
                                 }
                             },
@@ -214,7 +214,7 @@
                                 "width": 191,
                                 "height": 18.5,
                                 "type": 2,
-                                "editType": "1100",
+                                "editType": "1110",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
                                 "weatherFormat": "weather，temperature",
@@ -233,9 +233,9 @@
                                 "characterSpace": 0,
                                 "italic": 0,
                                 "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
                                     "alpha": 1
                                 }
                             },
