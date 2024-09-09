@@ -36,14 +36,14 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 132,
-                    "thumbPath": "thumb_sy_keai_16.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 300,
-                    "thumbHeight": 200
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_04",
+                    "resId": 4,
+                    "thumbPath": "kaoqingdaka6.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 },
                 {
                     "syName": "上班打卡",
@@ -98,6 +98,16 @@
                     "folderName": "sy_gc_03",
                     "resId": 3,
                     "thumbPath": "kaoqingdaka5.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_04",
+                    "resId": 4,
+                    "thumbPath": "kaoqingdaka6.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
