@@ -110,7 +110,7 @@
                         {
                             "textPiece": {
                                 "x": 33,
-                                "y": 3.5,
+                                "y": 2,
                                 "width": 169,
                                 "height": 15,
                                 "type": 1,
@@ -162,7 +162,7 @@
                         {
                             "textPiece": {
                                 "x": 33,
-                                "y": 3.5,
+                                "y": 2,
                                 "width": 169,
                                 "height": 15,
                                 "type": 0,
@@ -214,7 +214,7 @@
                         {
                             "textPiece": {
                                 "x": 33,
-                                "y": 3.5,
+                                "y": 2,
                                 "width": 169,
                                 "height": 15,
                                 "type": 3,
@@ -266,7 +266,7 @@
                         {
                             "textPiece": {
                                 "x": 33,
-                                "y": 3.5,
+                                "y": 2,
                                 "width": 169,
                                 "height": 15,
                                 "type": 4,
