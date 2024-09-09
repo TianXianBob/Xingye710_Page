@@ -75,7 +75,7 @@
                             "text": "",
                             "textAlign": 0,
                             "fontName": "",
-                            "fontSize": 18,
+                            "fontSize": 17,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
@@ -103,7 +103,7 @@
                         "red": 255,
                         "green": 255,
                         "blue": 255,
-                        "alpha": 0.3
+                        "alpha": 0.2
                     },
                     "bgImg": "",
                     "cells": [
