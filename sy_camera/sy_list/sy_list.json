@@ -46,6 +46,16 @@
                     "thumbHeight": 240
                 },
                 {
+                    "syName": "执勤巡逻",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_05",
+                    "resId": 5,
+                    "thumbPath": "gongchengjilu6.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
                     "syName": "上班打卡",
                     "jsonName": "json_sec5.json",
                     "folderName": "sy_quanping_01",
@@ -122,9 +132,9 @@
                 {
                     "syName": "执勤巡逻",
                     "jsonName": "content.json",
-                    "folderName": "sy_gc_01",
-                    "resId": 1,
-                    "thumbPath": "zhiqingxunluo5.png",
+                    "folderName": "sy_gc_05",
+                    "resId": 5,
+                    "thumbPath": "gongchengjilu6.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
