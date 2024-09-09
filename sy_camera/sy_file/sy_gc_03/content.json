@@ -42,7 +42,7 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "text": "",
-                            "textAlign": 1,
+                            "textAlign": 0,
                             "fontName": "",
                             "fontSize": 15,
                             "maxCount": 50,
@@ -51,9 +51,9 @@
                             "characterSpace": 0,
                             "italic": 0,
                             "color": {
-                                "red": 133,
-                                "green": 137,
-                                "blue": 148,
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
                                 "alpha": 1
                             }
                         },
@@ -73,9 +73,9 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "text": "",
-                            "textAlign": 1,
+                            "textAlign": 0,
                             "fontName": "",
-                            "fontSize": 20.5,
+                            "fontSize": 18,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
@@ -103,7 +103,7 @@
                         "red": 255,
                         "green": 255,
                         "blue": 255,
-                        "alpha": 0.5
+                        "alpha": 0.3
                     },
                     "bgImg": "",
                     "cells": [
