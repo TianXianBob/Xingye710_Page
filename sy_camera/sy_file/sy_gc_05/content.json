@@ -71,7 +71,6 @@
                             "angle": 0,
                             "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_05/img_rect_1.png"
                         }
-                        
                     ]
                 },
                 {
@@ -103,7 +102,8 @@
                                 "angle": 0,
                                 "offsetX": 0,
                                 "offsetY": 0,
-                                "text": "施工区域：",
+                                "name": "施工区域",
+                                "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
                                 "fontSize": 12,
@@ -132,11 +132,12 @@
                                 "x": 5.5,
                                 "y": 13.5,
                                 "width": 191,
+                                "name": "拍摄时间",
                                 "height": 18.5,
                                 "type": 1,
                                 "editType": "1110",
                                 "latFormat": 1,
-                                "timeFormat": "拍摄时间：yyyy.MM.dd",
+                                "timeFormat": "yyyy.MM.dd",
                                 "weatherFormat": "weather，temperature",
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
@@ -177,7 +178,8 @@
                                 "editType": "1110",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
-                                "weatherFormat": "天      气：weather，temperature",
+                                "weatherFormat": "weather，temperature",
+                                "name": "天气",
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
                                 "angle": 0,
@@ -214,6 +216,7 @@
                                 "width": 191,
                                 "height": 18.5,
                                 "type": 2,
+                                "name": "经纬度",
                                 "editType": "1110",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
@@ -249,11 +252,10 @@
                         }
                     ],
                     "textPieces": [
-                        
+
                     ],
                     "imagePieces": [
-                     
-                        
+
                     ]
                 }
             ]
