@@ -100,7 +100,7 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_04/img_rect_1.png"
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_04/img_rect_3.png"
                         }
                         
                     ]
@@ -242,7 +242,7 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 12.5,
+                                "fontSize": 14,
                                 "maxCount": 50,
                                 "lineCount": 0,
                                 "lineSpace": 0,
@@ -257,9 +257,9 @@
                             },
                             "imagePiece": {
                                 "x": 13.5,
-                                "y": 6.5,
-                                "width": 9.5,
-                                "height": 3.5,
+                                "y": 8,
+                                "width": 15.5,
+                                "height": 5,
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
                                 "offsetX": 0,
@@ -282,7 +282,7 @@
                                 "width": 169,
                                 "height": 15,
                                 "type": 4,
-                                "editType": "1100",
+                                "editType": "0111",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
                                 "weatherFormat": "weather，temperature",
@@ -294,7 +294,7 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 12.5,
+                                "fontSize": 14,
                                 "maxCount": 50,
                                 "lineCount": 0,
                                 "lineSpace": 0,
@@ -309,9 +309,9 @@
                             },
                             "imagePiece": {
                                 "x": 13.5,
-                                "y": 6.5,
-                                "width": 9.5,
-                                "height": 3.5,
+                                "y": 8,
+                                "width": 15.5,
+                                "height": 5,
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
                                 "offsetX": 0,
