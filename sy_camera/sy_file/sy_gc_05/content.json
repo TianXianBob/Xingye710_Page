@@ -89,7 +89,7 @@
                         {
                             "textPiece": {
                                 "x": 5.5,
-                                "y": 13.5,
+                                "y": 0,
                                 "width": 191,
                                 "height": 15,
                                 "type": 0,
@@ -130,7 +130,7 @@
                         {
                             "textPiece": {
                                 "x": 5.5,
-                                "y": 13.5,
+                                "y": 0,
                                 "width": 191,
                                 "name": "拍摄时间",
                                 "height": 15,
@@ -171,7 +171,7 @@
                         {
                             "textPiece": {
                                 "x": 5.5,
-                                "y": 13.5,
+                                "y": 0,
                                 "width": 191,
                                 "height": 15,
                                 "type": 3,
@@ -212,7 +212,7 @@
                         {
                             "textPiece": {
                                 "x": 5.5,
-                                "y": 13.5,
+                                "y": 0,
                                 "width": 191,
                                 "height": 15,
                                 "type": 2,
