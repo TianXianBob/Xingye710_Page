@@ -77,7 +77,7 @@
                     "x": 0,
                     "y": 25.5,
                     "width": 196,
-                    "height": 89.5,
+                    "height": 70,
                     "color": {
                         "red": 229,
                         "green": 230,
@@ -216,7 +216,7 @@
                                 "width": 191,
                                 "height": 18.5,
                                 "type": 2,
-                                "name": "经纬度",
+                                "name": "地点",
                                 "editType": "1110",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
