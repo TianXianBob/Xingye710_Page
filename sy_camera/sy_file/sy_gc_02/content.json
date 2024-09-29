@@ -44,7 +44,7 @@
                             "text": "打卡",
                             "textAlign": 1,
                             "fontName": "xiaowei",
-                            "fontSize": 19,
+                            "fontSize": 15,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
