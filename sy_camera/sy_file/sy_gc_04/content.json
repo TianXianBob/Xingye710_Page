@@ -16,8 +16,8 @@
                 {
                     "x": 0,
                     "y": 9.5,
-                    "width": 257,
-                    "height": 72,
+                    "width": 277,
+                    "height": 82,
                     "color": {
                         "red": 255,
                         "green": 255,
@@ -60,8 +60,8 @@
                         {
                             "x": 10.5,
                             "y": 38.5,
-                            "width": 185,
-                            "height": 38,
+                            "width": 205,
+                            "height": 48,
                             "type": 1,
                             "editType": "1000",
                             "latFormat": 1,
