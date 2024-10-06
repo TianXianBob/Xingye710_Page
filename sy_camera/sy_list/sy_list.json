@@ -76,14 +76,14 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 135,
-                    "thumbPath": "thumb_sy_keai_16.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 300,
-                    "thumbHeight": 200
+                    "syName": "巡察检查",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_08",
+                    "resId": 8,
+                    "thumbPath": "xunchajiancha12.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
