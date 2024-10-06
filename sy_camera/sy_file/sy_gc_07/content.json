@@ -4,7 +4,7 @@
         "type": 1,
         "canvas": {
             "width": 196.5,
-            "height": 120,
+            "height": 110,
             "cornerRadius": 9,
             "color": {
                 "red": 246,
@@ -15,24 +15,24 @@
             "rects": [
                 {
                     "x": 0,
-                    "y": 13,
+                    "y": 0,
                     "width": 196.5,
-                    "height": 94.5,
+                    "height": 34.5,
                     "cornerRadius": 9,
                     "color": {
                         "red": 246,
                         "green": 246,
                         "blue": 244,
-                        "alpha": 0.6
+                        "alpha": 0.4
                     },
                     "bgImg": "",
                     "cells": [
                         {
                             "textPiece": {
-                                "x": 6,
-                                "y": 5,
+                                "x": 6.5,
+                                "y": 9,
                                 "width": 190,
-                                "height": 16,
+                                "height": 18,
                                 "type": 0,
                                 "name": "工程名称：",
                                 "editType": "1110",
@@ -47,7 +47,7 @@
                                 "text": "XX变电站工程",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 10,
+                                "fontSize": 12,
                                 "maxCount": 50,
                                 "lineCount": 1,
                                 "lineSpace": 0,
@@ -73,10 +73,10 @@
                         },
                         {
                             "textPiece": {
-                                "x": 6,
-                                "y": 5,
+                                "x": 6.5,
+                                "y": 9,
                                 "width": 190,
-                                "height": 16,
+                                "height": 18,
                                 "type": 0,
                                 "name": "施工部位：",
                                 "editType": "1110",
@@ -91,7 +91,7 @@
                                 "text": "主控楼屋面浇筑",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 10,
+                                "fontSize": 12,
                                 "maxCount": 50,
                                 "lineCount": 1,
                                 "lineSpace": 0,
@@ -117,10 +117,10 @@
                         },
                         {
                             "textPiece": {
-                                "x": 6,
-                                "y": 5,
+                                "x": 6.5,
+                                "y": 9,
                                 "width": 190,
-                                "height": 16,
+                                "height": 18,
                                 "type": 1,
                                 "name": "时      间：",
                                 "editType": "1110",
@@ -135,7 +135,7 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 10,
+                                "fontSize": 12,
                                 "maxCount": 50,
                                 "lineCount": 1,
                                 "lineSpace": 0,
@@ -161,10 +161,10 @@
                         },
                         {
                             "textPiece": {
-                                "x": 6,
-                                "y": 5,
+                                "x": 6.5,
+                                "y": 9,
                                 "width": 190,
-                                "height": 16,
+                                "height": 18,
                                 "type": 2,
                                 "name": "地      点：",
                                 "editType": "1110",
@@ -179,7 +179,7 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 10,
+                                "fontSize": 12,
                                 "maxCount": 50,
                                 "lineCount": 1,
                                 "lineSpace": 0,
