@@ -139,7 +139,7 @@
                     "x": 0,
                     "y": 54,
                     "width": 185,
-                    "height": 45,
+                    "height": 70,
                     "color": {
                         "red": 76,
                         "green": 86,
@@ -147,8 +147,16 @@
                         "alpha": 0.5
                     },
                     "bgImg": "",
+                    "cellInset": {
+                        "top": 0,
+                        "bottom": 0,
+                        "left": 0,
+                        "right": 0
+                    },
                     "cells": [
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 23,
                                 "y": 2.5,
@@ -202,6 +210,8 @@
                             }
                         },
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 23,
                                 "y": 2.5,
@@ -255,6 +265,8 @@
                             }
                         },
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 23,
                                 "y": 2.5,
