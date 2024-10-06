@@ -4,7 +4,7 @@
         "type": 1,
         "canvas": {
             "width": 257,
-            "height": 126,
+            "height": 141,
             "cornerRadius": 0,
             "color": {
                 "red": 64,
@@ -29,8 +29,8 @@
                         {
                             "x": 8.5,
                             "y": 2.5,
-                            "width": 268.5,
-                            "height": 24.5,
+                            "width": 248.5,
+                            "height": 14.5,
                             "type": 1,
                             "editType": "1000",
                             "latFormat": 1,
@@ -44,7 +44,7 @@
                             "text": "",
                             "textAlign": 0,
                             "fontName": "",
-                            "fontSize": 10,
+                            "fontSize": 15,
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
@@ -97,7 +97,7 @@
                     "x": 8.5,
                     "y": 62.5,
                     "width": 190,
-                    "height": 63,
+                    "height": 36,
                     "cornerRadius": 9,
                     "color": {
                         "red": 255,
