@@ -114,6 +114,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "巡检维修",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_12",
+                    "resId": 12,
+                    "thumbPath": "xunjianweixiu16.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
