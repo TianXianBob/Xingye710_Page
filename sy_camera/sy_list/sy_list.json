@@ -94,6 +94,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "保护绿水蓝天",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_10",
+                    "resId": 10,
+                    "thumbPath": "baohulvshuilantian14.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
