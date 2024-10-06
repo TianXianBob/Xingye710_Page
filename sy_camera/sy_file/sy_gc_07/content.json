@@ -29,13 +29,15 @@
                     "cellInset": {
                         "top": 9,
                         "bottom": 9,
-                        "left": 0,
-                        "right": 0
+                        "left": 6,
+                        "right": 6
                     },
                     "cells": [
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 6.5,
+                                "x": 0,
                                 "y": 0,
                                 "width": 190,
                                 "height": 18,
@@ -78,8 +80,10 @@
                             }
                         },
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 6.5,
+                                "x": 0,
                                 "y": 0,
                                 "width": 190,
                                 "height": 18,
@@ -122,8 +126,10 @@
                             }
                         },
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 6.5,
+                                "x": 0,
                                 "y": 0,
                                 "width": 190,
                                 "height": 18,
@@ -166,8 +172,10 @@
                             }
                         },
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 0,
                             "textPiece": {
-                                "x": 6.5,
+                                "x": 0,
                                 "y": 0,
                                 "width": 190,
                                 "height": 18,
