@@ -149,6 +149,8 @@
                     "bgImg": "",
                     "cells": [
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 23,
                                 "y": 2.5,
@@ -202,6 +204,8 @@
                             }
                         },
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 23,
                                 "y": 2.5,
@@ -255,6 +259,8 @@
                             }
                         },
                         {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 23,
                                 "y": 2.5,
