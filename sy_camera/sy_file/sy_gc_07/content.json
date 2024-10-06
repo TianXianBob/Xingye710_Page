@@ -39,7 +39,7 @@
                             "textPiece": {
                                 "x": 0,
                                 "y": 0,
-                                "width": 190,
+                                "width": 184,
                                 "height": 18,
                                 "type": 0,
                                 "name": "工程名称",
@@ -85,7 +85,7 @@
                             "textPiece": {
                                 "x": 0,
                                 "y": 0,
-                                "width": 190,
+                                "width": 184,
                                 "height": 18,
                                 "type": 0,
                                 "name": "施工部位",
@@ -131,7 +131,7 @@
                             "textPiece": {
                                 "x": 0,
                                 "y": 0,
-                                "width": 190,
+                                "width": 184,
                                 "height": 18,
                                 "type": 1,
                                 "name": "时      间",
@@ -177,7 +177,7 @@
                             "textPiece": {
                                 "x": 0,
                                 "y": 0,
-                                "width": 190,
+                                "width": 184,
                                 "height": 18,
                                 "type": 2,
                                 "name": "地      点",
