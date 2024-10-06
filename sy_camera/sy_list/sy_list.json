@@ -104,6 +104,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "污水处理",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_11",
+                    "resId": 11,
+                    "thumbPath": "wushuichuli15.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
