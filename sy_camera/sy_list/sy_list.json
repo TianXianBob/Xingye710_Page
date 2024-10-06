@@ -84,6 +84,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "环境治理",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_09",
+                    "resId": 9,
+                    "thumbPath": "huanjngzhili13.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
