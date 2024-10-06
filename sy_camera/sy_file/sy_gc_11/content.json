@@ -139,7 +139,7 @@
                     "x": 0,
                     "y": 54,
                     "width": 185,
-                    "height": 45,
+                    "height": 70,
                     "color": {
                         "red": 76,
                         "green": 86,
@@ -289,7 +289,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 5,
+                                "y": 4,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
