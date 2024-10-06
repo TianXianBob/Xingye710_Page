@@ -150,7 +150,7 @@
                     "cells": [
                         {
                             "textPiece": {
-                                "x": 20,
+                                "x": 23,
                                 "y": 2.5,
                                 "width": 164,
                                 "height": 22,
@@ -203,7 +203,7 @@
                         },
                         {
                             "textPiece": {
-                                "x": 20,
+                                "x": 23,
                                 "y": 2.5,
                                 "width": 164,
                                 "height": 22,
@@ -236,7 +236,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 5,
+                                "y": 4,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
@@ -256,7 +256,7 @@
                         },
                         {
                             "textPiece": {
-                                "x": 20,
+                                "x": 23,
                                 "y": 2.5,
                                 "width": 164,
                                 "height": 22,
