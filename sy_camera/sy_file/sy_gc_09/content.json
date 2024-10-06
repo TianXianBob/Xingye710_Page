@@ -105,7 +105,7 @@
                             "offsetY": 0,
                             "text": "环境治理",
                             "textAlign": 1,
-                            "fontName": "xiaowei",
+                            "fontName": "",
                             "fontSize": 15.5,
                             "maxCount": 50,
                             "lineCount": 1,
@@ -183,7 +183,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 6.5,
+                                "y": 5,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
@@ -236,7 +236,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 6.5,
+                                "y": 5,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
@@ -244,7 +244,7 @@
                                 "offsetX": 0,
                                 "offsetY": 0,
                                 "angle": 0,
-                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_09/img_rect_3.png"
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_09/img_rect_4.png"
                             },
                             "bgImg": "",
                             "color": {
@@ -289,7 +289,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 6.5,
+                                "y": 5,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
@@ -297,7 +297,7 @@
                                 "offsetX": 0,
                                 "offsetY": 0,
                                 "angle": 0,
-                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_09/img_rect_3.png"
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_09/img_rect_5.png"
                             },
                             "bgImg": "",
                             "color": {
