@@ -26,11 +26,17 @@
                         "alpha": 0.4
                     },
                     "bgImg": "",
+                    "cellInset": {
+                        "top": 9,
+                        "bottom": 9,
+                        "left": 0,
+                        "right": 0
+                    },
                     "cells": [
                         {
                             "textPiece": {
                                 "x": 6.5,
-                                "y": 9,
+                                "y": 0,
                                 "width": 190,
                                 "height": 18,
                                 "type": 0,
@@ -61,7 +67,7 @@
                                 }
                             },
                             "imagePiece": {
-                              
+
                             },
                             "bgImg": "",
                             "color": {
@@ -74,7 +80,7 @@
                         {
                             "textPiece": {
                                 "x": 6.5,
-                                "y": 9,
+                                "y": 0,
                                 "width": 190,
                                 "height": 18,
                                 "type": 0,
@@ -105,7 +111,7 @@
                                 }
                             },
                             "imagePiece": {
-                              
+
                             },
                             "bgImg": "",
                             "color": {
@@ -118,7 +124,7 @@
                         {
                             "textPiece": {
                                 "x": 6.5,
-                                "y": 9,
+                                "y": 0,
                                 "width": 190,
                                 "height": 18,
                                 "type": 1,
@@ -149,7 +155,7 @@
                                 }
                             },
                             "imagePiece": {
-                              
+
                             },
                             "bgImg": "",
                             "color": {
@@ -162,7 +168,7 @@
                         {
                             "textPiece": {
                                 "x": 6.5,
-                                "y": 9,
+                                "y": 0,
                                 "width": 190,
                                 "height": 18,
                                 "type": 2,
@@ -193,7 +199,7 @@
                                 }
                             },
                             "imagePiece": {
-                              
+
                             },
                             "bgImg": "",
                             "color": {
@@ -205,11 +211,10 @@
                         }
                     ],
                     "textPieces": [
-                        
+
                     ],
                     "imagePieces": [
-                     
-                        
+
                     ]
                 }
             ]
