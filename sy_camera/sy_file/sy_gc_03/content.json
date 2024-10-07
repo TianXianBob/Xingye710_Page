@@ -116,7 +116,7 @@
                                 "type": 1,
                                 "editType": "1100",
                                 "latFormat": 1,
-                                "timeFormat": "E",
+                                "timeFormat": "EEEE",
                                 "weatherFormat": "weather，temperature",
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
