@@ -33,6 +33,14 @@
                             "height": 20.5,
                             "type": 6,
                             "editType": "1100",
+                            "selectionList": [
+                                "执勤巡逻",
+                                "工作汇报",
+                                "物业巡检",
+                                "项目名称",
+                                "环境卫生",
+                                "城市管理"
+                            ],
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
