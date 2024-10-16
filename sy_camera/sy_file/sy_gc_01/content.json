@@ -31,7 +31,7 @@
                             "y": 2,
                             "width": 67,
                             "height": 20.5,
-                            "type": 0,
+                            "type": 6,
                             "editType": "1000",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
