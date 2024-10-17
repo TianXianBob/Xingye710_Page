@@ -164,6 +164,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "电路巡检",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_17",
+                    "resId": 17,
+                    "thumbPath": "dianluxunjian22.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
