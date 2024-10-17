@@ -69,13 +69,13 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_14/img_rect_1.png"
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_14/img_rect_2.png"
                         }
                     ]
                 },
                 {
                     "x": 0,
-                    "y": 46,
+                    "y": 50,
                     "width": 264,
                     "height": 106.5,
                     "color": {
@@ -104,7 +104,7 @@
                                 "angle": 0,
                                 "offsetX": 0,
                                 "offsetY": 0,
-                                "name": "",
+                                "name": "时间",
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
@@ -147,7 +147,7 @@
                                 "angle": 0,
                                 "offsetX": 0,
                                 "offsetY": 0,
-                                "name": "",
+                                "name": "天气",
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
@@ -191,7 +191,7 @@
                                 "offsetX": 0,
                                 "offsetY": 0,
                                 "name": "",
-                                "text": "",
+                                "text": "地点",
                                 "textAlign": 0,
                                 "fontName": "",
                                 "fontSize": 15,
@@ -233,7 +233,7 @@
                                 "angle": 0,
                                 "offsetX": 0,
                                 "offsetY": 0,
-                                "name": "",
+                                "name": "经纬度",
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
