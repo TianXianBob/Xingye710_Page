@@ -124,6 +124,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "打卡时间",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_13",
+                    "resId": 13,
+                    "thumbPath": "xunjianweixiu17.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
