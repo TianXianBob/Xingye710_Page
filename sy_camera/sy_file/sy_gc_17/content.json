@@ -85,6 +85,12 @@
                         "alpha": 1
                     },
                     "bgImg": "",
+                    "cellInset": {
+                        "top": 3,
+                        "bottom": 3,
+                        "left": 3,
+                        "right": 3
+                    },
                     "cells": [
                         {
                             "topPadding" : 0,
