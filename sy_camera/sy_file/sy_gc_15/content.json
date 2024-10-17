@@ -90,7 +90,7 @@
                             "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 38,
+                                "x": 0,
                                 "y": 0,
                                 "width": 168,
                                 "height": 14,
@@ -133,7 +133,7 @@
                             "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 38,
+                                "x": 0,
                                 "y": 0,
                                 "width": 168,
                                 "height": 14,
@@ -176,7 +176,7 @@
                         { "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 38,
+                                "x": 0,
                                 "y": 0,
                                 "width": 168,
                                 "height": 14,
@@ -219,7 +219,7 @@
                         { "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 38,
+                                "x": 0,
                                 "y": 0,
                                 "width": 168,
                                 "height": 14,
