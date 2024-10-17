@@ -144,6 +144,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "日常巡逻",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_15",
+                    "resId": 15,
+                    "thumbPath": "richangxunluo20.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
