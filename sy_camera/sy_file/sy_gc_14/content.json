@@ -3,7 +3,7 @@
         "resId": 14,
         "type": 2,
         "canvas": {
-            "width": 264,
+            "width": 299,
             "height": 152.5,
             "cornerRadius": 9,
             "color": {
@@ -76,7 +76,7 @@
                 {
                     "x": 0,
                     "y": 50,
-                    "width": 264,
+                    "width": 299,
                     "height": 106.5,
                     "color": {
                         "red": 76,
@@ -178,7 +178,7 @@
                             "textPiece": {
                                 "x": 6.5,
                                 "y": 0,
-                                "width": 258,
+                                "width": 288,
                                 "height": 21,
                                 "type": 2,
                                 "editType": "1110",
