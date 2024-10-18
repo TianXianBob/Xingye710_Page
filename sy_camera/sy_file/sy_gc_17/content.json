@@ -87,9 +87,9 @@
                     "bgImg": "",
                     "cellInset": {
                         "top": 4,
-                        "bottom": 0,
+                        "bottom": 4,
                         "left": 0,
-                        "right": 8
+                        "right": 0
                     },
                     "cells": [
                         {
@@ -227,7 +227,7 @@
                             "textPiece": {
                                 "x": 5,
                                 "y": 0,
-                                "width": 203.5,
+                                "width": 196,
                                 "height": 15.5,
                                 "type": 4,
                                 "editType": "0111",
