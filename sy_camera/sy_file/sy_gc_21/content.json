@@ -1,0 +1,296 @@
+{
+    "data": {
+        "resId": 21,
+        "type": 2,
+        "canvas": {
+            "width": 215,
+            "height": 215,
+            "cornerRadius": 9,
+            "color": {
+                "red": 64,
+                "green": 85,
+                "blue": 199,
+                "alpha": 0
+            },
+            "rects": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 215,
+                    "height": 66.5,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "imagePieces": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "width": 215,
+                            "height": 66.5,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_21/img_rect_1.png"
+                        }
+                    ]
+                },
+                {
+                    "x": 3.5,
+                    "y": 68.5,
+                    "width": 207,
+                    "height": 33,
+                    "color": {
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
+                        "alpha": 1
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 50,
+                            "y": 5,
+                            "width": 103.5,
+                            "height": 23,
+                            "type": 0,
+                            "editType": "1010",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd HH:mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "小区外墙施工",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 16.5,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+                       
+                    ]
+                },
+                
+                {
+                    "x": 3.5,
+                    "y": 102,
+                    "width": 207,
+                    "height": 113,
+                    "color": {
+                        "red": 29,
+                        "green": 27,
+                        "blue": 22,
+                        "alpha": 0.5
+                    },
+                    "bgImg": "",
+                    "cellInset": {
+                        "top": 4,
+                        "bottom": 4,
+                        "left": 0,
+                        "right": 0
+                    },
+                    "cells": [
+                        {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 14.5,
+                                "y": 0,
+                                "width": 192.5,
+                                "height": 16,
+                                "type": 1,
+                                "editType": "1110",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy/MM/dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "xiaowei",
+                                "fontSize": 17,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 14.5,
+                                "y": 0,
+                                "width": 192.5,
+                                "height": 16,
+                                "type": 0,
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "配送人员",
+                                "text": "请输入拍摄人",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                           
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 14.5,
+                                "y": 0,
+                                "width": 182.5,
+                                "height": 16,
+                                "type": 0,
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "配送内容",
+                                "text": "请输入您的配送内容",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                         
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 0,
+                            "textPiece": {
+                                "x": 14.5,
+                                "y": 0,
+                                "width": 192.5,
+                                "height": 16,
+                                "type": 2,
+                                "editType": "1110",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "配送地点",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                           
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                        
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+
+                    ]
+                }
+            ]
+        }
+    }
+}
