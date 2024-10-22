@@ -184,6 +184,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "快递送达",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_19",
+                    "resId": 19,
+                    "thumbPath": "kuaidisongda24.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
