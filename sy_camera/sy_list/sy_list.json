@@ -214,6 +214,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "装修施工",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_22",
+                    "resId": 22,
+                    "thumbPath": "zhuangxiushigong27.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
