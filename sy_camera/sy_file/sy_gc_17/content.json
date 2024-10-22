@@ -87,7 +87,7 @@
                     "bgImg": "",
                     "cellInset": {
                         "top": 4,
-                        "bottom": 2,
+                        "bottom": 4,
                         "left": 0,
                         "right": 0
                     },
@@ -223,7 +223,7 @@
                             }
                         },
                         { "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "bottomPadding" : 0,
                             "textPiece": {
                                 "x": 5,
                                 "y": 0,
