@@ -82,7 +82,7 @@
                         "red": 200,
                         "green": 198,
                         "blue": 197,
-                        "alpha": 1
+                        "alpha": 0.5
                     },
                     "bgImg": "",
                     "cellInset": {
