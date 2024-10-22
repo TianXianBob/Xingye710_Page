@@ -180,7 +180,7 @@
                             }
                         },
                         { "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "bottomPadding" : 0,
                             "textPiece": {
                                 "x": 5,
                                 "y": 0,
