@@ -144,7 +144,7 @@
                                 "width": 195,
                                 "height": 15.5,
                                 "type": 3,
-                                "editType": "1110",
+                                "editType": "1111",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
