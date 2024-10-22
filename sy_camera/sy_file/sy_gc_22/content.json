@@ -40,7 +40,7 @@
                             "angle": 0,
                             "offsetX": 0,
                             "offsetY": 0,
-                            "text": "小区外墙施工",
+                            "text": "装修施工记录",
                             "textAlign": 1,
                             "fontName": "",
                             "fontSize": 19,
@@ -85,7 +85,7 @@
                     },
                     "textPieces": [
                         {
-                            "x": 25,
+                            "x": 23,
                             "y": 3,
                             "width": 84,
                             "height": 35.5,
@@ -116,7 +116,7 @@
                             }
                         },
                         {
-                            "x": 116,
+                            "x": 120,
                             "y": 0.5,
                             "width": 84,
                             "height": 21,
@@ -147,7 +147,7 @@
                             }
                         },
                         {
-                            "x": 116,
+                            "x": 120,
                             "y": 21.5,
                             "width": 84,
                             "height": 21,
@@ -249,7 +249,7 @@
                             },
                             "imagePiece": {
                                 "x": 24,
-                                "y": 2.5,
+                                "y": 4.5,
                                 "width": 12,
                                 "height": 12,
                                 "verticalFlip": 0,
@@ -257,7 +257,7 @@
                                 "offsetX": 0,
                                 "offsetY": 0,
                                 "angle": 0,
-                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_22/img_rect_1.png"
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_22/img_rect_3.png"
                             },
                             "bgImg": "",
                             "color": {
@@ -304,7 +304,7 @@
                             },
                             "imagePiece": {
                                 "x": 24,
-                                "y": 2.5,
+                                "y": 4.5,
                                 "width": 12,
                                 "height": 12,
                                 "verticalFlip": 0,
@@ -358,7 +358,7 @@
                             },
                             "imagePiece": {
                                 "x": 24,
-                                "y": 2.5,
+                                "y": 4.5,
                                 "width": 12,
                                 "height": 12,
                                 "verticalFlip": 0,
