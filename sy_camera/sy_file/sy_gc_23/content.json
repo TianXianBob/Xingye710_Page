@@ -26,8 +26,7 @@
                     },
                     "bgImg": "",
                     "textPieces": [
-                        
-                        
+
                     ],
                     "imagePieces": [
                         {
@@ -58,8 +57,8 @@
                     "bgImg": "",
                     "cells": [
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 10,
                                 "y": 0,
@@ -101,8 +100,8 @@
                             }
                         },
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 10,
                                 "y": 0,
@@ -144,8 +143,8 @@
                             }
                         },
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 10,
                                 "y": 0,
@@ -188,7 +187,7 @@
                         }
                     ],
                     "textPieces": [
-                        
+
                     ],
                     "imagePieces": [
                         {
@@ -203,7 +202,81 @@
                             "angle": 0,
                             "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_23/img_rect_10.png"
                         }
-                        
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 146.5,
+                    "width": 215,
+                    "height": 20,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "cells": [
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
+                            "textPiece": {
+                                "x": 10,
+                                "y": 0,
+                                "width": 205,
+                                "height": 19,
+                                "type": 0,
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd  HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "拍摄人",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 0,
+                            "y": 2,
+                            "width": 3.5,
+                            "height": -1,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_23/img_rect_10.png"
+                        }
                     ]
                 }
             ]
