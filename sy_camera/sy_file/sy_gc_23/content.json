@@ -209,7 +209,7 @@
                 },
                 {
                     "x": 0,
-                    "y": 146.5,
+                    "y": 143.5,
                     "width": 215,
                     "height": 20,
                     "color": {
@@ -222,7 +222,7 @@
                     "cells": [
                         {
                             "topPadding": 0,
-                            "bottomPadding": 4,
+                            "bottomPadding": 0,
                             "textPiece": {
                                 "x": 10,
                                 "y": 0,
@@ -271,7 +271,7 @@
                     "imagePieces": [
                         {
                             "x": 0,
-                            "y": 2,
+                            "y": 0,
                             "width": 3.5,
                             "height": -1,
                             "verticalFlip": 0,
