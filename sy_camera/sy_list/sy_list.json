@@ -224,6 +224,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "顺丰速运",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_23",
+                    "resId": 23,
+                    "thumbPath": "shunfengsuyun28.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
