@@ -146,7 +146,7 @@
                         },
                         {
                             "topPadding": 0,
-                            "bottomPadding": 4,
+                            "bottomPadding": 2,
                             "textPiece": {
                                 "x": 10,
                                 "y": 0,
@@ -221,8 +221,8 @@
                     "bgImg": "",
                     "cells": [
                         {
-                            "topPadding": 0,
-                            "bottomPadding": 0,
+                            "topPadding": 1,
+                            "bottomPadding": 1,
                             "textPiece": {
                                 "x": 10,
                                 "y": 0,
