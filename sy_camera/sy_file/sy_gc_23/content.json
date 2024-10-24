@@ -219,6 +219,7 @@
                         "alpha": 0
                     },
                     "gradientColor": {
+                        "cornerRadius" : 4,
                         "gradientInsets": {
                             "top": 0,
                             "left": 6,
