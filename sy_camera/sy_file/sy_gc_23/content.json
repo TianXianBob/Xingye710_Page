@@ -221,20 +221,20 @@
                     "gradientColor": {
                         "gradientInsets": {
                             "top": 0,
-                            "left": 5,
+                            "left": 6,
                             "right": 0,
                             "bottom": 0
                         },
                         "startPointX": 0,
                         "startPointY": 0,
                         "endPointX": 1,
-                        "endPointY": 1,
+                        "endPointY": 0,
                         "gradientColors": [
                             {
                                 "red": 255,
                                 "green": 255,
                                 "blue": 255,
-                                "alpha": 0.5
+                                "alpha": 0.3
                             },
                             {
                                 "red": 255,
