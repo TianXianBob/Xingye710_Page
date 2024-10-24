@@ -4,7 +4,7 @@
         "type": 1,
         "canvas": {
             "width": 257,
-            "height": 176,
+            "height": 117,
             "cornerRadius": 0,
             "color": {
                 "red": 64,
@@ -279,7 +279,7 @@
                         }
                     ],
                     "textPieces": [
-
+                        
                     ],
                     "imagePieces": [
                         {
@@ -294,6 +294,7 @@
                             "angle": 0,
                             "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_4.png"
                         }
+                        
                     ]
                 }
             ]
