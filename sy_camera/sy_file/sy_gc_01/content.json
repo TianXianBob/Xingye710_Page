@@ -34,12 +34,30 @@
                             "type": 6,
                             "editType": "1111",
                             "selectionList": [
-                                "执勤巡逻",
-                                "工作汇报",
-                                "物业巡检",
-                                "项目名称",
-                                "环境卫生",
-                                "城市管理"
+                                {
+                                    "name": "执勤巡逻",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "工作汇报",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "物业巡检",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "项目名称",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "环境卫生",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "城市管理",
+                                    "isStick": 1
+                                }
                             ],
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
