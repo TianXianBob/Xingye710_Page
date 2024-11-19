@@ -17,7 +17,7 @@
                     "x": 0,
                     "y": 12.5,
                     "width": 257,
-                    "height": 45,
+                    "height": 20,
                     "color": {
                         "red": 255,
                         "green": 255,
@@ -29,7 +29,7 @@
                         {
                             "x": 8.5,
                             "y": 2.5,
-                            "width": 248.5,
+                            "width": 240,
                             "height": 14.5,
                             "type": 1,
                             "editType": "1000",
@@ -56,41 +56,74 @@
                                 "blue": 255,
                                 "alpha": 1
                             }
-                        },
+                        }
+                    ],
+                    "imagePieces": [
+
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 22,
+                    "width": 257,
+                    "height": 25,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+
+                    ],
+                    "cells": [
                         {
-                            "x": 8.5,
-                            "y": 20.5,
-                            "width": 248.5,
-                            "height": 23,
-                            "type": 2,
-                            "editType": "1000",
-                            "latFormat": 1,
-                            "timeFormat": "HH:mm",
-                            "weatherFormat": "weather，temperature",
-                            "verticalFlip": 0,
-                            "horizonFlip": 0,
-                            "angle": 0,
-                            "offsetX": 0,
-                            "offsetY": 0,
-                            "text": "",
-                            "textAlign": 0,
-                            "fontName": "",
-                            "fontSize": 17,
-                            "maxCount": 50,
-                            "lineCount": 1,
-                            "lineSpace": 0,
-                            "characterSpace": 0,
-                            "italic": 0,
+                            "textPiece": {
+                                "x": 8.5,
+                                "y": 0,
+                                "width": 240,
+                                "height": 23,
+                                "type": 2,
+                                "editType": "1000",
+                                "latFormat": 1,
+                                "timeFormat": "EEEE",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 17,
+                                "maxCount": 0,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
+                            },
+                            "bgImg": "",
                             "color": {
                                 "red": 255,
                                 "green": 255,
                                 "blue": 255,
-                                "alpha": 1
+                                "alpha": 0
                             }
                         }
-                    ],
-                    "imagePieces": [
-                        
                     ]
                 },
                 {
@@ -317,11 +350,10 @@
                         }
                     ],
                     "textPieces": [
-                        
+
                     ],
                     "imagePieces": [
-                     
-                        
+
                     ]
                 }
             ]
