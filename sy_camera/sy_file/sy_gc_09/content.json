@@ -191,7 +191,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 1,
+                                "y": 2.5,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,

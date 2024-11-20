@@ -157,7 +157,7 @@
                     "cells": [
                         {
                             "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "bottomPadding" : 2,
                             "textPiece": {
                                 "x": 23,
                                 "y": 0,
@@ -192,7 +192,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 4,
+                                "y": 2.5,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
@@ -212,7 +212,7 @@
                         },
                         {
                             "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "bottomPadding" : 2,
                             "textPiece": {
                                 "x": 23,
                                 "y": 0,
@@ -247,7 +247,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 3,
+                                "y": 1,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
@@ -267,7 +267,7 @@
                         },
                         {
                             "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "bottomPadding" : 2,
                             "textPiece": {
                                 "x": 23,
                                 "y": 0,
@@ -302,7 +302,7 @@
                             },
                             "imagePiece": {
                                 "x": 8,
-                                "y": 3,
+                                "y": 1,
                                 "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
