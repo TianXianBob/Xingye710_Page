@@ -16,7 +16,7 @@
                 {
                     "x": 10,
                     "y": 22,
-                    "width": 257,
+                    "width": 237,
                     "height": 49.5,
                     "color": {
                         "red": 255,
@@ -29,10 +29,10 @@
                         {
                             "x": 0,
                             "y": 6,
-                            "width": 97,
+                            "width": 80,
                             "height": 35,
                             "type": 1,
-                            "editType": "1000",
+                            "editType": "1100",
                             "latFormat": 1,
                             "timeFormat": "HH:mm",
                             "weatherFormat": "weather，temperature",
@@ -63,7 +63,7 @@
                             "width": 140,
                             "height": 16,
                             "type": 1,
-                            "editType": "1000",
+                            "editType": "1100",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd",
                             "weatherFormat": "weather，temperature",
@@ -94,7 +94,7 @@
                             "width": 50,
                             "height": 19,
                             "type": 1,
-                            "editType": "1000",
+                            "editType": "1100",
                             "latFormat": 1,
                             "timeFormat": "EEEE",
                             "weatherFormat": "weather，temperature",
@@ -125,7 +125,7 @@
                             "width": 102.5,
                             "height": 19,
                             "type": 3,
-                            "editType": "1000",
+                            "editType": "1100",
                             "latFormat": 1,
                             "timeFormat": "E",
                             "weatherFormat": "weather，temperature",
@@ -164,7 +164,6 @@
                             "angle": 0,
                             "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_06/img_rect_2.png"
                         }
-                        
                     ]
                 },
                 {
@@ -214,7 +213,50 @@
                                 }
                             },
                             "imagePiece": {
-                              
+
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "textPiece": {
+                                "x": 12.5,
+                                "y": 1.5,
+                                "width": 212,
+                                "height": 21,
+                                "type": 4,
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
                             },
                             "bgImg": "",
                             "color": {
@@ -226,11 +268,10 @@
                         }
                     ],
                     "textPieces": [
-                        
+
                     ],
                     "imagePieces": [
-                     
-                        
+
                     ]
                 }
             ]
