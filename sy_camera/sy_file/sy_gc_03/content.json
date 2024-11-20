@@ -4,7 +4,7 @@
         "type": 1,
         "canvas": {
             "width": 257,
-            "height": 141,
+            "height": 145,
             "cornerRadius": 0,
             "color": {
                 "red": 64,
@@ -66,7 +66,7 @@
                     "x": 0,
                     "y": 35,
                     "width": 257,
-                    "height": 25,
+                    "height": 29,
                     "color": {
                         "red": 255,
                         "green": 255,
@@ -74,6 +74,13 @@
                         "alpha": 0
                     },
                     "bgImg": "",
+                    "cellInset": {
+                                            "top": 2,
+                                            "bottom": 2,
+                                            "left": 0,
+                                            "right": 0
+                                        },
+
                     "textPieces": [
 
                     ],
