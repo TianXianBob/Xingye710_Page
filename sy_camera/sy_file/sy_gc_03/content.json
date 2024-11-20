@@ -74,12 +74,7 @@
                         "alpha": 0
                     },
                     "bgImg": "",
-                    "cellInset": {
-                                            "top": 2,
-                                            "bottom": 2,
-                                            "left": 0,
-                                            "right": 0
-                                        },
+                    
 
                     "textPieces": [
 
@@ -139,6 +134,12 @@
                     "width": 190,
                     "height": 63,
                     "cornerRadius": 9,
+                    "cellInset": {
+                                            "top": 2,
+                                            "bottom": 2,
+                                            "left": 0,
+                                            "right": 0
+                                        },
                     "color": {
                         "red": 255,
                         "green": 255,
