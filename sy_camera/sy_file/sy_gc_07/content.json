@@ -34,8 +34,8 @@
                     },
                     "cells": [
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 0,
                                 "y": 0,
@@ -43,6 +43,7 @@
                                 "height": 18,
                                 "type": 0,
                                 "name": "工程名称",
+                                "showType": "1",
                                 "editType": "1111",
                                 "latFormat": 1,
                                 "timeFormat": "E",
@@ -80,8 +81,8 @@
                             }
                         },
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 0,
                                 "y": 0,
@@ -90,6 +91,7 @@
                                 "type": 0,
                                 "name": "施工部位",
                                 "editType": "1111",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "E",
                                 "weatherFormat": "weather，temperature",
@@ -126,8 +128,8 @@
                             }
                         },
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 0,
                                 "y": 0,
@@ -135,6 +137,7 @@
                                 "height": 18,
                                 "type": 1,
                                 "name": "时      间",
+                                "showType": "1",
                                 "editType": "1110",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy年MM月dd日",
@@ -172,8 +175,8 @@
                             }
                         },
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 0,
+                            "topPadding": 0,
+                            "bottomPadding": 0,
                             "textPiece": {
                                 "x": 0,
                                 "y": 0,
@@ -182,6 +185,7 @@
                                 "type": 2,
                                 "name": "地      点",
                                 "editType": "1110",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "时      间：yyyy年MM月dd日",
                                 "weatherFormat": "weather，temperature",
