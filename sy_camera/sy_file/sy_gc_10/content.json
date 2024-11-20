@@ -193,7 +193,7 @@
                             "imagePiece": {
                                 "x": 8,
                                 "y": 4,
-                                "width": 16,
+                                "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
@@ -248,7 +248,7 @@
                             "imagePiece": {
                                 "x": 8,
                                 "y": 3,
-                                "width": 16,
+                                "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
@@ -303,7 +303,7 @@
                             "imagePiece": {
                                 "x": 8,
                                 "y": 3,
-                                "width": 16,
+                                "width": 12.5,
                                 "height": 16,
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
