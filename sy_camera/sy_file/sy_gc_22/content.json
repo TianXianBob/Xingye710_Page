@@ -31,7 +31,7 @@
                             "width": 124,
                             "height": 23,
                             "type": 0,
-                            "editType": "1010",
+                            "editType": "1111",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
@@ -90,7 +90,7 @@
                             "width": 84,
                             "height": 35.5,
                             "type": 1,
-                            "editType": "1010",
+                            "editType": "1100",
                             "latFormat": 1,
                             "timeFormat": "HH:mm",
                             "weatherFormat": "weather，temperature",
@@ -121,7 +121,7 @@
                             "width": 84,
                             "height": 21,
                             "type": 1,
-                            "editType": "1010",
+                            "editType": "1100",
                             "latFormat": 1,
                             "timeFormat": "EEEE",
                             "weatherFormat": "weather，temperature",
@@ -152,7 +152,7 @@
                             "width": 84,
                             "height": 21,
                             "type": 1,
-                            "editType": "1010",
+                            "editType": "1100",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd",
                             "weatherFormat": "weather，temperature",
@@ -267,6 +267,60 @@
                                 "alpha": 0
                             }
                         },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 42,
+                                "y": 0,
+                                "width": 174,
+                                "height": 17.5,
+                                "type": 2,
+                                "editType": "1110",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "地点",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 14,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+                                "x": 24,
+                                "y": 4.5,
+                                "width": 12,
+                                "height": 12,
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_22/img_rect_5.png"
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
                         {
                             "topPadding" : 0,
                             "bottomPadding" : 4,
@@ -321,61 +375,8 @@
                                 "blue": 255,
                                 "alpha": 0
                             }
-                        },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 4,
-                            "textPiece": {
-                                "x": 42,
-                                "y": 0,
-                                "width": 174,
-                                "height": 17.5,
-                                "type": 2,
-                                "editType": "1110",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd E HH:mm",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "name": "地点",
-                                "text": "",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 14,
-                                "maxCount": 50,
-                                "lineCount": 0,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                            "imagePiece": {
-                                "x": 24,
-                                "y": 4.5,
-                                "width": 12,
-                                "height": 12,
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "angle": 0,
-                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_22/img_rect_5.png"
-                            },
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
                         }
+                        
                         
                     ],
                     "textPieces": [
