@@ -31,8 +31,34 @@
                             "y": 2,
                             "width": 67,
                             "height": 20.5,
-                            "type": 0,
-                            "editType": "1000",
+                            "type": 5,
+                            "editType": "1111",
+                            "selectionList": [
+                                {
+                                    "name": "巡检维修",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "电梯维保",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "卫生清洁",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "消防维保",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "垃圾清运",
+                                    "isStick": 1
+                                },
+                                {
+                                    "name": "城市管理",
+                                    "isStick": 1
+                                }
+                            ],
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
@@ -93,7 +119,7 @@
                             "width": 102,
                             "height": 14.5,
                             "type": 0,
-                            "editType": "1000",
+                            "editType": "1101",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
