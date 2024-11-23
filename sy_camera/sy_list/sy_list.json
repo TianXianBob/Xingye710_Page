@@ -46,7 +46,7 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "执勤巡逻",
+                    "syName": "工程验收",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_05",
                     "resId": 5,
@@ -66,7 +66,7 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "上班打卡",
+                    "syName": "国家电网水印",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_07",
                     "resId": 7,
@@ -76,7 +76,7 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "巡察检查",
+                    "syName": "巡察巡检",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_08",
                     "resId": 8,
@@ -271,6 +271,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "打卡时间",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_13",
+                    "resId": 13,
+                    "thumbPath": "dakashijian18.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
@@ -280,11 +290,31 @@
             "title": "工程记录",
             "shuiYings": [
                 {
-                    "syName": "执勤巡逻",
+                    "syName": "工程验收",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_05",
                     "resId": 5,
                     "thumbPath": "gongchengjilu6.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "巡察巡检",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_08",
+                    "resId": 8,
+                    "thumbPath": "xunchajiancha12.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "工程记录",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_16",
+                    "resId": 16,
+                    "thumbPath": "gongchengjilu21.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -297,82 +327,182 @@
             "title": "物业管理",
             "shuiYings": [
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 138,
-                    "thumbPath": "thumb_sy_quanping_01.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 200,
-                    "thumbHeight": 400
+                    "syName": "执勤巡逻",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_01",
+                    "resId": 1,
+                    "thumbPath": "zhiqingxunluo5.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "巡检维修",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_12",
+                    "resId": 12,
+                    "thumbPath": "xunjianweixiu16.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "日常巡逻",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_15",
+                    "resId": 15,
+                    "thumbPath": "richangxunluo20.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "值班记录",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_14",
+                    "resId": 14,
+                    "thumbPath": "zhibanjilu19.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
         {
             "type": 4,
             "dot": false,
-            "title": "污染防治",
+            "title": "物流运输",
             "shuiYings": [
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 139,
-                    "thumbPath": "thumb_sy_quanping_01.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 200,
-                    "thumbHeight": 400
+                    "syName": "快递送达",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_18",
+                    "resId": 18,
+                    "thumbPath": "kuaidisongda23.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "快递送达",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_19",
+                    "resId": 19,
+                    "thumbPath": "kuaidisongda24.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "快递送达",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_20",
+                    "resId": 20,
+                    "thumbPath": "kuaidisongda25.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
         {
             "type": 5,
             "dot": false,
-            "title": "室内施工",
+            "title": "建筑装饰",
             "shuiYings": [
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 140,
-                    "thumbPath": "thumb_sy_quanping_01.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 200,
-                    "thumbHeight": 400
+                    "syName": "前方施工",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_21",
+                    "resId": 21,
+                    "thumbPath": "qianfangshigong26.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "装修施工",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_22",
+                    "resId": 22,
+                    "thumbPath": "zhuangxiushigong27.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "顺丰速运",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_23",
+                    "resId": 23,
+                    "thumbPath": "shunfengsuyun28.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
         {
             "type": 6,
             "dot": false,
-            "title": "检查",
+            "title": "污染防治",
             "shuiYings": [
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 141,
-                    "thumbPath": "thumb_sy_quanping_01.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 200,
-                    "thumbHeight": 400
+                    "syName": "环境治理",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_09",
+                    "resId": 9,
+                    "thumbPath": "huanjngzhili13.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "保护绿水蓝天",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_10",
+                    "resId": 10,
+                    "thumbPath": "baohulvshuilantian14.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "污水处理",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_11",
+                    "resId": 11,
+                    "thumbPath": "wushuichuli15.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
         {
             "type": 7,
             "dot": false,
-            "title": "保险",
+            "title": "电力行业",
             "shuiYings": [
                 {
-                    "syName": "上班打卡",
-                    "jsonName": "json_sec5.json",
-                    "folderName": "sy_quanping_01",
-                    "resId": 142,
-                    "thumbPath": "thumb_sy_quanping_01.png",
-                    "version": "1.2.3",
-                    "thumbWidth": 200,
-                    "thumbHeight": 400
+                    "syName": "国家电网水印",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_07",
+                    "resId": 7,
+                    "thumbPath": "chongchengmingchen8.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "电路巡检",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_17",
+                    "resId": 17,
+                    "thumbPath": "dianluxunjian22.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         }
