@@ -27,9 +27,9 @@
                     "bgImg": "",
                     "textPieces": [
                         {
-                            "x": 14.5,
+                            "x": 0,
                             "y": 5,
-                            "width": 185,
+                            "width": 214,
                             "height": 20.5,
                             "type": 1,
                             "editType": "1000",
@@ -58,9 +58,9 @@
                             }
                         },
                         {
-                            "x": 14.5,
+                            "x": 0,
                             "y": 28.5,
-                            "width": 185,
+                            "width": 214,
                             "height": 38,
                             "type": 1,
                             "editType": "1000",
@@ -102,7 +102,6 @@
                             "angle": 0,
                             "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_04/img_rect_3.png"
                         }
-                        
                     ]
                 },
                 {
@@ -329,11 +328,10 @@
                         }
                     ],
                     "textPieces": [
-                        
+
                     ],
                     "imagePieces": [
-                     
-                        
+
                     ]
                 }
             ]
