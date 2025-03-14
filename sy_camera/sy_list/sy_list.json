@@ -6,41 +6,11 @@
             "title": "推荐",
             "shuiYings": [
                 {
-                    "syName": "执勤巡逻",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_01",
-                    "resId": 1,
-                    "thumbPath": "zhiqingxunluo5.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "考勤打卡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_02",
-                    "resId": 2,
-                    "thumbPath": "kaoqingdaka4.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
                     "syName": "考勤打卡",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_03",
                     "resId": 3,
                     "thumbPath": "kaoqingdaka5.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "考勤打卡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_04",
-                    "resId": 4,
-                    "thumbPath": "kaoqingdaka6.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -111,16 +81,6 @@
                     "folderName": "sy_gc_11",
                     "resId": 11,
                     "thumbPath": "wushuichuli15.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "巡检维修",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_12",
-                    "resId": 12,
-                    "thumbPath": "xunjianweixiu16.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -263,16 +223,6 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "考勤打卡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_04",
-                    "resId": 4,
-                    "thumbPath": "kaoqingdaka6.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
                     "syName": "打卡时间",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_13",
@@ -326,26 +276,6 @@
             "dot": false,
             "title": "物业管理",
             "shuiYings": [
-                {
-                    "syName": "执勤巡逻",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_01",
-                    "resId": 1,
-                    "thumbPath": "zhiqingxunluo5.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "巡检维修",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_12",
-                    "resId": 12,
-                    "thumbPath": "xunjianweixiu16.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
                 {
                     "syName": "日常巡逻",
                     "jsonName": "content.json",
