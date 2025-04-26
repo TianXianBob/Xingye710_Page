@@ -53,9 +53,9 @@
                     "bgImg": "",
                     "textPieces": [
                         {
-                            "x": 50,
+                            "x": 6,
                             "y": 5,
-                            "width": 103.5,
+                            "width": 195,
                             "height": 23,
                             "type": 0,
                             "editType": "1111",

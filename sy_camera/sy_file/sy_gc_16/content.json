@@ -29,10 +29,10 @@
                         {
                             "x": 75,
                             "y": 6,
-                            "width": 61,
+                            "width": 194,
                             "height": 18,
                             "type": 0,
-                            "editType": "1111",
+                            "editType": "1101",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",

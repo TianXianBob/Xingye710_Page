@@ -27,12 +27,12 @@
                     "bgImg": "",
                     "textPieces": [
                         {
-                            "x": 69,
+                            "x": 17,
                             "y": 3.5,
-                            "width": 64,
+                            "width": 162,
                             "height": 18,
                             "type": 0,
-                            "editType": "1010",
+                            "editType": "1101",
                             "latFormat": 1,
                             "timeFormat": "yyyy.MM.dd",
                             "weatherFormat": "weather，temperature",
