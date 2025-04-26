@@ -41,7 +41,7 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "text": "装修施工记录",
-                            "textAlign": 1,
+                            "textAlign": 0,
                             "fontName": "",
                             "fontSize": 19,
                             "maxCount": 50,

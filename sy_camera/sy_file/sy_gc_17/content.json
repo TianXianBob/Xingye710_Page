@@ -42,7 +42,7 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "text": "电路巡检",
-                            "textAlign": 1,
+                            "textAlign": 0,
                             "fontName": "",
                             "fontSize": 14,
                             "maxCount": 50,
