@@ -59,7 +59,7 @@
                         },
                         {
                             "x": 76.5,
-                            "y": 10,
+                            "y": 12,
                             "width": 33.5,
                             "height": 19,
                             "type": 0,
@@ -169,7 +169,7 @@
                             "imagePiece":
                                 {
                                     "x": 5.5,
-                                    "y": 7.5,
+                                    "y": 8.5,
                                     "width": 9.5,
                                     "height": 3.5,
                                     "verticalFlip": 0,
@@ -226,7 +226,7 @@
                             "imagePiece":
                                 {
                                     "x": 5.5,
-                                    "y": 7.5,
+                                    "y": 8.5,
                                     "width": 9.5,
                                     "height": 3.5,
                                     "verticalFlip": 0,
@@ -255,7 +255,7 @@
                                 "angle": 0,
                                 "offsetX": 0,
                                 "offsetY": 0,
-                                "name": "地 点",
+                                "name": "经纬度",
                                 "showType": "0",
                                 "text": "",
                                 "textAlign": 0,
@@ -283,7 +283,7 @@
                             "imagePiece":
                                 {
                                     "x": 5.5,
-                                    "y": 7.5,
+                                    "y": 8.5,
                                     "width": 9.5,
                                     "height": 3.5,
                                     "verticalFlip": 0,
