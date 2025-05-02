@@ -48,7 +48,7 @@
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
-                            "characterSpace": -2,
+                            "characterSpace": 0,
                             "italic": 0,
                             "color": {
                                 "red": 0,
@@ -79,7 +79,7 @@
                             "maxCount": 50,
                             "lineCount": 1,
                             "lineSpace": 0,
-                            "characterSpace": -2,
+                            "characterSpace": 0,
                             "italic": 0,
                             "color": {
                                 "red": 0,
