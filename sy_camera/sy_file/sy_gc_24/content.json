@@ -58,8 +58,8 @@
                             }
                         },
                         {
-                            "x": 76.5,
-                            "y": 12,
+                            "x": 78.5,
+                            "y": 10,
                             "width": 33.5,
                             "height": 19,
                             "type": 0,
@@ -110,11 +110,11 @@
                     "width": 257,
                     "height": 49,
                     "cellInset": {
-                                            "top": 2,
-                                            "bottom": 2,
-                                            "left": 0,
-                                            "right": 0
-                                        },
+                        "top": 2,
+                        "bottom": 2,
+                        "left": 0,
+                        "right": 0
+                    },
                     "color": {
                         "red": 255,
                         "green": 255,
@@ -167,18 +167,18 @@
                                 "alpha": 0
                             },
                             "imagePiece":
-                                {
-                                    "x": 5.5,
-                                    "y": 8.5,
-                                    "width": 9.5,
-                                    "height": 3.5,
-                                    "verticalFlip": 0,
-                                    "horizonFlip": 0,
-                                    "offsetX": 0,
-                                    "offsetY": 0,
-                                    "angle": 0,
-                                    "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
-                                }
+                            {
+                                "x": 5.5,
+                                "y": 8.5,
+                                "width": 9.5,
+                                "height": 3.5,
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
+                            }
                         },
                         {
                             "topPadding": 2,
@@ -224,18 +224,18 @@
                                 "alpha": 0
                             },
                             "imagePiece":
-                                {
-                                    "x": 5.5,
-                                    "y": 8.5,
-                                    "width": 9.5,
-                                    "height": 3.5,
-                                    "verticalFlip": 0,
-                                    "horizonFlip": 0,
-                                    "offsetX": 0,
-                                    "offsetY": 0,
-                                    "angle": 0,
-                                    "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
-                                }
+                            {
+                                "x": 5.5,
+                                "y": 8.5,
+                                "width": 9.5,
+                                "height": 3.5,
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
+                            }
                         },
                         {
                             "topPadding": 2,
@@ -281,22 +281,22 @@
                                 "alpha": 0
                             },
                             "imagePiece":
-                                {
-                                    "x": 5.5,
-                                    "y": 8.5,
-                                    "width": 9.5,
-                                    "height": 3.5,
-                                    "verticalFlip": 0,
-                                    "horizonFlip": 0,
-                                    "offsetX": 0,
-                                    "offsetY": 0,
-                                    "angle": 0,
-                                    "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
-                                }
+                            {
+                                "x": 5.5,
+                                "y": 8.5,
+                                "width": 9.5,
+                                "height": 3.5,
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
+                            }
                         }
                     ],
                     "textPieces": [
-
+                        
                     ]
                 },
                 {
@@ -311,54 +311,40 @@
                         "alpha": 0
                     },
                     "bgImg": "",
-                    "cells": [
+                    "textPieces": [
                         {
-                            "topPadding": 0,
-                            "bottomPadding": 0,
-                            "textPiece": {
-                                "x": 22,
-                                "y": 0,
-                                "width": 235,
-                                "height": 18,
-                                "type": 0,
-                                "editType": "1000",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd  HH:mm",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "showType": "1",
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "name": "",
-                                "text": "水印相机已验证考勤信息真实性",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 12,
-                                "maxCount": 50,
-                                "lineCount": 1,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                            "bgImg": "",
+                            "x": 22,
+                            "y": 0,
+                            "width": 235,
+                            "height": 18,
+                            "type": 0,
+                            "editType": "1000",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy.MM.dd  HH:mm",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "showType": "1",
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "name": "",
+                            "text": "水印相机已验证考勤信息真实性",
+                            "textAlign": 0,
+                            "fontName": "",
+                            "fontSize": 12,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
                             "color": {
                                 "red": 255,
                                 "green": 255,
                                 "blue": 255,
-                                "alpha": 0
+                                "alpha": 1
                             }
                         }
-                    ],
-                    "textPieces": [
-
                     ],
                     "imagePieces": [
                         {
@@ -375,6 +361,7 @@
                         }
                     ]
                 }
+                
             ]
         }
     }
