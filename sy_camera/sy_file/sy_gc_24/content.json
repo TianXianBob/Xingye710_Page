@@ -338,7 +338,7 @@
                                 "text": "水印相机已验证考勤信息真实性",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 2.8,
+                                "fontSize": 12,
                                 "maxCount": 50,
                                 "lineCount": 1,
                                 "lineSpace": 0,
