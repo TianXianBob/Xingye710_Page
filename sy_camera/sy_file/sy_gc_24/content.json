@@ -146,7 +146,7 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 4.5,
+                                "fontSize": 15.5,
                                 "maxCount": 50,
                                 "lineCount": 1,
                                 "lineSpace": 0,
@@ -165,7 +165,21 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 0
-                            }
+                            },
+                            "imagePieces": [
+                                {
+                                    "x": 5.5,
+                                    "y": 7.5,
+                                    "width": 9.5,
+                                    "height": 3.5,
+                                    "verticalFlip": 0,
+                                    "horizonFlip": 0,
+                                    "offsetX": 0,
+                                    "offsetY": 0,
+                                    "angle": 0,
+                                    "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
+                                }
+                            ]
                         },
                         {
                             "topPadding": 2,
@@ -190,7 +204,7 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 4.5,
+                                "fontSize": 15.5,
                                 "maxCount": 50,
                                 "lineCount": 0,
                                 "lineSpace": 0,
@@ -209,7 +223,21 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 0
-                            }
+                            },
+                            "imagePieces": [
+                                {
+                                    "x": 5.5,
+                                    "y": 7.5,
+                                    "width": 9.5,
+                                    "height": 3.5,
+                                    "verticalFlip": 0,
+                                    "horizonFlip": 0,
+                                    "offsetX": 0,
+                                    "offsetY": 0,
+                                    "angle": 0,
+                                    "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
+                                }
+                            ]
                         },
                         {
                             "topPadding": 2,
@@ -234,7 +262,7 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 4.5,
+                                "fontSize": 15.5,
                                 "maxCount": 50,
                                 "lineCount": 0,
                                 "lineSpace": 0,
