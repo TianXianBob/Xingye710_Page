@@ -4,7 +4,7 @@
         "type": 2,
         "canvas": {
             "width": 215,
-            "height": 174,
+            "height": 169,
             "cornerRadius": 0,
             "color": {
                 "red": 64,
@@ -209,7 +209,7 @@
                 },
                 {
                     "x": 0,
-                    "y": 144,
+                    "y": 139,
                     "width": 215,
                     "height": 30,
                     "color": {
@@ -252,7 +252,7 @@
                             "bottomPadding": 1,
                             "textPiece": {
                                 "x": 15.5,
-                                "y": 5.5,
+                                "y": 0,
                                 "width": 200,
                                 "height": 18.5,
                                 "type": 0,
