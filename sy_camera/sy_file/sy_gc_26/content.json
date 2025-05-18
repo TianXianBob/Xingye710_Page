@@ -116,7 +116,7 @@
                         "alpha": 0.5
                     },
                     "cellInset": {
-                                            "top": 4,
+                                            "top": 0,
                                             "bottom": 0,
                                             "left": 0,
                                             "right": 0
@@ -135,7 +135,7 @@
                                 "type": 1,
                                 "editType": "1100",
                                 "latFormat": 1,
-                                "timeFormat": "yyyy-MM-dd EEE",
+                                "timeFormat": "yyyy-MM-dd EEEE",
                                 "weatherFormat": "weather，temperature",
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
@@ -180,6 +180,7 @@
                                 "height": 11.5,
                                 "type": 2,
                                 "editType": "1100",
+                                "showType" : "1",
                                 "latFormat": 1,
                                 "timeFormat": "E",
                                 "weatherFormat": "weather，temperature",
@@ -225,7 +226,7 @@
                                 "width": 186,
                                 "height": 11.5,
                                 "type": 4,
-                                "editType": "1111",
+                                "editType": "0111",
                                 "latFormat": 1,
                                 "timeFormat": "E",
                                 "weatherFormat": "weather，temperature",
