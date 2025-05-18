@@ -204,6 +204,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_26",
+                    "resId": 26,
+                    "thumbPath": "shangbandaka30.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
@@ -238,6 +248,16 @@
                     "folderName": "sy_gc_24",
                     "resId": 24,
                     "thumbPath": "kaoqingdaka28.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_26",
+                    "resId": 26,
+                    "thumbPath": "shangbandaka30.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
