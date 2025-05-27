@@ -33,44 +33,82 @@
 <p>当你使用第三方提供的服务时，我们会在获得或确保第三方获得你的授权同意后，以及其他符合法律法规规定的情形下共享对应信息。你可以通过本清单中列举的相关信息了解第三方会如何处理你的个人信息。我们也会对第三方获取个人信息的行为进行严格约束，以保护你的个人信息安全。</p>
 <p>为保障本 App 稳定运行或实现相关功能，我们还可能会接入由第三方提供的软件开发包（SDK）实现前述目的。我们对接入的相关第三方SDK同时在以下清单中列明。你可以通过目录中提供的链接或者路径查看第三方的数据使用和保护规则。请注意，第三方SDK可能由于版本升级、策略调整等原因导致其个人信息处理类型发生变化，请以其公示的官方说明为准。</p>
 <p><strong>一、内嵌 SDK 名单</strong></p>
-<ul>
-  <li><strong>数据统计 SDK</strong><br>
-    SDK 名称：友盟+移动统计SDK<br>
-    运营方：友盟同欣（北京）科技有限公司<br>
-    使用目的：数据统计与分析<br>
-    收集信息类型：设备信息(IMEI、IMSI、AndroidID、设备品牌与型号)、运营商信息、网络状态信息<br>
-    收集方式：SDK本机采集<br>
-    官方说明或隐私政策：<a href="https://developer.umeng.com/docs/147377/detail/210108" target="_blank">https://developer.umeng.com/docs/147377/detail/210108</a>
-  </li>
-  <li><strong>崩溃分析 SDK</strong><br>
-    SDK 名称：应用性能监控SDK<br>
-    运营方：友盟同欣（北京）科技有限公司<br>
-    使用目的：实时、可靠、全面的应用崩溃、ANR、自定义异常等捕获能力<br>
-    收集信息类型：设备信息(IMEI、IMSI、AndroidID、设备品牌与型号)、运营商信息、网络状态信息<br>
-    收集方式：SDK本机采集<br>
-    官方说明或隐私政策：<a href="https://developer.umeng.com/docs/147377/detail/214853" target="_blank">https://developer.umeng.com/docs/147377/detail/214853</a>
-  </li>
-  <li><strong>定位 SDK</strong><br>
-    SDK 名称：高德定位 SDK<br>
-    运营方：高德软件有限公司<br>
-    使用目的：获取定位结果、逆地理编码（地址文字描述）<br>
-    收集信息类型：设备信息(IMEI、IMSI、AndroidID、设备品牌与型号)、运营商信息、网络状态信息、经纬度、传感器信息（矢量、加速度、压力）<br>
-    收集方式：SDK本机采集<br>
-    官方说明或隐私政策：<a href="https://lbs.amap.com/pages/privacy/" target="_blank">https://lbs.amap.com/pages/privacy/</a>
-  </li>
-</ul>
+<table border="1" borderColor="#E0E0E0" cellpadding="8" cellspacing="0" style="border-collapse: collapse;font-size: 13px;">
+  <thead>
+    <tr>
+      <th>SDK 名称</th>
+      <th>运营方</th>
+      <th>收集信息类型</th>
+      <th>使用目的</th>
+      <th>收集方式</th>
+      <th>隐私政策链接</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>友盟+移动统计SDK</td>
+      <td>友盟同欣（北京）科技有限公司</td>
+      <td>设备标识(MAC地址、IMEI、IMSI、AndroidID、OAID、设备序列号)<br>设备信息(设备品牌与型号)<br>运营商信息<br>网络状态信息(SSID、BSSID等)<br>应用软件安装列表</td>
+      <td>数据统计与分析<br>基于设备信息用于生成脱敏的终端用户设备标识，以提供统计分析服务<br>根据设备信息进行统计数据的去重和异常分析<br>应用安装与卸载统计，并识别异常安装等潜在安全风险<br>查看网络状态，用于SDK重连机制等场景</td>
+      <td>SDK本机采集</td>
+      <td><a href="https://developer.umeng.com/docs/147377/detail/210108" target="_blank">友盟数据统计信息收集说明</a></td>
+    </tr>
+    <tr>
+      <td>应用性能监控SDK</td>
+      <td>友盟同欣（北京）科技有限公司</td>
+      <td>设备信息(设备品牌与型号)、运营商信息、网络状态信息</td>
+      <td>实时、可靠、全面的应用崩溃、ANR、自定义异常等捕获能力<br>基于设备信息用于生成脱敏的终端用户设备标识，以提供统计分析服务<br>根据设备信息进行统计数据的去重和异常分析</td>
+      <td>SDK本机采集</td>
+      <td><a href="https://developer.umeng.com/docs/147377/detail/214853" target="_blank">友盟崩溃分析信息收集说明</a></td>
+    </tr>
+    <tr>
+      <td>高德定位 SDK</td>
+      <td>高德软件有限公司</td>
+      <td>设备标识(MAC地址、IMEI、IMSI、AndroidID、OAID、设备序列号)<br>设备信息(设备品牌与型号)<br>运营商信息<br>网络状态信息(SSID、BSSID等)<br>经纬度<br>传感器信息（矢量、加速度、压力）</td>
+      <td>获取定位结果、逆地理编码（地址文字描述）<br>根据设备标识与设备信息进行追踪、排查、诊断、统计服务中的各类问题<br>基于应用信息服务鉴权，追踪、排查、诊断、统计服务中的各类问题<br>
+        根据网络状态信息进行网络状态识别及信息进行辅助定位<br>运营商信息协助提升网络定位精度<br>SSID用于识别移动热点，优化定位效果<br>BSSID与基站信息用于服务端进行网络WiFi定位<br>传感器用于进行辅助定位<br>GNSS信息用于获取卫星状态，优化及判断卫星定位效果</td>
+      <td>SDK本机采集</td>
+      <td><a href="https://lbs.amap.com/pages/privacy/" target="_blank">高德定位信息收集说明</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- 新增应用权限使用说明 -->
 <br>
 <br>
-<p><strong>应用权限使用说明</strong></p>
-<p>为了实现部分核心功能，我们可能会请求访问以下设备权限：</p>
-<ol>
-  <li><strong>相册权限：</strong>用于选择待加水印的图片以及查看已加水印的图片内容。</li>
-  <li><strong>相机与麦克风权限：</strong>用于拍摄实时水印照片以及在特定功能中记录声音。</li>
-  <li><strong>定位权限（粗略与精确）：</strong>用于在照片水印中显示当前的实时地理位置信息。</li>
-  <li><strong>存储权限：</strong>用于保存您拍摄或处理后的水印照片至本地相册。</li>
-</ol>
+<p><strong>应用权限与信息使用说明</strong></p>
+<p>为了实现部分核心功能，我们可能会请求访问以下设备权限与信息：</p>
+<table border="1" borderColor="#E0E0E0" cellpadding="8" cellspacing="0" style="border-collapse: collapse;font-size: 13px;">
+  <thead>
+    <tr>
+      <th>权限/信息名称</th>
+      <th>使用目的</th>
+      <th>使用场景</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>相册/文件读取权限</td>
+      <td>选择和查看图片</td>
+      <td>选择待加水印的图片，查看已加水印内容</td>
+    </tr>
+    <tr>
+      <td>文件存储权限</td>
+      <td>保存图片至本地</td>
+      <td>保存拍摄或处理后的水印照片</td>
+    </tr>
+    <tr>
+      <td>相机与麦克风权限</td>
+      <td>拍摄照片、录制声音</td>
+      <td>拍摄实时水印照片，记录声音</td>
+    </tr>
+    <tr>
+      <td>定位权限（粗略与精确）</td>
+      <td>地理位置信息展示</td>
+      <td>在照片水印中显示实时位置</td>
+    </tr>
+  </tbody>
+</table>
 <p>请注意，除非您主动使用相关功能，否则我们不会访问上述权限所涉及的敏感信息。您也可以在系统设置中随时管理或撤销相关权限授权。</p>
 
 <br>
