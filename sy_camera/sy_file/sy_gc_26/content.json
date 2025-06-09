@@ -174,7 +174,7 @@
                             "bottomPadding": 0,
                             "textPiece": {
                                 "x": 20.5,
-                                "y": 26.5,
+                                "y": 0,
                                 "width": 186,
                                 "height": 11.5,
                                 "type": 2,
@@ -221,7 +221,7 @@
                             "bottomPadding": 0,
                             "textPiece": {
                                 "x": 20.5,
-                                "y": 26.5,
+                                "y": 0,
                                 "width": 186,
                                 "height": 11.5,
                                 "type": 4,
