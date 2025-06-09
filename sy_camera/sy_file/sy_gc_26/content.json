@@ -72,7 +72,7 @@
                             "angle": 0,
                             "offsetX": 0,
                             "offsetY": 0,
-                            "text": "环境治理",
+                            "text": "",
                             "textAlign": 1,
                             "fontName": "",
                             "fontSize": 22.5,
@@ -106,7 +106,7 @@
                 },
                 {
                     "x": 0,
-                    "y": 51.5,
+                    "y": 53.5,
                     "width": 206.5,
                     "height": 51,
                     "color": {
@@ -116,20 +116,19 @@
                         "alpha": 0.5
                     },
                     "cellInset": {
-                                            "top": 0,
-                                            "bottom": 0,
-                                            "left": 0,
-                                            "right": 0
-                                        },
-
+                        "top": 0,
+                        "bottom": 0,
+                        "left": 0,
+                        "right": 0
+                    },
                     "bgImg": "",
                     "cells": [
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 2,
+                            "topPadding": 0,
+                            "bottomPadding": 0,
                             "textPiece": {
                                 "x": 20.5,
-                                "y": 8.5,
+                                "y": 0,
                                 "width": 186,
                                 "height": 11.5,
                                 "type": 1,
@@ -160,7 +159,7 @@
                                 }
                             },
                             "imagePiece": {
-                               
+
                             },
                             "bgImg": "",
                             "color": {
@@ -171,8 +170,8 @@
                             }
                         },
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 2,
+                            "topPadding": 0,
+                            "bottomPadding": 0,
                             "textPiece": {
                                 "x": 20.5,
                                 "y": 26.5,
@@ -180,7 +179,7 @@
                                 "height": 11.5,
                                 "type": 2,
                                 "editType": "1100",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "E",
                                 "weatherFormat": "weather，temperature",
@@ -207,7 +206,7 @@
                                 }
                             },
                             "imagePiece": {
-                              
+
                             },
                             "bgImg": "",
                             "color": {
@@ -218,8 +217,8 @@
                             }
                         },
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 2,
+                            "topPadding": 0,
+                            "bottomPadding": 2,
                             "textPiece": {
                                 "x": 20.5,
                                 "y": 26.5,
@@ -253,7 +252,7 @@
                                 }
                             },
                             "imagePiece": {
-                               
+
                             },
                             "bgImg": "",
                             "color": {
@@ -269,18 +268,17 @@
                     ],
                     "imagePieces": [
                         {
-                        "x": 13.5,
-                        "y": 8,
-                        "width": 1.5,
-                        "height": -1,
-                        "verticalFlip": 0,
-                        "horizonFlip": 0,
-                        "offsetX": 0,
-                        "offsetY": 0,
-                        "angle": 0,
-                        "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_26/img_rect_2.png"
+                            "x": 13.5,
+                            "y": 0,
+                            "width": 1.5,
+                            "height": -1,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_26/img_rect_2.png"
                         }
-
                     ]
                 }
             ]
