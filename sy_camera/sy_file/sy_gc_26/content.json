@@ -263,14 +263,48 @@
                             }
                         },
                         {
-                            "x": 0,
-                            "y": 104.5,
-                            "width": 206.5,
-                            "height": 2,
+                            "topPadding": 0,
+                            "bottomPadding": 0,
+                            "textPiece": {
+                                "x": 20.5,
+                                "y": 0,
+                                "width": 186,
+                                "height": 11.5,
+                                "type": 3,
+                                "editType": "0111",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "天气",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
+                            },
+                            "bgImg": "",
                             "color": {
-                                "red": 43,
-                                "green": 43,
-                                "blue": 43,
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
                                 "alpha": 0
                             }
                         }
