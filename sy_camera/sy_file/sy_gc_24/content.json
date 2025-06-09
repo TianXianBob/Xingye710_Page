@@ -166,8 +166,7 @@
                                 "blue": 255,
                                 "alpha": 0
                             },
-                            "imagePiece":
-                            {
+                            "imagePiece": {
                                 "x": 5.5,
                                 "y": 8.5,
                                 "width": 9.5,
@@ -223,8 +222,7 @@
                                 "blue": 255,
                                 "alpha": 0
                             },
-                            "imagePiece":
-                            {
+                            "imagePiece": {
                                 "x": 5.5,
                                 "y": 8.5,
                                 "width": 9.5,
@@ -280,8 +278,63 @@
                                 "blue": 255,
                                 "alpha": 0
                             },
-                            "imagePiece":
-                            {
+                            "imagePiece": {
+                                "x": 5.5,
+                                "y": 8.5,
+                                "width": 9.5,
+                                "height": 3.5,
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_24/img_rect_2.png"
+                            }
+                        },
+                        {
+                            "topPadding": 2,
+                            "bottomPadding": 2,
+                            "textPiece": {
+                                "x": 22,
+                                "y": 0,
+                                "width": 235,
+                                "height": 19,
+                                "type": 3,
+                                "editType": "0111",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "天气",
+                                "showType": "0",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            },
+                            "imagePiece": {
                                 "x": 5.5,
                                 "y": 8.5,
                                 "width": 9.5,
@@ -296,7 +349,7 @@
                         }
                     ],
                     "textPieces": [
-                        
+
                     ]
                 },
                 {
@@ -361,7 +414,6 @@
                         }
                     ]
                 }
-                
             ]
         }
     }
