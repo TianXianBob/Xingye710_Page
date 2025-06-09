@@ -4,7 +4,7 @@
         "type": 2,
         "canvas": {
             "width": 206.5,
-            "height": 102.5,
+            "height": 110.5,
             "cornerRadius": 9,
             "color": {
                 "red": 43,
@@ -106,7 +106,7 @@
                 },
                 {
                     "x": 0,
-                    "y": 53.5,
+                    "y": 55.5,
                     "width": 206.5,
                     "height": 51,
                     "color": {
@@ -297,7 +297,7 @@
                     "x": 0,
                     "y": 104.5,
                     "width": 206.5,
-                    "height": 2,
+                    "height": 4,
                     "color": {
                         "red": 255,
                         "green": 255,
