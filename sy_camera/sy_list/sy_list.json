@@ -26,6 +26,36 @@
                     "thumbHeight": 240
                 },
                 {
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_24",
+                    "resId": 24,
+                    "thumbPath": "kaoqingdaka28.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_26",
+                    "resId": 26,
+                    "thumbPath": "shangbandaka30.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "考勤打卡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_27",
+                    "resId": 27,
+                    "thumbPath": "shangbandaka31.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
                     "syName": "上班打卡",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_06",
@@ -186,41 +216,21 @@
                     "thumbHeight": 240
                 },
                 {
+                    "syName": "快递送达",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_25",
+                    "resId": 25,
+                    "thumbPath": "kuaidisongda29.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
                     "syName": "顺丰速运",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_23",
                     "resId": 23,
                     "thumbPath": "shunfengsuyun28.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "考勤打卡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_24",
-                    "resId": 24,
-                    "thumbPath": "kaoqingdaka28.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "考勤打卡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_26",
-                    "resId": 26,
-                    "thumbPath": "shangbandaka30.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "考勤打卡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_27",
-                    "resId": 27,
-                    "thumbPath": "shangbandaka31.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -392,6 +402,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "顺丰速运",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_23",
+                    "resId": 23,
+                    "thumbPath": "shunfengsuyun28.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
@@ -416,16 +436,6 @@
                     "folderName": "sy_gc_22",
                     "resId": 22,
                     "thumbPath": "zhuangxiushigong27.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "顺丰速运",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_23",
-                    "resId": 23,
-                    "thumbPath": "shunfengsuyun28.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
