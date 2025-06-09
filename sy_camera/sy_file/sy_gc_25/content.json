@@ -60,8 +60,8 @@
                             "topPadding": 0,
                             "bottomPadding": 4,
                             "textPiece": {
-                                "x": 5.5,
-                                "y": 2,
+                                "x": 10,
+                                "y": 0,
                                 "width": 205,
                                 "height": 15.5,
                                 "type": 1,
@@ -104,8 +104,8 @@
                             "topPadding": 0,
                             "bottomPadding": 4,
                             "textPiece": {
-                                "x": 5.5,
-                                "y": 2,
+                                "x": 10,
+                                "y": 0,
                                 "width": 205,
                                 "height": 15.5,
                                 "type": 3,
@@ -148,8 +148,8 @@
                             "topPadding": 0,
                             "bottomPadding": 2,
                             "textPiece": {
-                                "x": 5.5,
-                                "y": 2,
+                                "x": 10,
+                                "y": 0,
                                 "width": 205,
                                 "height": 15.5,
                                 "type": 2,
@@ -195,7 +195,7 @@
                     "imagePieces": [
                         {
                             "x": 0,
-                            "y": 0,
+                            "y": 2,
                             "width": 3.5,
                             "height": -1,
                             "verticalFlip": 0,
