@@ -7,10 +7,10 @@
             "height": 102.5,
             "cornerRadius": 9,
             "color": {
-                "red": 64,
-                "green": 85,
-                "blue": 199,
-                "alpha": 0
+                "red": 43,
+                "green": 43,
+                "blue": 43,
+                "alpha": 0.5
             },
             "rects": [
                 {
@@ -113,7 +113,7 @@
                         "red": 43,
                         "green": 43,
                         "blue": 43,
-                        "alpha": 0.5
+                        "alpha": 0
                     },
                     "cellInset": {
                         "top": 0,
@@ -271,7 +271,7 @@
                                 "red": 43,
                                 "green": 43,
                                 "blue": 43,
-                                "alpha": 0.5
+                                "alpha": 0
                             }
                         }
                     ],
