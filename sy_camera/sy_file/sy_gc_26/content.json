@@ -292,6 +292,25 @@
                             "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_26/img_rect_2.png"
                         }
                     ]
+                },
+                {
+                    "x": 0,
+                    "y": 104.5,
+                    "width": 206.5,
+                    "height": 2,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+
+                    ]
                 }
             ]
         }
