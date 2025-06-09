@@ -218,7 +218,7 @@
                         },
                         {
                             "topPadding": 0,
-                            "bottomPadding": 2,
+                            "bottomPadding": 0,
                             "textPiece": {
                                 "x": 20.5,
                                 "y": 26.5,
@@ -260,6 +260,18 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 0
+                            }
+                        },
+                        {
+                            "x": 0,
+                            "y": 104.5,
+                            "width": 206.5,
+                            "height": 2,
+                            "color": {
+                                "red": 43,
+                                "green": 43,
+                                "blue": 43,
+                                "alpha": 0.5
                             }
                         }
                     ],
