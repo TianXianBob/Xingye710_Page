@@ -216,7 +216,7 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "快递送达",
+                    "syName": "圆通速递",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_25",
                     "resId": 25,
@@ -394,7 +394,7 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "快递送达",
+                    "syName": "圆通速递",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_25",
                     "resId": 25,
