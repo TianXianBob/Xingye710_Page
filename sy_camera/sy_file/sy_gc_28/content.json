@@ -1,0 +1,329 @@
+{
+    "data": {
+        "resId": 28,
+        "type": 2,
+        "canvas": {
+            "width": 215,
+            "height": 174,
+            "cornerRadius": 9,
+            "color": {
+                "red": 246,
+                "green": 154,
+                "blue": 18,
+                "alpha": 0
+            },
+            "rects": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 215,
+                    "height": 51.5,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 98.5,
+                            "y": 12.5,
+                            "width": 91,
+                            "height": 27,
+                            "type": 0,
+                            "editType": "1111",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd HH:mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "故障维修",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 22,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 30,
+                            "y": 9,
+                            "width": 56.5,
+                            "height": 37.5,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_28/img_rect_2.png"
+                        }
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 51,
+                    "width": 215,
+                    "height": 123,
+                    "color": {
+                        "red": 43,
+                        "green": 43,
+                        "blue": 43,
+                        "alpha": 0.5
+                    },
+                    "bgImg": "",
+                    "cellInset": {
+                        "top": 4,
+                        "bottom": 4,
+                        "left": 0,
+                        "right": 0
+                    },
+                    "cells": [
+                        {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 13,
+                                "width": 201,
+                                "height": 14.5,
+                                "type": 0,
+                                "editType": "1111",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "维修人",
+                                "text": "请输入维修人员",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                           
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 13,
+                                "width": 201,
+                                "height": 14.5,
+                                "type": 0,
+                                "editType": "1111",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "维修公司",
+                                "text": "请输入您的公司",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                         
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 13,
+                                "width": 201,
+                                "height": 14.5,
+                                "type": 0,
+                                "editType": "1111",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "维修内容",
+                                "text": "请输入您的维修内容",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                         
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 0,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 13,
+                                "width": 201,
+                                "height": 14.5,
+                                "type": 1,
+                                "editType": "1110",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "时间",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                           
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 0,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 13,
+                                "width": 201,
+                                "height": 14.5,
+                                "type": 2,
+                                "editType": "1110",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "地点",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                           
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                        
+                        
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+
+                    ]
+                }
+            ]
+        }
+    }
+}
