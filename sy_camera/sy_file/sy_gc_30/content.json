@@ -62,7 +62,7 @@
                             "y": 16,
                             "width": 95,
                             "height": 16,
-                            "type": 1,
+                            "type": 0,
                             "editType": "1111",
                             "showType" : "0",
                             "latFormat": 1,
