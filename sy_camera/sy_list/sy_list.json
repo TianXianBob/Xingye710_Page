@@ -244,6 +244,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "物业环卫",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_29",
+                    "resId": 29,
+                    "thumbPath": "wuyehuanwei33.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },

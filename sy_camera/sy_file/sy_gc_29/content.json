@@ -4,13 +4,13 @@
         "type": 2,
         "canvas": {
             "width": 215,
-            "height": 174,
+            "height": 152,
             "cornerRadius": 9,
             "color": {
-                "red": 246,
-                "green": 154,
-                "blue": 18,
-                "alpha": 1
+                "red": 43,
+                "green": 43,
+                "blue": 43,
+                "alpha": 0.5
             },
             "rects": [
                 {
@@ -19,17 +19,17 @@
                     "width": 215,
                     "height": 51.5,
                     "color": {
-                        "red": 255,
-                        "green": 255,
+                        "red": 0,
+                        "green": 48,
                         "blue": 255,
-                        "alpha": 0
+                        "alpha": 1
                     },
                     "bgImg": "",
                     "textPieces": [
                         {
-                            "x": 98.5,
-                            "y": 12.5,
-                            "width": 91,
+                            "x": 83.5,
+                            "y": 13.5,
+                            "width": 84,
                             "height": 27,
                             "type": 0,
                             "editType": "1111",
@@ -41,7 +41,7 @@
                             "angle": 0,
                             "offsetX": 0,
                             "offsetY": 0,
-                            "text": "故障维修",
+                            "text": "物业环卫",
                             "textAlign": 1,
                             "fontName": "",
                             "fontSize": 22,
@@ -69,7 +69,7 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_28/img_rect_2.png"
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_29/img_rect_1.png"
                         }
                     ]
                 },
@@ -77,12 +77,12 @@
                     "x": 0,
                     "y": 51,
                     "width": 215,
-                    "height": 123,
+                    "height": 101,
                     "color": {
                         "red": 43,
                         "green": 43,
                         "blue": 43,
-                        "alpha": 0.5
+                        "alpha": 0
                     },
                     "bgImg": "",
                     "cellInset": {
@@ -96,144 +96,12 @@
                             "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 14,
-                                "y": 13,
-                                "width": 201,
-                                "height": 14.5,
-                                "type": 0,
-                                "editType": "1111",
-                                "showType" : "1",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd E HH:mm",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "name": "维修人",
-                                "text": "请输入维修人员",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 13.5,
-                                "maxCount": 50,
-                                "lineCount": 0,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                           
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
-                        },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 4,
-                            "textPiece": {
-                                "x": 14,
-                                "y": 13,
-                                "width": 201,
-                                "height": 14.5,
-                                "type": 0,
-                                "editType": "1111",
-                                "showType" : "1",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd E HH:mm",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "name": "维修公司",
-                                "text": "请输入您的公司",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 13.5,
-                                "maxCount": 50,
-                                "lineCount": 0,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                         
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
-                        },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 4,
-                            "textPiece": {
-                                "x": 14,
-                                "y": 13,
-                                "width": 201,
-                                "height": 14.5,
-                                "type": 0,
-                                "editType": "1111",
-                                "showType" : "1",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd E HH:mm",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "name": "维修内容",
-                                "text": "请输入您的维修内容",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 13.5,
-                                "maxCount": 50,
-                                "lineCount": 0,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                         
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
-                        },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 0,
-                            "textPiece": {
-                                "x": 14,
-                                "y": 13,
-                                "width": 201,
-                                "height": 14.5,
+                                "x": 17,
+                                "y": 17,
+                                "width": 198,
+                                "height": 16,
                                 "type": 1,
-                                "editType": "1110",
+                                "editType": "1111",
                                 "showType" : "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
@@ -272,10 +140,54 @@
                         { "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 14,
-                                "y": 13,
-                                "width": 201,
-                                "height": 14.5,
+                                "x": 17,
+                                "y": 17,
+                                "width": 198,
+                                "height": 16,
+                                "type": 0,
+                                "editType": "1111",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "工作内容",
+                                "text": "请输入工作内容",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                         
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 17,
+                                "y": 17,
+                                "width": 198,
+                                "height": 16,
                                 "type": 2,
                                 "editType": "1110",
                                 "showType" : "1",
