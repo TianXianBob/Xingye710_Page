@@ -254,6 +254,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "消防巡检",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_30",
+                    "resId": 30,
+                    "thumbPath": "xiaofangxunjian35.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
@@ -308,16 +318,6 @@
                     "folderName": "sy_gc_27",
                     "resId": 27,
                     "thumbPath": "shangbandaka31.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "消防巡检",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_30",
-                    "resId": 30,
-                    "thumbPath": "xiaofangxunjian35.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
