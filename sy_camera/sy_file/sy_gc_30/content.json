@@ -60,10 +60,10 @@
                     ],
                     "imagePieces": [
                         {
-                            "x": 41.5,
-                            "y": 0.5,
-                            "width": 29.5,
-                            "height": 50.5,
+                            "x": 30,
+                            "y": 9,
+                            "width": 56.5,
+                            "height": 37.5,
                             "verticalFlip": 0,
                             "horizonFlip": 0,
                             "offsetX": 0,
