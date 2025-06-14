@@ -7,10 +7,10 @@
             "height": 174,
             "cornerRadius": 9,
             "color": {
-                "red": 246,
-                "green": 154,
-                "blue": 18,
-                "alpha": 1
+                "red": 43,
+                "green": 43,
+                "blue": 43,
+                "alpha": 0.5
             },
             "rects": [
                 {
@@ -22,7 +22,7 @@
                         "red": 255,
                         "green": 255,
                         "blue": 255,
-                        "alpha": 0
+                        "alpha": 1
                     },
                     "bgImg": "",
                     "textPieces": [
@@ -82,7 +82,7 @@
                         "red": 43,
                         "green": 43,
                         "blue": 43,
-                        "alpha": 0.5
+                        "alpha": 0
                     },
                     "bgImg": "",
                     "cellInset": {

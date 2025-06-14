@@ -226,7 +226,7 @@
                             }
                         },
                         { "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "bottomPadding" : 0,
                             "textPiece": {
                                 "x": 14,
                                 "y": 13,
