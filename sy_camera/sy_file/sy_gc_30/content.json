@@ -252,7 +252,7 @@
                             "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 12.5,
-                                "y": 102.5,
+                                "y": 0,
                                 "width": 202.5,
                                 "height": 14,
                                 "type": 2,
@@ -296,11 +296,11 @@
                             "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 12.5,
-                                "y": 102.5,
+                                "y": 0,
                                 "width": 202.5,
                                 "height": 14,
                                 "type": 4,
-                                "editType": "1111",
+                                "editType": "0111",
                                 "showType" : "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
