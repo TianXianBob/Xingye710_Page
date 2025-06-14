@@ -10,7 +10,7 @@
                 "red": 246,
                 "green": 154,
                 "blue": 18,
-                "alpha": 0
+                "alpha": 1
             },
             "rects": [
                 {
@@ -270,7 +270,7 @@
                             }
                         },
                         { "topPadding" : 0,
-                            "bottomPadding" : 0,
+                            "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 14,
                                 "y": 13,
