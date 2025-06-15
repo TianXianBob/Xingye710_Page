@@ -32,7 +32,7 @@
                             "width": 91,
                             "height": 27,
                             "type": 0,
-                            "editType": "1111",
+                            "editType": "1000",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
@@ -93,16 +93,16 @@
                     },
                     "cells": [
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 14,
-                                "y": 13,
+                                "y": 0,
                                 "width": 201,
                                 "height": 14.5,
                                 "type": 0,
                                 "editType": "1111",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -128,7 +128,6 @@
                                     "alpha": 1
                                 }
                             },
-                           
                             "bgImg": "",
                             "color": {
                                 "red": 255,
@@ -137,16 +136,17 @@
                                 "alpha": 0
                             }
                         },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 4,
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 14,
-                                "y": 13,
+                                "y": 0,
                                 "width": 201,
                                 "height": 14.5,
                                 "type": 0,
                                 "editType": "1111",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -172,7 +172,6 @@
                                     "alpha": 1
                                 }
                             },
-                         
                             "bgImg": "",
                             "color": {
                                 "red": 255,
@@ -181,16 +180,17 @@
                                 "alpha": 0
                             }
                         },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 4,
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 14,
-                                "y": 13,
+                                "y": 0,
                                 "width": 201,
                                 "height": 14.5,
                                 "type": 0,
                                 "editType": "1111",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -216,7 +216,6 @@
                                     "alpha": 1
                                 }
                             },
-                         
                             "bgImg": "",
                             "color": {
                                 "red": 255,
@@ -225,16 +224,17 @@
                                 "alpha": 0
                             }
                         },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 0,
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 0,
                             "textPiece": {
                                 "x": 14,
-                                "y": 13,
+                                "y": 0,
                                 "width": 201,
                                 "height": 14.5,
                                 "type": 1,
                                 "editType": "1110",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -260,7 +260,6 @@
                                     "alpha": 1
                                 }
                             },
-                           
                             "bgImg": "",
                             "color": {
                                 "red": 255,
@@ -269,16 +268,17 @@
                                 "alpha": 0
                             }
                         },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 4,
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 14,
-                                "y": 13,
+                                "y": 0,
                                 "width": 201,
                                 "height": 14.5,
                                 "type": 2,
-                                "editType": "1110",
-                                "showType" : "1",
+                                "editType": "1100",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -304,7 +304,94 @@
                                     "alpha": 1
                                 }
                             },
-                           
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 0,
+                                "width": 201,
+                                "height": 14.5,
+                                "type": 3,
+                                "editType": "0111",
+                                "showType": "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "天气",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 0,
+                                "width": 201,
+                                "height": 14.5,
+                                "type": 4,
+                                "editType": "0111",
+                                "showType": "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "经纬度",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 13.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
                             "bgImg": "",
                             "color": {
                                 "red": 255,
@@ -313,8 +400,6 @@
                                 "alpha": 0
                             }
                         }
-                        
-                        
                     ],
                     "textPieces": [
 
