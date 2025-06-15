@@ -32,7 +32,7 @@
                             "width": 58.5,
                             "height": 16,
                             "type": 0,
-                            "editType": "1111",
+                            "editType": "1000",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
@@ -63,7 +63,7 @@
                             "width": 95,
                             "height": 14,
                             "type": 0,
-                            "editType": "1111",
+                            "editType": "1101",
                             "showType" : "0",
                             "latFormat": 1,
                             "timeFormat": "yyyy.MM.dd E HH:mm",
@@ -75,9 +75,9 @@
                             "offsetY": 0,
                             "name": "",
                             "text": "请输入巡检区域",
-                            "textAlign": 0,
+                            "textAlign": 1,
                             "fontName": "",
-                            "fontSize": 14,
+                            "fontSize": 12,
                             "maxCount": 50,
                             "lineCount": 0,
                             "lineSpace": 0,
@@ -151,7 +151,7 @@
                             }
                         },
                         {
-                            "x": 104.5,
+                            "x": 106,
                             "y": 17,
                             "width": 117.5,
                             "height": 12.5,
@@ -182,7 +182,7 @@
                             }
                         },
                         {
-                            "x": 104.5,
+                            "x": 106,
                             "y": 3,
                             "width": 117.5,
                             "height": 12.5,
@@ -337,7 +337,51 @@
                             }
                         }
                        
+                       ,
+                       { "topPadding" : 0,
+                           "bottomPadding" : 4,
+                           "textPiece": {
+                               "x": 12.5,
+                               "y": 0,
+                               "width": 202.5,
+                               "height": 14,
+                               "type": 3,
+                               "editType": "0111",
+                               "showType" : "1",
+                               "latFormat": 1,
+                               "timeFormat": "yyyy.MM.dd E HH:mm",
+                               "weatherFormat": "weather，temperature",
+                               "verticalFlip": 0,
+                               "horizonFlip": 0,
+                               "angle": 0,
+                               "offsetX": 0,
+                               "offsetY": 0,
+                               "name": "天气",
+                               "text": "",
+                               "textAlign": 0,
+                               "fontName": "",
+                               "fontSize": 12.3,
+                               "maxCount": 50,
+                               "lineCount": 0,
+                               "lineSpace": 0,
+                               "characterSpace": 0,
+                               "italic": 0,
+                               "color": {
+                                   "red": 255,
+                                   "green": 255,
+                                   "blue": 255,
+                                   "alpha": 1
+                               }
+                           },
                         
+                           "bgImg": "",
+                           "color": {
+                               "red": 255,
+                               "green": 255,
+                               "blue": 255,
+                               "alpha": 0
+                           }
+                       }
                         
                     ],
                     "textPieces": [
