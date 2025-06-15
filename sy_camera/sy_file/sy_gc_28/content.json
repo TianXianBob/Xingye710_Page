@@ -226,14 +226,14 @@
                         },
                         {
                             "topPadding": 0,
-                            "bottomPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 14,
                                 "y": 0,
                                 "width": 201,
                                 "height": 14.5,
                                 "type": 1,
-                                "editType": "1110",
+                                "editType": "1100",
                                 "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
