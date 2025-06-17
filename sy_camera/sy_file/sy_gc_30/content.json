@@ -121,9 +121,9 @@
                     "textPieces": [
                         {
                             "x": 11,
-                            "y": 2,
+                            "y": 0,
                             "width": 90,
-                            "height": 30,
+                            "height": 34,
                             "type": 1,
                             "editType": "1100",
                             "latFormat": 1,
