@@ -345,7 +345,7 @@
                                 "angle": 0,
                                 "offsetX": 0,
                                 "offsetY": 0,
-                                "name": "地点",
+                                "name": "经纬度",
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
