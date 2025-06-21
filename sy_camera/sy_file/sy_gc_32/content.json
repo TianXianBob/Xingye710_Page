@@ -197,9 +197,9 @@
                 },
                 {
                     "x": 0,
-                    "y": 100.5,
-                    "width": 214.5,
-                    "height": 27.5,
+                    "y": 95.5,
+                    "width": 215,
+                    "height": 21,
                     "color": {
                         "red": 43,
                         "green": 43,
@@ -218,10 +218,10 @@
                             "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 12.5,
+                                "x": 37,
                                 "y": 0,
-                                "width": 202.5,
-                                "height": 14,
+                                "width": 178,
+                                "height": 18.5,
                                 "type": 2,
                                 "editType": "1100",
                                 "showType" : "1",
@@ -237,7 +237,7 @@
                                 "text": "",
                                 "textAlign": 0,
                                 "fontName": "",
-                                "fontSize": 12.3,
+                                "fontSize": 15,
                                 "maxCount": 50,
                                 "lineCount": 0,
                                 "lineSpace": 0,
@@ -250,51 +250,18 @@
                                     "alpha": 1
                                 }
                             },
-                           
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
-                        },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 4,
-                            "textPiece": {
-                                "x": 12.5,
-                                "y": 0,
-                                "width": 202.5,
-                                "height": 14,
-                                "type": 4,
-                                "editType": "0111",
-                                "showType" : "1",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd E HH:mm",
-                                "weatherFormat": "weather，temperature",
+                            "imagePiece": {
+                                "x": 14,
+                                "y": 2.5,
+                                "width": 12.5,
+                                "height": 16,
                                 "verticalFlip": 0,
                                 "horizonFlip": 0,
-                                "angle": 0,
                                 "offsetX": 0,
                                 "offsetY": 0,
-                                "name": "经纬度",
-                                "text": "",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 12.3,
-                                "maxCount": 50,
-                                "lineCount": 0,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_32/img_rect_5.png"
                             },
-                         
                             "bgImg": "",
                             "color": {
                                 "red": 255,

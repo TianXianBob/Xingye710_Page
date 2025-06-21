@@ -274,6 +274,26 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "执勤记录",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_32",
+                    "resId": 32,
+                    "thumbPath": "zhiqingjilu37.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "闭店检查",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_33",
+                    "resId": 33,
+                    "thumbPath": "bidianjiancha39.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
@@ -376,6 +396,36 @@
             "dot": false,
             "title": "物业管理",
             "shuiYings": [
+                {
+                    "syName": "故障维修",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_28",
+                    "resId": 28,
+                    "thumbPath": "guzhangweixiu32.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "物业环卫",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_29",
+                    "resId": 29,
+                    "thumbPath": "wuyehuanwei34.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "消防巡检",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_30",
+                    "resId": 30,
+                    "thumbPath": "xiaofangxunjian35.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
                 {
                     "syName": "日常巡逻",
                     "jsonName": "content.json",
