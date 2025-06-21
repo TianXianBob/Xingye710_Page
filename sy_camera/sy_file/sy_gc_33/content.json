@@ -4,7 +4,7 @@
         "type": 2,
         "canvas": {
             "width": 215,
-            "height": 172,
+            "height": 170,
             "cornerRadius": 0,
             "color": {
                 "red": 64,
@@ -28,9 +28,9 @@
                     "textPieces": [
                         {
                             "x": 68.5,
-                            "y": 15,
+                            "y": 5,
                             "width": 94.5,
-                            "height": 26.5,
+                            "height": 45.5,
                             "type": 0,
                             "editType": "1111",
                             "latFormat": 1,
@@ -124,7 +124,7 @@
                             "topPadding": 0,
                             "bottomPadding": 4,
                             "textPiece": {
-                                "x": 20,
+                                "x": 15.5,
                                 "y": 0,
                                 "width": 195,
                                 "height": 17.5,
@@ -168,7 +168,7 @@
                             "topPadding": 0,
                             "bottomPadding": 2,
                             "textPiece": {
-                                "x": 20,
+                                "x": 15.5,
                                 "y": 0,
                                 "width": 195,
                                 "height": 17.5,
@@ -215,8 +215,8 @@
                     "imagePieces": [
                         {
                             "x": 0,
-                            "y": 2,
-                            "width": 4,
+                            "y": 0,
+                            "width": 3.5,
                             "height": -1,
                             "verticalFlip": 0,
                             "horizonFlip": 0,
@@ -229,7 +229,7 @@
                 },
                 {
                     "x": 0,
-                    "y": 141,
+                    "y": 138,
                     "width": 215,
                     "height": 28,
                     "color": {
@@ -271,9 +271,9 @@
                             "topPadding": 1,
                             "bottomPadding": 1,
                             "textPiece": {
-                                "x": 30.5,
+                                "x": 15.5,
                                 "y": 0,
-                                "width": 184.5,
+                                "width": 200,
                                 "height": 20.5,
                                 "type": 0,
                                 "editType": "1111",
@@ -319,7 +319,7 @@
                         {
                             "x": 0,
                             "y": 0,
-                            "width": 4,
+                            "width": 3.5,
                             "height": -1,
                             "verticalFlip": 0,
                             "horizonFlip": 0,
