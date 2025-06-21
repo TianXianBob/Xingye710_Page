@@ -102,7 +102,7 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "text": "",
-                            "textAlign": 0,
+                            "textAlign": 1,
                             "fontName": "",
                             "fontSize": 34,
                             "maxCount": 50,
