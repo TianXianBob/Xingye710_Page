@@ -12,8 +12,8 @@
 </head>
 <body>
 
-<h2>隐私政策</h2>
-<p>本应用的运营及研发均由个人开发者「陈星辰」（即应用研发方，以下简称“我”）提供。本隐私政策旨在说明我如何收集、使用和保护您的个人信息。将天天水印相机机系统（以下简称“本应用”）应用程序构建为商业应用程序。该服务由我提供，旨在按原样使用。</p>
+<h2><span class="app-name">天天水印相机</span>隐私政策</h2>
+<p><span class="app-name">天天水印相机</span>的运营及研发均由个人开发者「陈星辰」（即应用研发方，以下简称“我”）提供。本隐私政策旨在说明我如何收集、使用和保护您的个人信息。将<span class="app-name">天天水印相机</span>（以下简称“本应用”）应用程序构建为商业应用程序。该服务由我提供，旨在按原样使用。</p>
 <p>如果有人决定使用我的服务，则此页面用于通过我方收集，使用和披露个人信息的方式通知访问者我的政策。</p>
 <p>如果您选择使用我的服务，则表示您同意收集和使用与本政策有关的信息。我收集的个人信息用于提供和改进服务。除本隐私政策中所述外，我不会与任何人使用或共享您的信息。</p>
 <p>除非本隐私政策中另有定义，否则本隐私政策中使用的术语与本应用的条款和条件具有相同的含义，可以在本应用上访问这些条款和条件。</p>
@@ -145,4 +145,24 @@
 联系我们。我们将尽快审核您提出的问题或建议，并在15日内给出反馈。</p>
 
 </div>
+
+<script>
+    const appNameMap = {
+        'tencent': '天天水印相机系统',
+        'default': '天天水印相机'
+    };
+    // 获取 URL 的 query 参数
+    const params = new URLSearchParams(window.location.search);
+
+    // 获取特定参数
+    const source = params.get('source') || 'default';
+    const appName = appNameMap[source] || appNameMap['default'];
+
+    // 替换页面中的应用名称
+    const appNameElements = document.querySelectorAll('.app-name');
+    appNameElements.forEach(element => {
+        element.textContent = appName;
+    });
+</script>
+
 </body></html>
