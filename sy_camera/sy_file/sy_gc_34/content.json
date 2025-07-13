@@ -29,7 +29,7 @@
                         {
                             "x": 90,
                             "y": 22,
-                            "width": 110,
+                            "width": 120,
                             "height": 25,
                             "type": 0,
                             "editType": "1101",
@@ -82,7 +82,7 @@
                         "red": 62,
                         "green": 59,
                         "blue": 56,
-                        "alpha": 0.5
+                        "alpha": 0.8
                     },
                     "bgImg": "",
                     "cellInset": {
