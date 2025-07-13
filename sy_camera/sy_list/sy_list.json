@@ -276,16 +276,6 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "执勤记录",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_32",
-                    "resId": 32,
-                    "thumbPath": "zhiqingjilu37.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
                     "syName": "闭店检查",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_33",
@@ -385,6 +375,15 @@
                     "folderName": "sy_gc_16",
                     "resId": 16,
                     "thumbPath": "gongchengjilu21.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },{
+                    "syName": "现场拍照",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_31",
+                    "resId": 31,
+                    "thumbPath": "xianchangpaizhao36.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
