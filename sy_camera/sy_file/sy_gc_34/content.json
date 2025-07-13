@@ -79,9 +79,9 @@
                     "width": 215,
                     "height": 78,
                     "color": {
-                        "red": 62,
-                        "green": 59,
-                        "blue": 56,
+                        "red": 0,
+                        "green": 0,
+                        "blue": 0,
                         "alpha": 0.8
                     },
                     "bgImg": "",
