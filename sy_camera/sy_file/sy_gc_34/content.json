@@ -5,7 +5,7 @@
         "canvas": {
             "width": 215,
             "height": 132.5,
-            "cornerRadius": 9,
+            "cornerRadius": 0,
             "color": {
                 "red": 64,
                 "green": 85,
