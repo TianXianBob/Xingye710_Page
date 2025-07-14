@@ -109,7 +109,7 @@
                             "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 0,
-                                "y": 13,
+                                "y": 0,
                                 "width": 215,
                                 "height": 16,
                                 "type": 1,
@@ -153,7 +153,7 @@
                             "bottomPadding" : 4,
                             "textPiece": {
                                 "x": 0,
-                                "y": 13,
+                                "y": 0,
                                 "width": 215,
                                 "height": 16,
                                 "type": 2,
@@ -197,7 +197,7 @@
                             "bottomPadding" : 0,
                             "textPiece": {
                                 "x": 0,
-                                "y": 13,
+                                "y": 0,
                                 "width": 215,
                                 "height": 16,
                                 "type": 3,
@@ -241,7 +241,7 @@
                             "bottomPadding" : 0,
                             "textPiece": {
                                 "x": 0,
-                                "y": 13,
+                                "y": 0,
                                 "width": 215,
                                 "height": 16,
                                 "type": 4,
