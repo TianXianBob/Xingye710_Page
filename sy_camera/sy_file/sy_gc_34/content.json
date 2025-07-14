@@ -4,7 +4,7 @@
         "type": 2,
         "canvas": {
             "width": 215,
-            "height": 132.5,
+            "height": 133,
             "cornerRadius": 0,
             "color": {
                 "red": 64,
@@ -87,7 +87,7 @@
                 },
                 {
                     "x": 0,
-                    "y": 54.5,
+                    "y": 55,
                     "width": 215,
                     "height": 78,
                     "color": {
@@ -99,7 +99,7 @@
                     "bgImg": "",
                     "cellInset": {
                         "top": 4,
-                        "bottom": 4,
+                        "bottom": 0,
                         "left": 0,
                         "right": 0
                     },
