@@ -1,6 +1,6 @@
 {
     "data": {
-        "resId": 34,
+        "resId": 39,
         "type": 2,
         "canvas": {
             "width": 215,
@@ -41,7 +41,7 @@
                             "angle": 0,
                             "offsetX": 0,
                             "offsetY": 0,
-                            "text": "手臂训练日",
+                            "text": "有氧训练日",
                             "textAlign": 1,
                             "fontName": "",
                             "fontSize": 23,
