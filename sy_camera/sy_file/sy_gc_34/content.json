@@ -4,7 +4,7 @@
         "type": 2,
         "canvas": {
             "width": 215,
-            "height": 133,
+            "height": 137,
             "cornerRadius": 0,
             "color": {
                 "red": 64,
@@ -108,7 +108,7 @@
                             "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 0,
+                                "x": 4,
                                 "y": 0,
                                 "width": 215,
                                 "height": 16,
@@ -152,7 +152,7 @@
                             "topPadding" : 0,
                             "bottomPadding" : 4,
                             "textPiece": {
-                                "x": 0,
+                                "x": 4,
                                 "y": 0,
                                 "width": 215,
                                 "height": 16,
@@ -196,7 +196,7 @@
                         { "topPadding" : 0,
                             "bottomPadding" : 0,
                             "textPiece": {
-                                "x": 0,
+                                "x": 4,
                                 "y": 0,
                                 "width": 215,
                                 "height": 16,
@@ -240,7 +240,7 @@
                         { "topPadding" : 0,
                             "bottomPadding" : 0,
                             "textPiece": {
-                                "x": 0,
+                                "x": 4,
                                 "y": 0,
                                 "width": 215,
                                 "height": 16,
