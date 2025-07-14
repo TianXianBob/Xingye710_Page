@@ -201,7 +201,7 @@
                                 "width": 203,
                                 "height": 16,
                                 "type": 3,
-                                "editType": "0111",
+                                "editType": "1111",
                                 "showType" : "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
