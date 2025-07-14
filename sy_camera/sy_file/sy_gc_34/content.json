@@ -110,7 +110,7 @@
                             "textPiece": {
                                 "x": 6,
                                 "y": 0,
-                                "width": 215,
+                                "width": 203,
                                 "height": 16,
                                 "type": 1,
                                 "editType": "1100",
@@ -154,7 +154,7 @@
                             "textPiece": {
                                 "x": 6,
                                 "y": 0,
-                                "width": 215,
+                                "width": 203,
                                 "height": 16,
                                 "type": 2,
                                 "editType": "1111",
@@ -198,7 +198,7 @@
                             "textPiece": {
                                 "x": 6,
                                 "y": 0,
-                                "width": 215,
+                                "width": 203,
                                 "height": 16,
                                 "type": 3,
                                 "editType": "1110",
@@ -242,7 +242,7 @@
                             "textPiece": {
                                 "x": 6,
                                 "y": 0,
-                                "width": 215,
+                                "width": 203,
                                 "height": 16,
                                 "type": 4,
                                 "editType": "0111",
