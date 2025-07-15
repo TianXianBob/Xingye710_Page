@@ -300,7 +300,7 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_35",
                     "resId": 35,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "xiongbuxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -310,7 +310,7 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_36",
                     "resId": 36,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "beibuxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -321,7 +321,7 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_37",
                     "resId": 37,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "jianbuxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -331,7 +331,7 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_38",
                     "resId": 38,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "tuibuxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -341,17 +341,17 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_39",
                     "resId": 39,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "youyangxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "无氧训练日",
+                    "syName": "力量训练日",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_40",
                     "resId": 40,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "liliangxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -686,7 +686,7 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_35",
                     "resId": 35,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "xiongbuxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -696,7 +696,7 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_36",
                     "resId": 36,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "beibuxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -707,7 +707,7 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_37",
                     "resId": 37,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "jianbuxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -717,7 +717,7 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_38",
                     "resId": 38,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "tuibuxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -727,17 +727,17 @@
                     "jsonName": "content.json",
                     "folderName": "sy_gc_39",
                     "resId": 39,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "youyangxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "无氧训练日",
+                    "syName": "力量训练日",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_40",
                     "resId": 40,
-                    "thumbPath": "shoubixunlianri40.png",
+                    "thumbPath": "liliangxunlian.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
