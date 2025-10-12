@@ -384,6 +384,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "收市检查",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_44",
+                    "resId": 44,
+                    "thumbPath": "shoushijiancha44.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },

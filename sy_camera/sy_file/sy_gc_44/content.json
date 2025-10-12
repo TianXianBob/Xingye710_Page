@@ -1,0 +1,381 @@
+{
+    "data": {
+        "resId": 44,
+        "type": 2,
+        "canvas": {
+            "width": 215,
+            "height": 180,
+            "cornerRadius": 0,
+            "color": {
+                "red": 64,
+                "green": 85,
+                "blue": 199,
+                "alpha": 0
+            },
+            "rects": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 215,
+                    "height": 90,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 75.5,
+                            "y": 14.5,
+                            "width": 94.5,
+                            "height": 28,
+                            "type": 0,
+                            "editType": "1101",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd HH:mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "收市检查",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 23.5,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        },
+                        {
+                            "x": 86,
+                            "y": 60,
+                            "width": 54.5,
+                            "height": 21.5,
+                            "type": 1,
+                            "editType": "1101",
+                            "showType" : "0",
+                            "latFormat": 1,
+                            "timeFormat": "HH:mm",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "name": "盘点",
+                            "text": "",
+                            "textAlign": 0,
+                            "fontName": "",
+                            "fontSize": 20,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 0,
+                                "green": 0,
+                                "blue": 0,
+                                "alpha": 1
+                            }
+                        }
+
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 12,
+                            "y": 5,
+                            "width": 170,
+                            "height": 45.5,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_44/img_rect_4.png"
+                        },
+                        {
+                            "x": 13,
+                            "y": 56,
+                            "width": 143.5,
+                            "height": 30,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_44/img_rect_1.png"
+                        }
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 91,
+                    "width": 215,
+                    "height": 59.5,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "cells": [
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 0,
+                                "width": 201,
+                                "height": 24,
+                                "type": 1,
+                                "editType": "1100",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd  HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "拍摄时间",
+                                "showType": "0",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 2,
+                            "textPiece": {
+                                "x": 14,
+                                "y": 0,
+                                "width": 201,
+                                "height": 24,
+                                "type": 2,
+                                "editType": "1110",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "地 点",
+                                "showType": "0",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 2,
+                            "textPiece": {
+                                "x": 10,
+                                "y": 0,
+                                "width": 195,
+                                "height": 17.5,
+                                "type": 3,
+                                "editType": "0111",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "天 气",
+                                "showType": "1",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "width": 4.5,
+                            "height": -1,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_44/img_rect_2.png"
+                        }
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 151,
+                    "width": 215,
+                    "height": 27.5,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "gradientColor": {
+                        "cornerRadius" : 4,
+                        "gradientInsets": {
+                            "top": 0,
+                            "left": 6,
+                            "right": 0,
+                            "bottom": 0
+                        },
+                        "startPointX": 0,
+                        "startPointY": 0,
+                        "endPointX": 1,
+                        "endPointY": 0,
+                        "gradientColors": [
+                            {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0.3
+                            },
+                            {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        ]
+                    },
+                    "bgImg": "",
+                    "cells": [
+                        {
+                            "topPadding": 1,
+                            "bottomPadding": 1,
+                            "textPiece": {
+                                "x": 10,
+                                "y": 0,
+                                "width": 200,
+                                "height": 20.5,
+                                "type": 0,
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd  HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "showType": "1",
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "请输入拍摄人",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+                       
+                    ]
+                }
+            ]
+        }
+    }
+}
