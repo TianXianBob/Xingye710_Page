@@ -365,6 +365,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "采购",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_42",
+                    "resId": 42,
+                    "thumbPath": "caigou42.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
