@@ -27,7 +27,7 @@
                     "bgImg": "",
                     "textPieces": [
                         {
-                            "x": 75.5,
+                            "x": 69.5,
                             "y": 14.5,
                             "width": 94.5,
                             "height": 28,
@@ -58,7 +58,7 @@
                             }
                         },
                         {
-                            "x": 86,
+                            "x": 81,
                             "y": 60,
                             "width": 54.5,
                             "height": 21.5,
@@ -94,7 +94,7 @@
                     ],
                     "imagePieces": [
                         {
-                            "x": 12,
+                            "x": 8,
                             "y": 5,
                             "width": 170,
                             "height": 45.5,
@@ -106,7 +106,7 @@
                             "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_44/img_rect_4.png"
                         },
                         {
-                            "x": 13,
+                            "x": 8,
                             "y": 56,
                             "width": 143.5,
                             "height": 30,
