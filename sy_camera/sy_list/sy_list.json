@@ -276,16 +276,6 @@
                     "thumbHeight": 240
                 },
                 {
-                    "syName": "闭店检查",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_33",
-                    "resId": 33,
-                    "thumbPath": "bidianjiancha39.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
                     "syName": "手臂训练日",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_34",
@@ -361,6 +351,16 @@
                     "folderName": "sy_gc_41",
                     "resId": 41,
                     "thumbPath": "shipinliuyang41.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "闭店检查",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_33",
+                    "resId": 33,
+                    "thumbPath": "bidianjiancha39.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
