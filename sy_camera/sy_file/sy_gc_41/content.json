@@ -64,7 +64,7 @@
                             "height": 21,
                             "type": 0,
                             "editType": "1101",
-                            "showType" : "1",
+                            "showType": "1",
                             "latFormat": 1,
                             "timeFormat": "yyyy-MM-dd HH:mm:ss",
                             "weatherFormat": "weather，temperature",
@@ -90,7 +90,6 @@
                                 "alpha": 1
                             }
                         }
-
                     ],
                     "imagePieces": [
                         {
@@ -251,6 +250,50 @@
                                 "blue": 255,
                                 "alpha": 0
                             }
+                        },
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 2,
+                            "textPiece": {
+                                "x": 10,
+                                "y": 0,
+                                "width": 195,
+                                "height": 17.5,
+                                "type": 4,
+                                "editType": "0111",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "经纬度",
+                                "showType": "1",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
                         }
                     ],
                     "textPieces": [
@@ -283,7 +326,7 @@
                         "alpha": 0
                     },
                     "gradientColor": {
-                        "cornerRadius" : 4,
+                        "cornerRadius": 4,
                         "gradientInsets": {
                             "top": 0,
                             "left": 6,
