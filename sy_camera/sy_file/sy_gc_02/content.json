@@ -1,303 +1,300 @@
 {
-    "data": {
-        "resId": 2,
-        "type": 1,
-        "canvas": {
-            "width": 257,
-            "height": 117,
-            "cornerRadius": 0,
-            "color": {
-                "red": 64,
-                "green": 85,
-                "blue": 199,
-                "alpha": 0
+  "data": {
+    "resId": 2,
+    "type": 1,
+    "canvas": {
+      "width": 257,
+      "height": 117,
+      "cornerRadius": 0,
+      "color": {
+        "red": 64,
+        "green": 85,
+        "blue": 199,
+        "alpha": 0
+      },
+      "rects": [
+        {
+          "x": 0,
+          "y": 13,
+          "width": 257,
+          "height": 37.5,
+          "color": {
+            "red": 255,
+            "green": 255,
+            "blue": 255,
+            "alpha": 0
+          },
+          "bgImg": "",
+          "textPieces": [
+            {
+              "x": 14,
+              "y": 9.5,
+              "width": 35,
+              "height": 19,
+              "type": 0,
+              "editType": "1000",
+              "latFormat": 1,
+              "timeFormat": "yyyy-MM-dd HH:mm:ss",
+              "weatherFormat": "weather，temperature",
+              "verticalFlip": 0,
+              "horizonFlip": 0,
+              "angle": 0,
+              "offsetX": 0,
+              "offsetY": 0,
+              "text": "打卡",
+              "textAlign": 1,
+              "fontName": "xiaowei",
+              "fontSize": 15,
+              "maxCount": 50,
+              "lineCount": 1,
+              "lineSpace": 0,
+              "characterSpace": -2,
+              "italic": 0,
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              }
             },
-            "rects": [
-                {
-                    "x": 0,
-                    "y": 13,
-                    "width": 257,
-                    "height": 37.5,
-                    "color": {
-                        "red": 255,
-                        "green": 255,
-                        "blue": 255,
-                        "alpha": 0
-                    },
-                    "bgImg": "",
-                    "textPieces": [
-                        {
-                            "x": 14,
-                            "y": 9.5,
-                            "width": 35,
-                            "height": 19,
-                            "type": 0,
-                            "editType": "1000",
-                            "latFormat": 1,
-                            "timeFormat": "yyyy-MM-dd HH:mm:ss",
-                            "weatherFormat": "weather，temperature",
-                            "verticalFlip": 0,
-                            "horizonFlip": 0,
-                            "angle": 0,
-                            "offsetX": 0,
-                            "offsetY": 0,
-                            "text": "打卡",
-                            "textAlign": 1,
-                            "fontName": "xiaowei",
-                            "fontSize": 15,
-                            "maxCount": 50,
-                            "lineCount": 1,
-                            "lineSpace": 0,
-                            "characterSpace": -2,
-                            "italic": 0,
-                            "color": {
-                                "red": 0,
-                                "green": 0,
-                                "blue": 0,
-                                "alpha": 1
-                            }
-                        },
-                        {
-                            "x": 52,
-                            "y": 8.5,
-                            "width": 61.5,
-                            "height": 22,
-                            "type": 1,
-                            "editType": "1000",
-                            "latFormat": 1,
-                            "timeFormat": "HH:mm",
-                            "weatherFormat": "weather，temperature",
-                            "verticalFlip": 0,
-                            "horizonFlip": 0,
-                            "angle": 0,
-                            "offsetX": 0,
-                            "offsetY": 0,
-                            "text": "",
-                            "textAlign": 1,
-                            "fontName": "xiaowei",
-                            "fontSize": 27.5,
-                            "maxCount": 50,
-                            "lineCount": 1,
-                            "lineSpace": 0,
-                            "characterSpace": 0,
-                            "italic": 0,
-                            "color": {
-                                "red": 0,
-                                "green": 0,
-                                "blue": 0,
-                                "alpha": 1
-                            }
-                        }
-                    ],
-                    "imagePieces": [
-                        {
-                            "x": 9,
-                            "y": 2.5,
-                            "width": 108.5,
-                            "height": 32.5,
-                            "verticalFlip": 0,
-                            "horizonFlip": 0,
-                            "offsetX": 0,
-                            "offsetY": 0,
-                            "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_5.png"
-                        }
-                    ]
-                },
-                {
-                    "x": 0,
-                    "y": 55,
-                    "width": 257,
-                    "height": 49,
-                    "color": {
-                        "red": 255,
-                        "green": 255,
-                        "blue": 255,
-                        "alpha": 0
-                    },
-                    "bgImg": "",
-                    "cells": [
-                        {
-                            "textPiece": {
-                                "x": 16.5,
-                                "y": 2.5,
-                                "width": 240,
-                                "height": 20,
-                                "type": 2,
-                                "editType": "1100",
-                                "latFormat": 1,
-                                "timeFormat": "HH:mm",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "text": "",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 15,
-                                "maxCount": 50,
-                                "lineCount": 1,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
-                        },
-                        {
-                            "textPiece": {
-                                "x": 16.5,
-                                "y": 2.5,
-                                "width": 240,
-                                "height": 20,
-                                "type": 1,
-                                "editType": "1100",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd E",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "text": "",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 15,
-                                "maxCount": 50,
-                                "lineCount": 0,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
-                        },
-                        {
-                            "textPiece": {
-                                "x": 16.5,
-                                "y": 2.5,
-                                "width": 240,
-                                "height": 20,
-                                "type": 3,
-                                "editType": "0111",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "text": "",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 15,
-                                "maxCount": 50,
-                                "lineCount": 0,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
-                        },
-                        {
-                            "textPiece": {
-                                "x": 16.5,
-                                "y": 2.5,
-                                "width": 240,
-                                "height": 20,
-                                "type": 4,
-                                "editType": "0111",
-                                "latFormat": 1,
-                                "timeFormat": "yyyy.MM.dd",
-                                "weatherFormat": "weather，temperature",
-                                "verticalFlip": 0,
-                                "horizonFlip": 0,
-                                "angle": 0,
-                                "offsetX": 0,
-                                "offsetY": 0,
-                                "text": "",
-                                "textAlign": 0,
-                                "fontName": "",
-                                "fontSize": 15,
-                                "maxCount": 50,
-                                "lineCount": 0,
-                                "lineSpace": 0,
-                                "characterSpace": 0,
-                                "italic": 0,
-                                "color": {
-                                    "red": 255,
-                                    "green": 255,
-                                    "blue": 255,
-                                    "alpha": 1
-                                }
-                            },
-                            "bgImg": "",
-                            "color": {
-                                "red": 255,
-                                "green": 255,
-                                "blue": 255,
-                                "alpha": 0
-                            }
-                        }
-                    ],
-                    "textPieces": [
-                        
-                    ],
-                    "imagePieces": [
-                        {
-                            "x": 9,
-                            "y": 0,
-                            "width": 3,
-                            "height": -1,
-                            "verticalFlip": 0,
-                            "horizonFlip": 0,
-                            "offsetX": 0,
-                            "offsetY": 0,
-                            "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_6.png"
-                        }
-                        
-                    ]
+            {
+              "x": 52,
+              "y": 8.5,
+              "width": 61.5,
+              "height": 22,
+              "type": 1,
+              "editType": "1000",
+              "latFormat": 1,
+              "timeFormat": "HH:mm",
+              "weatherFormat": "weather，temperature",
+              "verticalFlip": 0,
+              "horizonFlip": 0,
+              "angle": 0,
+              "offsetX": 0,
+              "offsetY": 0,
+              "text": "",
+              "textAlign": 1,
+              "fontName": "xiaowei",
+              "fontSize": 27.5,
+              "maxCount": 50,
+              "lineCount": 1,
+              "lineSpace": 0,
+              "characterSpace": 0,
+              "italic": 0,
+              "color": {
+                "red": 0,
+                "green": 0,
+                "blue": 0,
+                "alpha": 1
+              }
+            }
+          ],
+          "imagePieces": [
+            {
+              "x": 9,
+              "y": 2.5,
+              "width": 108.5,
+              "height": 32.5,
+              "verticalFlip": 0,
+              "horizonFlip": 0,
+              "offsetX": 0,
+              "offsetY": 0,
+              "angle": 0,
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_5.png"
+            }
+          ]
+        },
+        {
+          "x": 0,
+          "y": 55,
+          "width": 257,
+          "height": 49,
+          "color": {
+            "red": 255,
+            "green": 255,
+            "blue": 255,
+            "alpha": 0
+          },
+          "bgImg": "",
+          "cells": [
+            {
+              "textPiece": {
+                "x": 16.5,
+                "y": 2.5,
+                "width": 240,
+                "height": 20,
+                "type": 2,
+                "editType": "1101",
+                "latFormat": 1,
+                "timeFormat": "HH:mm",
+                "weatherFormat": "weather，temperature",
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "angle": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "text": "",
+                "textAlign": 0,
+                "fontName": "",
+                "fontSize": 15,
+                "maxCount": 50,
+                "lineCount": 1,
+                "lineSpace": 0,
+                "characterSpace": 0,
+                "italic": 0,
+                "color": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 1
                 }
-            ]
+              },
+              "bgImg": "",
+              "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 0
+              }
+            },
+            {
+              "textPiece": {
+                "x": 16.5,
+                "y": 2.5,
+                "width": 240,
+                "height": 20,
+                "type": 1,
+                "editType": "1100",
+                "latFormat": 1,
+                "timeFormat": "yyyy.MM.dd E",
+                "weatherFormat": "weather，temperature",
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "angle": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "text": "",
+                "textAlign": 0,
+                "fontName": "",
+                "fontSize": 15,
+                "maxCount": 50,
+                "lineCount": 0,
+                "lineSpace": 0,
+                "characterSpace": 0,
+                "italic": 0,
+                "color": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 1
+                }
+              },
+              "bgImg": "",
+              "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 0
+              }
+            },
+            {
+              "textPiece": {
+                "x": 16.5,
+                "y": 2.5,
+                "width": 240,
+                "height": 20,
+                "type": 3,
+                "editType": "0111",
+                "latFormat": 1,
+                "timeFormat": "yyyy.MM.dd",
+                "weatherFormat": "weather，temperature",
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "angle": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "text": "",
+                "textAlign": 0,
+                "fontName": "",
+                "fontSize": 15,
+                "maxCount": 50,
+                "lineCount": 0,
+                "lineSpace": 0,
+                "characterSpace": 0,
+                "italic": 0,
+                "color": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 1
+                }
+              },
+              "bgImg": "",
+              "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 0
+              }
+            },
+            {
+              "textPiece": {
+                "x": 16.5,
+                "y": 2.5,
+                "width": 240,
+                "height": 20,
+                "type": 4,
+                "editType": "0111",
+                "latFormat": 1,
+                "timeFormat": "yyyy.MM.dd",
+                "weatherFormat": "weather，temperature",
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "angle": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "text": "",
+                "textAlign": 0,
+                "fontName": "",
+                "fontSize": 15,
+                "maxCount": 50,
+                "lineCount": 0,
+                "lineSpace": 0,
+                "characterSpace": 0,
+                "italic": 0,
+                "color": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 1
+                }
+              },
+              "bgImg": "",
+              "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 0
+              }
+            }
+          ],
+          "textPieces": [],
+          "imagePieces": [
+            {
+              "x": 9,
+              "y": 0,
+              "width": 3,
+              "height": -1,
+              "verticalFlip": 0,
+              "horizonFlip": 0,
+              "offsetX": 0,
+              "offsetY": 0,
+              "angle": 0,
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_6.png"
+            }
+          ]
         }
+      ]
     }
+  }
 }

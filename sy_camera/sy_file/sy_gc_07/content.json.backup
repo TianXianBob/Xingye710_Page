@@ -1,0 +1,235 @@
+{
+    "data": {
+        "resId": 7,
+        "type": 1,
+        "canvas": {
+            "width": 196.5,
+            "height": 110,
+            "cornerRadius": 9,
+            "color": {
+                "red": 246,
+                "green": 246,
+                "blue": 244,
+                "alpha": 0
+            },
+            "rects": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 196.5,
+                    "height": 110,
+                    "cornerRadius": 9,
+                    "color": {
+                        "red": 246,
+                        "green": 246,
+                        "blue": 244,
+                        "alpha": 0.4
+                    },
+                    "bgImg": "",
+                    "cellInset": {
+                        "top": 9,
+                        "bottom": 9,
+                        "left": 6,
+                        "right": 6
+                    },
+                    "cells": [
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
+                            "textPiece": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 184,
+                                "height": 18,
+                                "type": 0,
+                                "name": "工程名称",
+                                "showType": "1",
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "text": "XX变电站工程",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
+                            "textPiece": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 184,
+                                "height": 18,
+                                "type": 0,
+                                "name": "施工部位",
+                                "editType": "1111",
+                                "showType": "1",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "text": "主控楼屋面浇筑",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
+                            "textPiece": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 184,
+                                "height": 18,
+                                "type": 1,
+                                "name": "时      间",
+                                "showType": "1",
+                                "editType": "1100",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy年MM月dd日",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 0,
+                            "textPiece": {
+                                "x": 0,
+                                "y": 0,
+                                "width": 184,
+                                "height": 18,
+                                "type": 2,
+                                "name": "地      点",
+                                "editType": "1110",
+                                "showType": "1",
+                                "latFormat": 1,
+                                "timeFormat": "时      间：yyyy年MM月dd日",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 0,
+                                    "green": 0,
+                                    "blue": 0,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+
+                    ]
+                }
+            ]
+        }
+    }
+}
