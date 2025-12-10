@@ -394,6 +394,46 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "小象超市",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_45",
+                    "resId": 45,
+                    "thumbPath": "xiaoxiang45.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "多多买菜",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_46",
+                    "resId": 46,
+                    "thumbPath": "duoduo46.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "叮咚买菜",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_47",
+                    "resId": 47,
+                    "thumbPath": "dingdong47.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "盒马生鲜",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_48",
+                    "resId": 48,
+                    "thumbPath": "hema48.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
