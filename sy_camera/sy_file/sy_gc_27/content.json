@@ -55,7 +55,8 @@
                 "green": 255,
                 "blue": 255,
                 "alpha": 1
-              }
+              },
+              "layoutMode": 0
             },
             {
               "x": 138,
@@ -86,7 +87,8 @@
                 "green": 175,
                 "blue": 255,
                 "alpha": 1
-              }
+              },
+              "layoutMode": 0
             }
           ],
           "imagePieces": [
@@ -100,9 +102,11 @@
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_27/img_rect_3.png"
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_27/img_rect_3.png",
+              "layoutMode": 0
             }
-          ]
+          ],
+          "layoutMode": 1
         },
         {
           "x": 0,
@@ -156,9 +160,12 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
-              "imagePiece": {},
+              "imagePiece": {
+                "layoutMode": 0
+              },
               "bgImg": "",
               "color": {
                 "red": 255,
@@ -201,9 +208,12 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
-              "imagePiece": {},
+              "imagePiece": {
+                "layoutMode": 0
+              },
               "bgImg": "",
               "color": {
                 "red": 255,
@@ -246,9 +256,12 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
-              "imagePiece": {},
+              "imagePiece": {
+                "layoutMode": 0
+              },
               "bgImg": "",
               "color": {
                 "red": 255,
@@ -291,9 +304,12 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
-              "imagePiece": {},
+              "imagePiece": {
+                "layoutMode": 0
+              },
               "bgImg": "",
               "color": {
                 "red": 255,
@@ -315,9 +331,11 @@
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_27/img_rect_4.png"
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_27/img_rect_4.png",
+              "layoutMode": 0
             }
-          ]
+          ],
+          "layoutMode": 1
         },
         {
           "x": 0,
@@ -332,9 +350,11 @@
           },
           "bgImg": "",
           "textPieces": [],
-          "imagePieces": []
+          "imagePieces": [],
+          "layoutMode": 1
         }
       ]
-    }
+    },
+    "version": "0.0.1"
   }
 }

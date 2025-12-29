@@ -55,7 +55,8 @@
                 "green": 0,
                 "blue": 0,
                 "alpha": 1
-              }
+              },
+              "layoutMode": 0
             },
             {
               "x": 52,
@@ -86,7 +87,8 @@
                 "green": 0,
                 "blue": 0,
                 "alpha": 1
-              }
+              },
+              "layoutMode": 0
             }
           ],
           "imagePieces": [
@@ -100,9 +102,11 @@
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_5.png"
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_5.png",
+              "layoutMode": 0
             }
-          ]
+          ],
+          "layoutMode": 1
         },
         {
           "x": 0,
@@ -147,7 +151,8 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
               "bgImg": "",
               "color": {
@@ -187,7 +192,8 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
               "bgImg": "",
               "color": {
@@ -227,7 +233,8 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
               "bgImg": "",
               "color": {
@@ -267,7 +274,8 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
               "bgImg": "",
               "color": {
@@ -290,11 +298,14 @@
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_6.png"
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_02/img_rect_6.png",
+              "layoutMode": 0
             }
-          ]
+          ],
+          "layoutMode": 1
         }
       ]
-    }
+    },
+    "version": "0.0.1"
   }
 }

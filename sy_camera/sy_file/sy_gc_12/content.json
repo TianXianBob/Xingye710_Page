@@ -111,7 +111,8 @@
                 "green": 255,
                 "blue": 255,
                 "alpha": 1
-              }
+              },
+              "layoutMode": 0
             },
             {
               "x": 76.5,
@@ -160,7 +161,8 @@
                 "green": 255,
                 "blue": 255,
                 "alpha": 1
-              }
+              },
+              "layoutMode": 0
             }
           ],
           "imagePieces": [
@@ -174,9 +176,11 @@
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_12/img_rect_4.png"
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_12/img_rect_4.png",
+              "layoutMode": 0
             }
-          ]
+          ],
+          "layoutMode": 1
         },
         {
           "x": 0,
@@ -238,7 +242,8 @@
                 "green": 255,
                 "blue": 255,
                 "alpha": 1
-              }
+              },
+              "layoutMode": 0
             },
             {
               "x": 76.5,
@@ -287,10 +292,12 @@
                 "green": 255,
                 "blue": 255,
                 "alpha": 1
-              }
+              },
+              "layoutMode": 0
             }
           ],
-          "imagePieces": []
+          "imagePieces": [],
+          "layoutMode": 1
         },
         {
           "x": 0,
@@ -353,7 +360,8 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
               "imagePiece": {
                 "x": 10.5,
@@ -365,7 +373,8 @@
                 "offsetX": 0,
                 "offsetY": 0,
                 "angle": 0,
-                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_12/img_rect_3.png"
+                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_12/img_rect_3.png",
+                "layoutMode": 0
               },
               "bgImg": "",
               "color": {
@@ -423,7 +432,8 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
               "imagePiece": {
                 "x": 10.5,
@@ -435,7 +445,8 @@
                 "offsetX": 0,
                 "offsetY": 0,
                 "angle": 0,
-                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_12/img_rect_3.png"
+                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_12/img_rect_3.png",
+                "layoutMode": 0
               },
               "bgImg": "",
               "color": {
@@ -493,7 +504,8 @@
                   "green": 255,
                   "blue": 255,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
               "imagePiece": {
                 "x": 10.5,
@@ -505,7 +517,8 @@
                 "offsetX": 0,
                 "offsetY": 0,
                 "angle": 0,
-                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_01/img_rect_3.png"
+                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_01/img_rect_3.png",
+                "layoutMode": 0
               },
               "bgImg": "",
               "color": {
@@ -517,9 +530,11 @@
             }
           ],
           "textPieces": [],
-          "imagePieces": []
+          "imagePieces": [],
+          "layoutMode": 1
         }
       ]
-    }
+    },
+    "version": "0.0.1"
   }
 }
