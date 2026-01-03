@@ -41,7 +41,7 @@
               "angle": 0,
               "offsetX": 0,
               "offsetY": 0,
-              "text": "工程记录",
+              "text": "工程验收",
               "textAlign": 1,
               "fontName": "",
               "fontSize": 15,
@@ -56,7 +56,7 @@
                 "blue": 255,
                 "alpha": 1
               },
-              "layoutMode": 0
+              "layoutMode": 1
             }
           ],
           "imagePieces": [
