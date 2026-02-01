@@ -6,6 +6,16 @@
             "title": "推荐",
             "shuiYings": [
                 {
+                    "syName": "文化下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_49",
+                    "resId": 49,
+                    "thumbPath": "kaoqingdaka5.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
                     "syName": "考勤打卡",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_03",
