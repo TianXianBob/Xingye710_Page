@@ -67,9 +67,12 @@
                   "green": 0,
                   "blue": 0,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
-              "imagePiece": {},
+              "imagePiece": {
+                "layoutMode": 0
+              },
               "bgImg": "",
               "color": {
                 "red": 255,
@@ -112,9 +115,12 @@
                   "green": 0,
                   "blue": 0,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
-              "imagePiece": {},
+              "imagePiece": {
+                "layoutMode": 0
+              },
               "bgImg": "",
               "color": {
                 "red": 255,
@@ -157,9 +163,12 @@
                   "green": 0,
                   "blue": 0,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
-              "imagePiece": {},
+              "imagePiece": {
+                "layoutMode": 0
+              },
               "bgImg": "",
               "color": {
                 "red": 255,
@@ -202,9 +211,12 @@
                   "green": 0,
                   "blue": 0,
                   "alpha": 1
-                }
+                },
+                "layoutMode": 1
               },
-              "imagePiece": {},
+              "imagePiece": {
+                "layoutMode": 0
+              },
               "bgImg": "",
               "color": {
                 "red": 255,
@@ -215,9 +227,11 @@
             }
           ],
           "textPieces": [],
-          "imagePieces": []
+          "imagePieces": [],
+          "layoutMode": 1
         }
       ]
-    }
+    },
+    "version": "0.0.1"
   }
 }
