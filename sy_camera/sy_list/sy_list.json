@@ -484,6 +484,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "普法下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_54",
+                    "resId": 54,
+                    "thumbPath": "pfxx54.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
