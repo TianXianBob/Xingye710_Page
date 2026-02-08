@@ -100,7 +100,7 @@
               "bottomPadding": 4,
               "textPiece": {
                 "x": 8.5,
-                "y": 3.5,
+                "y": 0,
                 "width": 198,
                 "height": 16,
                 "type": 1,
@@ -145,7 +145,7 @@
               "bottomPadding": 4,
               "textPiece": {
                   "x": 8.5,
-                  "y": 3.5,
+                  "y": 0,
                 "width": 198,
                 "height": 16,
                 "type": 0,
@@ -190,7 +190,7 @@
               "bottomPadding": 4,
               "textPiece": {
                   "x": 8.5,
-                  "y": 3.5,
+                  "y": 0,
                 "width": 198,
                 "height": 16,
                 "type": 2,
@@ -235,7 +235,7 @@
               "bottomPadding": 4,
               "textPiece": {
                   "x": 8.5,
-                  "y": 3.5,
+                  "y": 0,
                 "width": 201,
                 "height": 14.5,
                 "type": 3,
