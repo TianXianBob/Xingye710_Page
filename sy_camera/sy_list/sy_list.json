@@ -434,76 +434,6 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
-                },
-                {
-                    "syName": "农技下乡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_49",
-                    "resId": 49,
-                    "thumbPath": "nongjixiaxiang49.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "科普下乡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_50",
-                    "resId": 50,
-                    "thumbPath": "kepuxiaxiang50.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "政策宣讲",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_51",
-                    "resId": 51,
-                    "thumbPath": "zcxj51.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "义诊下乡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_52",
-                    "resId": 52,
-                    "thumbPath": "yzxx52.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "禁毒下乡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_53",
-                    "resId": 53,
-                    "thumbPath": "jdxx53.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "普法下乡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_54",
-                    "resId": 54,
-                    "thumbPath": "pfxx54.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
-                    "syName": "文化下乡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_55",
-                    "resId": 55,
-                    "thumbPath": "whxx55.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
                 }
             ]
         },
@@ -934,6 +864,83 @@
                     "folderName": "sy_gc_43",
                     "resId": 42,
                     "thumbPath": "pandian43.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                }
+            ]
+        },
+{
+            "type": 10,
+            "dot": false,
+            "title": "政务记录",
+            "shuiYings": [
+                 {
+                    "syName": "农技下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_49",
+                    "resId": 49,
+                    "thumbPath": "nongjixiaxiang49.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "科普下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_50",
+                    "resId": 50,
+                    "thumbPath": "kepuxiaxiang50.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "政策宣讲",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_51",
+                    "resId": 51,
+                    "thumbPath": "zcxj51.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "义诊下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_52",
+                    "resId": 52,
+                    "thumbPath": "yzxx52.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "禁毒下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_53",
+                    "resId": 53,
+                    "thumbPath": "jdxx53.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "普法下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_54",
+                    "resId": 54,
+                    "thumbPath": "pfxx54.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "文化下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_55",
+                    "resId": 55,
+                    "thumbPath": "whxx55.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
