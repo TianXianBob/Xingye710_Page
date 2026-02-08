@@ -1,6 +1,6 @@
 {
   "data": {
-    "resId": 50,
+    "resId": 53,
     "type": 2,
     "canvas": {
       "width": 215,
@@ -27,10 +27,10 @@
           "bgImg": "",
           "textPieces": [
             {
-              "x": 80.5,
-              "y": 11.5,
-              "width": 119,
-              "height": 30,
+              "x": 34,
+              "y": 28,
+              "width": 122.5,
+              "height": 25.5,
               "type": 0,
               "editType": "1000",
               "latFormat": 1,
@@ -41,10 +41,10 @@
               "angle": 0,
               "offsetX": 0,
               "offsetY": 0,
-              "text": "科普下乡",
+              "text": "禁毒下乡",
               "textAlign": 1,
               "fontName": "",
-              "fontSize": 29,
+              "fontSize": 30,
               "maxCount": 50,
               "lineCount": 1,
               "lineSpace": 0,
@@ -62,15 +62,15 @@
           "imagePieces": [
             {
               "x": 2.5,
-              "y": 0.5,
-              "width": 196,
-              "height": 62.5,
+              "y": 6,
+              "width": 190,
+              "height": 55,
               "verticalFlip": 0,
               "horizonFlip": 0,
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_50/img_rect_1.png",
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_53/img_rect_2.png",
               "layoutMode": 0
             }
           ],

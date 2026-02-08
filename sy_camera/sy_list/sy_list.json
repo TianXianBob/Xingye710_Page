@@ -474,6 +474,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "禁毒下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_53",
+                    "resId": 53,
+                    "thumbPath": "jdxx53.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
