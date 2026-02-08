@@ -444,6 +444,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "科普下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_50",
+                    "resId": 50,
+                    "thumbPath": "kepuxiaxiang50.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
