@@ -30,7 +30,7 @@
               "x": 56.5,
               "y": 23,
               "width": 121,
-              "height": 22.5,
+              "height": 25,
               "type": 0,
               "editType": "1000",
               "latFormat": 1,
@@ -44,7 +44,7 @@
               "text": "农技下乡",
               "textAlign": 1,
               "fontName": "",
-              "fontSize": 28,
+              "fontSize": 27,
               "maxCount": 50,
               "lineCount": 1,
               "lineSpace": 0,
@@ -100,7 +100,7 @@
               "bottomPadding": 4,
               "textPiece": {
                 "x": 8.5,
-                "y": 8.5,
+                "y": 3.5,
                 "width": 198,
                 "height": 16,
                 "type": 1,
@@ -145,7 +145,7 @@
               "bottomPadding": 4,
               "textPiece": {
                   "x": 8.5,
-                  "y": 8.5,
+                  "y": 3.5,
                 "width": 198,
                 "height": 16,
                 "type": 0,
@@ -190,7 +190,7 @@
               "bottomPadding": 4,
               "textPiece": {
                   "x": 8.5,
-                  "y": 8.5,
+                  "y": 3.5,
                 "width": 198,
                 "height": 16,
                 "type": 2,
@@ -235,7 +235,7 @@
               "bottomPadding": 4,
               "textPiece": {
                   "x": 8.5,
-                  "y": 8.5,
+                  "y": 3.5,
                 "width": 201,
                 "height": 14.5,
                 "type": 3,
@@ -280,7 +280,7 @@
               "bottomPadding": 4,
               "textPiece": {
                   "x": 8.5,
-                  "y": 8.5,
+                  "y": 3.5,
                 "width": 201,
                 "height": 14.5,
                 "type": 4,
