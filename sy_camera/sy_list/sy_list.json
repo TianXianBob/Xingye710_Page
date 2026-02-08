@@ -6,16 +6,6 @@
             "title": "推荐",
             "shuiYings": [
                 {
-                    "syName": "文化下乡",
-                    "jsonName": "content.json",
-                    "folderName": "sy_gc_49",
-                    "resId": 49,
-                    "thumbPath": "kaoqingdaka5.png",
-                    "version": "0.0.1",
-                    "thumbWidth": 480,
-                    "thumbHeight": 240
-                },
-                {
                     "syName": "考勤打卡",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_03",
@@ -441,6 +431,16 @@
                     "folderName": "sy_gc_48",
                     "resId": 48,
                     "thumbPath": "4hema48.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "农技下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_49",
+                    "resId": 49,
+                    "thumbPath": "nongjixiaxiang49.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
