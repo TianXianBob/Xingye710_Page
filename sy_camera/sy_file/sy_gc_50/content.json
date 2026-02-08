@@ -27,10 +27,10 @@
           "bgImg": "",
           "textPieces": [
             {
-              "x": 76.5,
+              "x": 80.5,
               "y": 14.5,
-              "width": 109,
-              "height": 26,
+              "width": 119,
+              "height": 30,
               "type": 0,
               "editType": "1000",
               "latFormat": 1,
