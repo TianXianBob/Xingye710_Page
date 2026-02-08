@@ -454,6 +454,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "政策宣讲",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_51",
+                    "resId": 51,
+                    "thumbPath": "zcxj51.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },

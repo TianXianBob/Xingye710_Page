@@ -1,6 +1,6 @@
 {
   "data": {
-    "resId": 50,
+    "resId": 51,
     "type": 2,
     "canvas": {
       "width": 215,
@@ -27,10 +27,10 @@
           "bgImg": "",
           "textPieces": [
             {
-              "x": 76.5,
-              "y": 14.5,
-              "width": 109,
-              "height": 26,
+              "x": 52.5,
+              "y": 33.5,
+              "width": 135,
+              "height": 28.5,
               "type": 0,
               "editType": "1000",
               "latFormat": 1,
@@ -41,10 +41,10 @@
               "angle": 0,
               "offsetX": 0,
               "offsetY": 0,
-              "text": "科普下乡",
+              "text": "政策宣讲",
               "textAlign": 1,
               "fontName": "",
-              "fontSize": 29,
+              "fontSize": 37,
               "maxCount": 50,
               "lineCount": 1,
               "lineSpace": 0,
@@ -61,16 +61,16 @@
           ],
           "imagePieces": [
             {
-              "x": 2.5,
-              "y": 0.5,
-              "width": 196,
-              "height": 62.5,
+              "x": 2,
+              "y": 1.5,
+              "width": 202,
+              "height": 61,
               "verticalFlip": 0,
               "horizonFlip": 0,
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_50/img_rect_1.png",
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_51/img_rect_2.png",
               "layoutMode": 0
             }
           ],
