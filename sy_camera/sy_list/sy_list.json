@@ -464,6 +464,16 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
+                },
+                {
+                    "syName": "义诊下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_52",
+                    "resId": 52,
+                    "thumbPath": "yzxx52.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
                 }
             ]
         },
