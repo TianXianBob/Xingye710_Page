@@ -17,7 +17,7 @@
           "x": 0,
           "y": 0,
           "width": 215,
-          "height": 51.5,
+          "height": 64,
           "color": {
             "red": 0,
             "green": 48,
@@ -44,7 +44,7 @@
               "text": "农技下乡",
               "textAlign": 1,
               "fontName": "",
-              "fontSize": 33,
+              "fontSize": 28,
               "maxCount": 50,
               "lineCount": 1,
               "lineSpace": 0,
