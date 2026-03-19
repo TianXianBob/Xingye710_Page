@@ -16,6 +16,7 @@
         {
           "x": 0,
           "y": 0,
+          "isLogo": 1,
           "width": 215,
           "height": 65,
           "color": {
