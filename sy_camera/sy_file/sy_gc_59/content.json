@@ -89,6 +89,7 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
+                            "isLogo": 1,
                             "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_05/img_rect_1.png",
                             "layoutMode": 0
                         }
