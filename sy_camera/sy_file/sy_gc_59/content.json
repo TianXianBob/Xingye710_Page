@@ -17,7 +17,13 @@
                 "angle": 0,
                 "isLogo": 1,
                 "path": "",
-                "layoutMode": 0
+                "layoutMode": 0,
+                "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0.5
+                    }
             },
             "editType": "1111"
         },
