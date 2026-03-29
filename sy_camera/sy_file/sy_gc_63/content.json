@@ -1,29 +1,28 @@
 {
   "data": {
-    "resId": 57,
+    "resId": 63,
     "type": 2,
     "logo": {
             "position": 0,
             "hasBorder": 0,
             "imagePiece": {
-                "x": 5.5,
-                "y": 2,
-                "width": 153.5,
-                "height": 62,
-                "verticalFlip": 0,
-                "horizonFlip": 0,
-                "offsetX": 0,
-                "offsetY": 0,
-                "angle": 0,
-                "isLogo": 1,
-                "path": "http://aishuiying.com/sy_camera/sy_logo/logo/transport/shunfengsuyun.png",
-                "layoutMode": 0
+              "x": 2.5,
+              "y": 19,
+              "width": 149,
+              "height": 42,
+              "verticalFlip": 0,
+              "horizonFlip": 0,
+              "offsetX": 0,
+              "offsetY": 0,
+              "angle": 0,
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_47/img_rect_3.png",
+              "layoutMode": 0
             },
             "editType": "1111"
         },
     "canvas": {
       "width": 215,
-      "height": 100.5,
+      "height": 104,
       "cornerRadius": 0,
       "color": {
         "red": 64,
@@ -32,12 +31,11 @@
         "alpha": 0
       },
       "rects": [
-
         {
           "x": 0,
-          "y": 10.5,
+          "y": 9.5,
           "width": 215,
-          "height": 70,
+          "height": 64.5,
           "color": {
             "red": 255,
             "green": 255,
@@ -53,7 +51,7 @@
                 "x": 10,
                 "y": 0,
                 "width": 205,
-                "height": 19,
+                "height": 15.5,
                 "type": 1,
                 "editType": "1100",
                 "latFormat": 1,
@@ -98,7 +96,7 @@
                 "x": 10,
                 "y": 0,
                 "width": 205,
-                "height": 19,
+                "height": 15.5,
                 "type": 3,
                 "editType": "1111",
                 "latFormat": 1,
@@ -143,7 +141,7 @@
                 "x": 10,
                 "y": 0,
                 "width": 205,
-                "height": 19,
+                "height": 15.5,
                 "type": 2,
                 "editType": "1101",
                 "latFormat": 1,
@@ -194,7 +192,7 @@
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_23/img_rect_10.png",
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_47/img_rect_4.png",
               "layoutMode": 0
             }
           ],
@@ -202,9 +200,9 @@
         },
         {
           "x": 0,
-          "y": 80.5,
+          "y": 74,
           "width": 215,
-          "height": 20,
+          "height": 30,
           "color": {
             "red": 255,
             "green": 255,
@@ -246,8 +244,8 @@
               "textPiece": {
                 "x": 10,
                 "y": 0,
-                "width": 205,
-                "height": 19,
+                "width": 200,
+                "height": 18.5,
                 "type": 0,
                 "editType": "1111",
                 "latFormat": 1,
@@ -298,7 +296,7 @@
               "offsetX": 0,
               "offsetY": 0,
               "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_23/img_rect_10.png",
+              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_47/img_rect_4.png",
               "layoutMode": 0
             }
           ],
