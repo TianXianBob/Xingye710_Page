@@ -6,7 +6,7 @@
             "position": 0,
             "hasBorder": 0,
             "imagePiece": {
-                "x": 6,
+              "x": 6,
               "y": 9,
               "width": 158.5,
               "height": 53,
@@ -19,7 +19,7 @@
               "layoutMode": 0
             },
             "editType": "1111"
-    },
+        },
     "canvas": {
       "width": 215,
       "height": 104,
@@ -200,7 +200,7 @@
         },
         {
           "x": 0,
-          "y": 133,
+          "y": 74,
           "width": 215,
           "height": 30,
           "color": {
