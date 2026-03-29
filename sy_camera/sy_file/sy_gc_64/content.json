@@ -33,36 +33,6 @@
       "rects": [
         {
           "x": 0,
-          "y": 0,
-          "width": 215,
-          "height": 65,
-          "color": {
-            "red": 255,
-            "green": 255,
-            "blue": 255,
-            "alpha": 0
-          },
-          "bgImg": "",
-          "textPieces": [],
-          "imagePieces": [
-            {
-              "x": 3.5,
-              "y": 0,
-              "width": 139,
-              "height": 62.5,
-              "verticalFlip": 0,
-              "horizonFlip": 0,
-              "offsetX": 0,
-              "offsetY": 0,
-              "angle": 0,
-              "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_48/img_rect_1.png",
-              "layoutMode": 0
-            }
-          ],
-          "layoutMode": 1
-        },
-        {
-          "x": 0,
           "y": 9.5,
           "width": 215,
           "height": 64.5,
