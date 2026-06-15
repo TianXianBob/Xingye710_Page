@@ -4,7 +4,7 @@
         "type": 2,
         "canvas": {
             "width": 206,
-            "height": 111,
+            "height": 112,
             "cornerRadius": 9,
             "color": {
                 "red": 64,
@@ -55,7 +55,8 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 1
-                            }
+                            },
+                            "layoutMode": 1
                         }
                     ],
                     "imagePieces": [
@@ -69,13 +70,15 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_16/img_rect_2.png"
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_16/img_rect_2.png",
+                            "layoutMode": 1
                         }
-                    ]
+                    ],
+                    "layoutMode": 1
                 },
                 {
                     "x": 0,
-                    "y": 29,
+                    "y": 30,
                     "width": 206,
                     "height": 82,
                     "color": {
@@ -93,8 +96,8 @@
                     },
                     "cells": [
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 5,
                                 "y": 0,
@@ -102,7 +105,7 @@
                                 "height": 13,
                                 "type": 1,
                                 "editType": "1100",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd EEEE HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -126,7 +129,8 @@
                                     "green": 0,
                                     "blue": 0,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
                             "bgImg": "",
                             "color": {
@@ -137,8 +141,8 @@
                             }
                         },
                         {
-                            "topPadding" : 0,
-                            "bottomPadding" : 4,
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 5,
                                 "y": 0,
@@ -146,7 +150,7 @@
                                 "height": 13,
                                 "type": 3,
                                 "editType": "1111",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -170,9 +174,9 @@
                                     "green": 0,
                                     "blue": 0,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
-                           
                             "bgImg": "",
                             "color": {
                                 "red": 255,
@@ -181,16 +185,17 @@
                                 "alpha": 0
                             }
                         },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 4,
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 4,
                             "textPiece": {
                                 "x": 5,
                                 "y": 0,
                                 "width": 195,
                                 "height": 13,
                                 "type": 2,
-                                "editType": "1110",
-                                "showType" : "1",
+                                "editType": "1101",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -214,9 +219,9 @@
                                     "green": 0,
                                     "blue": 0,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
-                         
                             "bgImg": "",
                             "color": {
                                 "red": 255,
@@ -225,8 +230,9 @@
                                 "alpha": 0
                             }
                         },
-                        { "topPadding" : 0,
-                            "bottomPadding" : 0,
+                        {
+                            "topPadding": 0,
+                            "bottomPadding": 0,
                             "textPiece": {
                                 "x": 5,
                                 "y": 0,
@@ -234,7 +240,7 @@
                                 "height": 13,
                                 "type": 4,
                                 "editType": "1111",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd E HH:mm",
                                 "weatherFormat": "weather，temperature",
@@ -258,9 +264,9 @@
                                     "green": 0,
                                     "blue": 0,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
-                           
                             "bgImg": "",
                             "color": {
                                 "red": 255,
@@ -269,16 +275,17 @@
                                 "alpha": 0
                             }
                         }
-                        
                     ],
                     "textPieces": [
 
                     ],
                     "imagePieces": [
 
-                    ]
+                    ],
+                    "layoutMode": 1
                 }
             ]
-        }
+        },
+        "version": "0.0.1"
     }
 }

@@ -1,0 +1,284 @@
+{
+    "data": {
+        "resId": 17,
+        "type": 2,
+        "canvas": {
+            "width": 206,
+            "height": 93,
+            "cornerRadius": 9,
+            "color": {
+                "red": 64,
+                "green": 85,
+                "blue": 199,
+                "alpha": 0
+            },
+            "rects": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 206,
+                    "height": 30,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 6,
+                            "y": 8.5,
+                            "width": 194,
+                            "height": 16.5,
+                            "type": 0,
+                            "editType": "1101",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd HH:mm:ss",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "电路巡检",
+                            "textAlign": 0,
+                            "fontName": "",
+                            "fontSize": 14,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "width": 206,
+                            "height": 30,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_17/img_rect_1.png"
+                        }
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 30,
+                    "width": 206,
+                    "height": 62.5,
+                    "color": {
+                        "red": 62,
+                        "green": 59,
+                        "blue": 56,
+                        "alpha": 0.5
+                    },
+                    "bgImg": "",
+                    "cellInset": {
+                        "top": 4,
+                        "bottom": 4,
+                        "left": 0,
+                        "right": 0
+                    },
+                    "cells": [
+                        {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 5,
+                                "y": 0,
+                                "width": 195,
+                                "height": 15.5,
+                                "type": 1,
+                                "editType": "1100",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd EEEE HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "时间",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding" : 0,
+                            "bottomPadding" : 4,
+                            "textPiece": {
+                                "x": 5,
+                                "y": 0,
+                                "width": 195,
+                                "height": 15.5,
+                                "type": 3,
+                                "editType": "1111",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "天气",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                           
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 0,
+                            "textPiece": {
+                                "x": 5,
+                                "y": 0,
+                                "width": 195,
+                                "height": 15.5,
+                                "type": 2,
+                                "editType": "1110",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "地点",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                         
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        { "topPadding" : 0,
+                            "bottomPadding" : 0,
+                            "textPiece": {
+                                "x": 5,
+                                "y": 0,
+                                "width": 196,
+                                "height": 15.5,
+                                "type": 4,
+                                "editType": "0111",
+                                "showType" : "1",
+                                "latFormat": 1,
+                                "timeFormat": "yyyy.MM.dd E HH:mm",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "经纬度",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12.5,
+                                "maxCount": 50,
+                                "lineCount": 0,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                           
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                        
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+
+                    ]
+                }
+            ]
+        }
+    }
+}

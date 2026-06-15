@@ -4,7 +4,7 @@
         "type": 2,
         "canvas": {
             "width": 196,
-            "height": 100,
+            "height": 98,
             "cornerRadius": 9,
             "color": {
                 "red": 64,
@@ -41,7 +41,7 @@
                             "angle": 0,
                             "offsetX": 0,
                             "offsetY": 0,
-                            "text": "工程记录",
+                            "text": "工程验收",
                             "textAlign": 1,
                             "fontName": "",
                             "fontSize": 15,
@@ -55,7 +55,8 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 1
-                            }
+                            },
+                            "layoutMode": 1
                         }
                     ],
                     "imagePieces": [
@@ -69,9 +70,11 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_05/img_rect_1.png"
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_05/img_rect_1.png",
+                            "layoutMode": 0
                         }
-                    ]
+                    ],
+                    "layoutMode": 1
                 },
                 {
                     "x": 0,
@@ -94,7 +97,7 @@
                                 "height": 15,
                                 "type": 0,
                                 "editType": "1111",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "E",
                                 "weatherFormat": "weather，temperature",
@@ -118,7 +121,8 @@
                                     "green": 0,
                                     "blue": 0,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
                             "bgImg": "",
                             "color": {
@@ -137,7 +141,7 @@
                                 "height": 15,
                                 "type": 1,
                                 "editType": "1100",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
                                 "weatherFormat": "weather，temperature",
@@ -160,7 +164,8 @@
                                     "green": 0,
                                     "blue": 0,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
                             "bgImg": "",
                             "color": {
@@ -178,7 +183,7 @@
                                 "height": 15,
                                 "type": 3,
                                 "editType": "1111",
-                                "showType" : "1",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
                                 "weatherFormat": "weather，temperature",
@@ -202,7 +207,8 @@
                                     "green": 0,
                                     "blue": 0,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
                             "bgImg": "",
                             "color": {
@@ -220,8 +226,8 @@
                                 "height": 15,
                                 "type": 2,
                                 "name": "地      点",
-                                "editType": "1110",
-                                "showType" : "1",
+                                "editType": "1101",
+                                "showType": "1",
                                 "latFormat": 1,
                                 "timeFormat": "yyyy.MM.dd",
                                 "weatherFormat": "weather，temperature",
@@ -244,7 +250,8 @@
                                     "green": 0,
                                     "blue": 0,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
                             "bgImg": "",
                             "color": {
@@ -260,9 +267,11 @@
                     ],
                     "imagePieces": [
 
-                    ]
+                    ],
+                    "layoutMode": 1
                 }
             ]
-        }
+        },
+        "version": "0.0.1"
     }
 }

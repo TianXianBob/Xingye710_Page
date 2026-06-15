@@ -276,11 +276,161 @@
                     "thumbHeight": 240
                 },
                 {
+                    "syName": "手臂训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_34",
+                    "resId": 34,
+                    "thumbPath": "shoubixunlianri40.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "胸部训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_35",
+                    "resId": 35,
+                    "thumbPath": "xiongbuxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "背部训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_36",
+                    "resId": 36,
+                    "thumbPath": "beibuxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "肩部训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_37",
+                    "resId": 37,
+                    "thumbPath": "jianbuxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "腿部训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_38",
+                    "resId": 38,
+                    "thumbPath": "tuibuxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "有氧训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_39",
+                    "resId": 39,
+                    "thumbPath": "youyangxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "力量训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_40",
+                    "resId": 40,
+                    "thumbPath": "liliangxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "食品留样",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_41",
+                    "resId": 41,
+                    "thumbPath": "shipinliuyang41.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
                     "syName": "闭店检查",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_33",
                     "resId": 33,
                     "thumbPath": "bidianjiancha39.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "采购",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_42",
+                    "resId": 42,
+                    "thumbPath": "caigou42.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "盘点",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_43",
+                    "resId": 43,
+                    "thumbPath": "pandian43.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "收市检查",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_44",
+                    "resId": 44,
+                    "thumbPath": "shoushijiancha44.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "小象超市",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_45",
+                    "resId": 45,
+                    "thumbPath": "1xiaoxiang45.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "多多买菜",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_46",
+                    "resId": 46,
+                    "thumbPath": "2duoduo46.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "叮咚买菜",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_47",
+                    "resId": 47,
+                    "thumbPath": "3dingdong47.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "盒马生鲜",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_48",
+                    "resId": 48,
+                    "thumbPath": "4hema48.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
@@ -378,7 +528,8 @@
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240
-                },{
+                },
+                {
                     "syName": "现场拍照",
                     "jsonName": "content.json",
                     "folderName": "sy_gc_31",
@@ -589,6 +740,207 @@
                     "folderName": "sy_gc_17",
                     "resId": 17,
                     "thumbPath": "dianluxunjian22.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                }
+            ]
+        },
+        {
+            "type": 8,
+            "dot": false,
+            "title": "健身打卡",
+            "shuiYings": [
+                {
+                    "syName": "手臂训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_34",
+                    "resId": 34,
+                    "thumbPath": "shoubixunlianri40.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "胸部训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_35",
+                    "resId": 35,
+                    "thumbPath": "xiongbuxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "背部训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_36",
+                    "resId": 36,
+                    "thumbPath": "beibuxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "肩部训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_37",
+                    "resId": 37,
+                    "thumbPath": "jianbuxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "腿部训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_38",
+                    "resId": 38,
+                    "thumbPath": "tuibuxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "有氧训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_39",
+                    "resId": 39,
+                    "thumbPath": "youyangxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "力量训练日",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_40",
+                    "resId": 40,
+                    "thumbPath": "liliangxunlian.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                }
+            ]
+        },
+        {
+            "type": 9,
+            "dot": false,
+            "title": "餐饮",
+            "shuiYings": [
+                {
+                    "syName": "闭店检查",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_33",
+                    "resId": 33,
+                    "thumbPath": "bidianjiancha39.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "食品留样",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_41",
+                    "resId": 41,
+                    "thumbPath": "shipinliuyang41.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "采购",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_42",
+                    "resId": 42,
+                    "thumbPath": "caigou42.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "盘点",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_43",
+                    "resId": 42,
+                    "thumbPath": "pandian43.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                }
+            ]
+        },
+{
+            "type": 10,
+            "dot": false,
+            "title": "政务记录",
+            "shuiYings": [
+                 {
+                    "syName": "农技下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_49",
+                    "resId": 49,
+                    "thumbPath": "nongjixiaxiang49.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "科普下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_50",
+                    "resId": 50,
+                    "thumbPath": "kepuxiaxiang50.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "政策宣讲",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_51",
+                    "resId": 51,
+                    "thumbPath": "zcxj51.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "义诊下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_52",
+                    "resId": 52,
+                    "thumbPath": "yzxx52.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "禁毒下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_53",
+                    "resId": 53,
+                    "thumbPath": "jdxx53.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "普法下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_54",
+                    "resId": 54,
+                    "thumbPath": "pfxx54.png",
+                    "version": "0.0.1",
+                    "thumbWidth": 480,
+                    "thumbHeight": 240
+                },
+                {
+                    "syName": "文化下乡",
+                    "jsonName": "content.json",
+                    "folderName": "sy_gc_55",
+                    "resId": 55,
+                    "thumbPath": "whxx55.png",
                     "version": "0.0.1",
                     "thumbWidth": 480,
                     "thumbHeight": 240

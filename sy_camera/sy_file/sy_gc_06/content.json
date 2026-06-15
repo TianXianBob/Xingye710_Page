@@ -4,7 +4,7 @@
         "type": 1,
         "canvas": {
             "width": 257,
-            "height": 117,
+            "height": 90,
             "cornerRadius": 0,
             "color": {
                 "red": 64,
@@ -15,9 +15,9 @@
             "rects": [
                 {
                     "x": 0,
-                    "y": 22,
+                    "y": 10,
                     "width": 257,
-                    "height": 49.5,
+                    "height": 50,
                     "color": {
                         "red": 255,
                         "green": 255,
@@ -55,7 +55,8 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 1
-                            }
+                            },
+                            "layoutMode": 0
                         },
                         {
                             "x": 100,
@@ -86,7 +87,8 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 1
-                            }
+                            },
+                            "layoutMode": 0
                         },
                         {
                             "x": 100,
@@ -117,7 +119,8 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 1
-                            }
+                            },
+                            "layoutMode": 0
                         },
                         {
                             "x": 150,
@@ -148,7 +151,8 @@
                                 "green": 255,
                                 "blue": 255,
                                 "alpha": 1
-                            }
+                            },
+                            "layoutMode": 0
                         }
                     ],
                     "imagePieces": [
@@ -162,13 +166,15 @@
                             "offsetX": 0,
                             "offsetY": 0,
                             "angle": 0,
-                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_06/img_rect_2.png"
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_06/img_rect_2.png",
+                            "layoutMode": 0
                         }
-                    ]
+                    ],
+                    "layoutMode": 1
                 },
                 {
                     "x": 0,
-                    "y": 74,
+                    "y": 60,
                     "width": 257,
                     "height": 25,
                     "cornerRadius": 0,
@@ -187,7 +193,7 @@
                                 "width": 212,
                                 "height": 21,
                                 "type": 2,
-                                "editType": "1100",
+                                "editType": "1101",
                                 "latFormat": 1,
                                 "timeFormat": "E",
                                 "weatherFormat": "weather，temperature",
@@ -210,10 +216,11 @@
                                     "green": 255,
                                     "blue": 255,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
                             "imagePiece": {
-
+                                "layoutMode": 0
                             },
                             "bgImg": "",
                             "color": {
@@ -253,10 +260,11 @@
                                     "green": 255,
                                     "blue": 255,
                                     "alpha": 1
-                                }
+                                },
+                                "layoutMode": 1
                             },
                             "imagePiece": {
-
+                                "layoutMode": 0
                             },
                             "bgImg": "",
                             "color": {
@@ -272,9 +280,11 @@
                     ],
                     "imagePieces": [
 
-                    ]
+                    ],
+                    "layoutMode": 1
                 }
             ]
-        }
+        },
+        "version": "0.0.1"
     }
 }

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "resId": 58,
+    "type": 2,
+    "logo": {
+            "position": 0,
+            "hasBorder": 0,
+            "imagePiece": {
+                "x": 5.5,
+                "y": 2,
+                "width": 153.5,
+                "height": 62,
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "angle": 0,
+                "isLogo": 1,
+                "path": "http://aishuiying.com/sy_camera/sy_logo/logo/other/xianchangpaizhao.png",
+                "layoutMode": 0
+            },
+            "editType": "1111"
+        },
+    "canvas": {
+      "width": 215,
+      "height": 92.5,
+      "cornerRadius": 9,
+      "color": {
+        "red": 64,
+        "green": 85,
+        "blue": 199,
+        "alpha": 0
+      },
+      "rects": [
+        {
+          "x": 0,
+          "y": 7.5,
+          "width": 215,
+          "height": 83,
+          "color": {
+            "red": 200,
+            "green": 198,
+            "blue": 197,
+            "alpha": 0
+          },
+          "bgImg": "",
+          "cellInset": {
+            "top": 4,
+            "bottom": 4,
+            "left": 0,
+            "right": 0
+          },
+          "cells": [
+            {
+              "topPadding": 0,
+              "bottomPadding": 4,
+              "textPiece": {
+                "x": 4.5,
+                "y": 0,
+                "width": 210.5,
+                "height": 17,
+                "type": 1,
+                "editType": "1100",
+                "showType": "1",
+                "latFormat": 1,
+                "timeFormat": "yyyy/MM/dd HH:mm",
+                "weatherFormat": "weather，temperature",
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "angle": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "name": "拍摄时间",
+                "text": "",
+                "textAlign": 0,
+                "fontName": "",
+                "fontSize": 14,
+                "maxCount": 50,
+                "lineCount": 1,
+                "lineSpace": 0,
+                "characterSpace": 0,
+                "italic": 0,
+                "color": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 1
+                },
+                "layoutMode": 1
+              },
+              "bgImg": "",
+              "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 0
+              }
+            },
+            {
+              "topPadding": 0,
+              "bottomPadding": 4,
+              "textPiece": {
+                "x": 4.5,
+                "y": 0,
+                "width": 210.5,
+                "height": 17,
+                "type": 2,
+                "editType": "1101",
+                "showType": "1",
+                "latFormat": 1,
+                "timeFormat": "yyyy.MM.dd E HH:mm",
+                "weatherFormat": "weather，temperature",
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "angle": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "name": "地点",
+                "text": "",
+                "textAlign": 0,
+                "fontName": "",
+                "fontSize": 14,
+                "maxCount": 50,
+                "lineCount": 1,
+                "lineSpace": 0,
+                "characterSpace": 0,
+                "italic": 0,
+                "color": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 1
+                },
+                "layoutMode": 1
+              },
+              "bgImg": "",
+              "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 0
+              }
+            },
+            {
+              "topPadding": 0,
+              "bottomPadding": 4,
+              "textPiece": {
+                "x": 4.5,
+                "y": 0,
+                "width": 210.5,
+                "height": 17,
+                "type": 4,
+                "editType": "1111",
+                "showType": "1",
+                "latFormat": 1,
+                "timeFormat": "yyyy.MM.dd E HH:mm",
+                "weatherFormat": "weather，temperature",
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "angle": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "name": "经纬度",
+                "text": "",
+                "textAlign": 0,
+                "fontName": "",
+                "fontSize": 14,
+                "maxCount": 50,
+                "lineCount": 1,
+                "lineSpace": 0,
+                "characterSpace": 0,
+                "italic": 0,
+                "color": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 1
+                },
+                "layoutMode": 1
+              },
+              "bgImg": "",
+              "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 0
+              }
+            },
+            {
+              "topPadding": 0,
+              "bottomPadding": 0,
+              "textPiece": {
+                "x": 4.5,
+                "y": 0,
+                "width": 210.5,
+                "height": 17,
+                "type": 3,
+                "editType": "1111",
+                "showType": "1",
+                "latFormat": 1,
+                "timeFormat": "yyyy.MM.dd E HH:mm",
+                "weatherFormat": "weather，temperature",
+                "verticalFlip": 0,
+                "horizonFlip": 0,
+                "angle": 0,
+                "offsetX": 0,
+                "offsetY": 0,
+                "name": "天气",
+                "text": "",
+                "textAlign": 0,
+                "fontName": "",
+                "fontSize": 14,
+                "maxCount": 50,
+                "lineCount": 1,
+                "lineSpace": 0,
+                "characterSpace": 0,
+                "italic": 0,
+                "color": {
+                  "red": 255,
+                  "green": 255,
+                  "blue": 255,
+                  "alpha": 1
+                },
+                "layoutMode": 1
+              },
+              "bgImg": "",
+              "color": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 0
+              }
+            }
+          ],
+          "textPieces": [],
+          "imagePieces": [],
+          "layoutMode": 1
+        }
+      ]
+    },
+    "version": "0.0.1"
+  }
+}

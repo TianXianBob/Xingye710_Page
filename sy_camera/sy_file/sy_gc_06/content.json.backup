@@ -1,0 +1,280 @@
+{
+    "data": {
+        "resId": 6,
+        "type": 1,
+        "canvas": {
+            "width": 257,
+            "height": 117,
+            "cornerRadius": 0,
+            "color": {
+                "red": 64,
+                "green": 85,
+                "blue": 199,
+                "alpha": 0
+            },
+            "rects": [
+                {
+                    "x": 0,
+                    "y": 22,
+                    "width": 257,
+                    "height": 49.5,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 10,
+                            "y": 6,
+                            "width": 80,
+                            "height": 35,
+                            "type": 1,
+                            "editType": "1100",
+                            "latFormat": 1,
+                            "timeFormat": "HH:mm",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "",
+                            "textAlign": 0,
+                            "fontName": "xiaowei",
+                            "fontSize": 40,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        },
+                        {
+                            "x": 100,
+                            "y": 4.5,
+                            "width": 140,
+                            "height": 16,
+                            "type": 1,
+                            "editType": "1100",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy-MM-dd",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "",
+                            "textAlign": 0,
+                            "fontName": "",
+                            "fontSize": 15,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        },
+                        {
+                            "x": 100,
+                            "y": 26,
+                            "width": 50,
+                            "height": 19,
+                            "type": 1,
+                            "editType": "1100",
+                            "latFormat": 1,
+                            "timeFormat": "EEEE",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "",
+                            "textAlign": 0,
+                            "fontName": "",
+                            "fontSize": 15,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 1,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        },
+                        {
+                            "x": 150,
+                            "y": 26,
+                            "width": 112.5,
+                            "height": 19,
+                            "type": 3,
+                            "editType": "1100",
+                            "latFormat": 1,
+                            "timeFormat": "E",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "",
+                            "textAlign": 0,
+                            "fontName": "",
+                            "fontSize": 14,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 90,
+                            "y": 7.5,
+                            "width": 2.5,
+                            "height": 35,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_06/img_rect_2.png"
+                        }
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 74,
+                    "width": 257,
+                    "height": 25,
+                    "cornerRadius": 0,
+                    "color": {
+                        "red": 255,
+                        "green": 255,
+                        "blue": 255,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "cells": [
+                        {
+                            "textPiece": {
+                                "x": 12.5,
+                                "y": 1.5,
+                                "width": 212,
+                                "height": 21,
+                                "type": 2,
+                                "editType": "1100",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "textPiece": {
+                                "x": 12.5,
+                                "y": 1.5,
+                                "width": 212,
+                                "height": 21,
+                                "type": 4,
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 15,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+
+                    ]
+                }
+            ]
+        }
+    }
+}

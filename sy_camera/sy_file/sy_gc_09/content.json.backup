@@ -1,0 +1,333 @@
+{
+    "data": {
+        "resId": 9,
+        "type": 2,
+        "canvas": {
+            "width": 185,
+            "height": 132,
+            "cornerRadius": 9,
+            "color": {
+                "red": 64,
+                "green": 85,
+                "blue": 199,
+                "alpha": 0
+            },
+            "rects": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "width": 185,
+                    "height": 54,
+                    "color": {
+                        "red": 60,
+                        "green": 144,
+                        "blue": 68,
+                        "alpha": 0
+                    },
+                    "bgImg": "",
+                    "textPieces": [
+                        {
+                            "x": 6.5,
+                            "y": 6,
+                            "width": 172,
+                            "height": 21.5,
+                            "type": 0,
+                            "editType": "1101",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy.MM.dd",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "环境治理",
+                            "textAlign": 0,
+                            "fontName": "",
+                            "fontSize": 19,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        },
+                        {
+                            "x": 6.5,
+                            "y": 28.5,
+                            "width": 123,
+                            "height": 21.5,
+                            "type": 1,
+                            "editType": "1100",
+                            "latFormat": 1,
+                            "timeFormat": "yyyy/MM/dd HH:mm",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "环境治理",
+                            "textAlign": 0,
+                            "fontName": "xiaowei",
+                            "fontSize": 18,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        },
+                        {
+                            "x": 129.5,
+                            "y": 28.5,
+                            "width": 50,
+                            "height": 21.5,
+                            "type": 1,
+                            "editType": "1100",
+                            "latFormat": 1,
+                            "timeFormat": "EEEE",
+                            "weatherFormat": "weather，temperature",
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "angle": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "text": "环境治理",
+                            "textAlign": 1,
+                            "fontName": "",
+                            "fontSize": 15.5,
+                            "maxCount": 50,
+                            "lineCount": 1,
+                            "lineSpace": 0,
+                            "characterSpace": 0,
+                            "italic": 0,
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 1
+                            }
+                        }
+                    ],
+                    "imagePieces": [
+                        {
+                            "x": 0,
+                            "y": 0,
+                            "width": 185,
+                            "height": 54,
+                            "verticalFlip": 0,
+                            "horizonFlip": 0,
+                            "offsetX": 0,
+                            "offsetY": 0,
+                            "angle": 0,
+                            "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_09/img_rect_2.png"
+                        }
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 54,
+                    "width": 185,
+                    "height": 78,
+"cellInset": {
+                        "top": 4,
+                        "bottom": 4,
+                        "left": 0,
+                        "right": 0
+                    },
+                    "color": {
+                        "red": 76,
+                        "green": 86,
+                        "blue": 101,
+                        "alpha": 0.5
+                    },
+                    "bgImg": "",
+                    "cells": [
+                        {
+                            "topPadding" : 0,
+                            "bottomPadding" : 2,
+                            "textPiece": {
+                                "x": 23,
+                                "y": 0,
+                                "width": 164,
+                                "height": 22,
+                                "type": 2,
+                                "editType": "1100",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+                                "x": 8,
+                                "y": 2.5,
+                                "width": 12.5,
+                                "height": 16,
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_09/img_rect_3.png"
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding" : 0,
+                            "bottomPadding" : 2,
+                            "textPiece": {
+                                "x": 23,
+                                "y": 0,
+                                "width": 164,
+                                "height": 22,
+                                "type": 3,
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+                                "x": 8,
+                                "y": 1,
+                                "width": 12.5,
+                                "height": 16,
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_09/img_rect_4.png"
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        },
+                        {
+                            "topPadding" : 0,
+                            "bottomPadding" : 2,
+                            "textPiece": {
+                                "x": 23,
+                                "y": 0,
+                                "width": 164,
+                                "height": 22,
+                                "type": 4,
+                                "editType": "1111",
+                                "latFormat": 1,
+                                "timeFormat": "E",
+                                "weatherFormat": "weather，temperature",
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "angle": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "name": "",
+                                "text": "",
+                                "textAlign": 0,
+                                "fontName": "",
+                                "fontSize": 12,
+                                "maxCount": 50,
+                                "lineCount": 1,
+                                "lineSpace": 0,
+                                "characterSpace": 0,
+                                "italic": 0,
+                                "color": {
+                                    "red": 255,
+                                    "green": 255,
+                                    "blue": 255,
+                                    "alpha": 1
+                                }
+                            },
+                            "imagePiece": {
+                                "x": 8,
+                                "y": 1,
+                                "width": 12.5,
+                                "height": 16,
+                                "verticalFlip": 0,
+                                "horizonFlip": 0,
+                                "offsetX": 0,
+                                "offsetY": 0,
+                                "angle": 0,
+                                "path": "http://aishuiying.com/sy_camera/sy_file/sy_gc_09/img_rect_5.png"
+                            },
+                            "bgImg": "",
+                            "color": {
+                                "red": 255,
+                                "green": 255,
+                                "blue": 255,
+                                "alpha": 0
+                            }
+                        }
+                    ],
+                    "textPieces": [
+
+                    ],
+                    "imagePieces": [
+
+                    ]
+                }
+            ]
+        }
+    }
+}
